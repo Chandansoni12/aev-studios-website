@@ -17,7 +17,7 @@ export default function HomePage() {
         id="framer-main-bundle"
         type="module"
         src="/assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/script_main.Cn_PMwWs.mjs"
-        strategy="lazyOnload"
+        strategy="afterInteractive"
       />
     </>
   );

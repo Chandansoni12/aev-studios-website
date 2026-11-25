@@ -2,6 +2,19 @@
 (function() {
   if (typeof document === 'undefined') return;
 
+  // 0. Always start at Hero section on reload (disable browser scroll restoration)
+  try {
+    if ('scrollRestoration' in history) {
+      history.scrollRestoration = 'manual';
+    }
+    if (!window.location.hash) {
+      window.scrollTo(0, 0);
+      document.addEventListener('framer:pageview', function() {
+        if (!window.location.hash) window.scrollTo(0, 0);
+      }, { once: true });
+    }
+  } catch(e) {}
+
   // 1. Environment definition
   window.process = { ...window.process, env: { ...window.process?.env, NODE_ENV: 'production' } };
 
