@@ -128,6 +128,23 @@ a[href*="#reviews"] {
   display: none !important;
 }
 
+/* Hide Numbers / Statistics section and close vertical gap */
+#statistics,
+section[data-framer-name="Section - Brands and Statistics"],
+.framer-75zw9r {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  min-height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+
+#services {
+  padding-top: 40px !important;
+}
+
 /* ===== Mobile & Responsive Safeguards (<= 809.98px) ===== */
 html, body {
   overflow-x: hidden !important;
@@ -142,10 +159,40 @@ html, body {
     overflow-x: hidden !important;
   }
 
-  /* Hero section mobile spacing & media */
+  /* Hero section mobile spacing, big AEV STUDIOS title & media */
   #hero {
     padding-left: 16px !important;
     padding-right: 16px !important;
+  }
+
+  #hero .framer-8ck2yw {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  #hero .framer-8ck2yw > .ssr-variant.hidden-otwvw4 {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  #hero .framer-8ck2yw > .ssr-variant.hidden-zgsw7e {
+    display: none !important;
+  }
+
+  #hero svg.framer-d1vi1q {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  #hero svg.framer-d1vi1q h1 {
+    font-size: 138px !important;
+    --framer-font-size: 138px !important;
+    letter-spacing: -0.06em !important;
+    --framer-letter-spacing: -0.06em !important;
+    line-height: 0.95 !important;
+    text-align: center !important;
   }
 
   #hero-media,
