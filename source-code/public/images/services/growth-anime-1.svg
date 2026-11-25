@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <radialGradient id="mintGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C6E7C8" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0F221B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mintBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11241C"/>
+      <stop offset="50%" stop-color="#173428"/>
+      <stop offset="100%" stop-color="#0A1813"/>
+    </linearGradient>
+    <linearGradient id="mintGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E2F7E4"/>
+      <stop offset="100%" stop-color="#8CD392"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="800" rx="36" fill="url(#mintBg)"/>
+  <circle cx="600" cy="400" r="390" fill="url(#mintGlow)"/>
+
+  <!-- Command Grid Perspective Lines -->
+  <g stroke="#C6E7C8" stroke-opacity="0.12" stroke-width="1.5">
+    <line x1="150" y1="700" x2="600" y2="400"/>
+    <line x1="350" y1="700" x2="600" y2="400"/>
+    <line x1="850" y1="700" x2="600" y2="400"/>
+    <line x1="1050" y1="700" x2="600" y2="400"/>
+    <ellipse cx="600" cy="540" rx="420" ry="90" fill="none"/>
+    <ellipse cx="600" cy="470" rx="280" ry="60" fill="none"/>
+  </g>
+
+  <!-- Anime Commander / Executive Overseeing Holographic System -->
+  <g transform="translate(600, 380)">
+    <!-- Central Floating Command Core (Hexagonal OS Engine) -->
+    <polygon points="0,-110 95,-55 95,55 0,110 -95,55 -95,-55" fill="#0D2018" stroke="#C6E7C8" stroke-width="3"/>
+    <circle r="55" fill="url(#mintGradient)"/>
+    <polygon points="0,-25 22,-12 22,12 0,25 -22,12 -22,-12" fill="#11241C"/>
+    
+    <!-- Floating Telemetry Glass Cards in 3D Perspective -->
+    <!-- Left Glass Card: Revenue & Performance -->
+    <g transform="translate(-320, -110)">
+      <rect width="220" height="170" rx="18" fill="#0C1D16" stroke="#C6E7C8" stroke-width="2" opacity="0.95"/>
+      <rect x="18" y="20" width="80" height="12" rx="6" fill="#F15A24"/>
+      <text x="18" y="65" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="14">EFFICIENCY RATE</text>
+      <text x="18" y="110" fill="#C6E7C8" font-family="'Space Grotesk', sans-serif" font-weight="900" font-size="34">99.8%</text>
+      <!-- Trend Wave -->
+      <polyline points="20,145 55,135 90,148 125,120 160,132 195,115" fill="none" stroke="#C6E7C8" stroke-width="3"/>
+    </g>
+
+    <!-- Right Glass Card: Cross-Tool Integrations -->
+    <g transform="translate(130, -110)">
+      <rect width="220" height="170" rx="18" fill="#0C1D16" stroke="#DCCBFA" stroke-width="2" opacity="0.95"/>
+      <rect x="18" y="20" width="70" height="12" rx="6" fill="#DCCBFA"/>
+      <text x="18" y="65" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="14">SYNCED HUBS</text>
+      <g transform="translate(18, 85)">
+        <circle cx="12" cy="12" r="8" fill="#C6E7C8"/>
+        <text x="30" y="17" fill="#FAF7EF" font-size="13">CRM Gateway</text>
+      </g>
+      <g transform="translate(18, 120)">
+        <circle cx="12" cy="12" r="8" fill="#F15A24"/>
+        <text x="30" y="17" fill="#FAF7EF" font-size="13">Finance &amp; Ops</text>
+      </g>
+    </g>
+
+    <!-- Center Anime Figure Silhouette in Command -->
+    <g transform="translate(0, 160)">
+      <ellipse cx="0" cy="90" rx="70" ry="18" fill="#06120E" opacity="0.7"/>
+      <!-- Figure body -->
+      <path d="M-40,80 C-40,20 -15,0 0,0 C15,0 40,20 40,80 Z" fill="#0A1813" stroke="#C6E7C8" stroke-width="2"/>
+      <circle cx="0" cy="-22" r="18" fill="#FAF7EF"/>
+      <!-- Glowing Collar -->
+      <path d="M-15,10 L0,30 L15,10 Z" fill="#C6E7C8"/>
+    </g>
+  </g>
+
+  <!-- Editorial Ribbon Bottom -->
+  <g transform="translate(600, 725)">
+    <rect x="-240" y="-24" width="480" height="48" rx="24" fill="#0C1D16" stroke="#C6E7C8" stroke-width="1.5"/>
+    <circle cx="-205" cy="0" r="7" fill="#F15A24"/>
+    <text x="-185" y="6" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="14" letter-spacing="3">EXECUTIVE CONTROL · ZERO TOOL SPRAWL</text>
+  </g>
+</svg>

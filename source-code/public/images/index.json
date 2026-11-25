@@ -1,0 +1,1551 @@
+{
+  "gsapAnimations": [],
+  "scrollTriggers": [],
+  "intersectionObservers": [],
+  "cssAnimations": [],
+  "lenis": null,
+  "aos": null,
+  "animatedElements": [],
+  "potentiallyAnimated": [
+    {
+      "tag": "html",
+      "className": "lenis",
+      "transition": "all"
+    },
+    {
+      "tag": "head",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "title",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "script",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "body",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "script",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-dYXTG framer-1yv164u",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-4NkYy framer-Nmgwh framer-BwaNn framer-vQNzi framer-klsXf framer-o3VSo framer-LejJ0 framer-zgsw7e",
+      "transition": "all"
+    },
+    {
+      "tag": "main",
+      "className": "framer-1sv2b1r",
+      "transition": "all"
+    },
+    {
+      "tag": "section",
+      "className": "framer-1kl1lo1",
+      "transition": "all"
+    },
+    {
+      "tag": "section",
+      "className": "framer-1j39tsq",
+      "transition": "all"
+    },
+    {
+      "tag": "section",
+      "className": "framer-8ck2yw",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "foreignobject",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    {
+      "tag": "h1",
+      "className": "framer-text",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-93btow",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-vm6iey",
+      "transition": "all"
+    },
+    {
+      "tag": "h1",
+      "className": "framer-text framer-styles-preset-11xnjq1",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1skk0bb-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-otwvw4",
+      "transition": "all"
+    },
+    {
+      "tag": "button",
+      "className": "framer-t38qD framer-WCIgU framer-g3sdog framer-v-g3sdog",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-1p5om0o framer-6ophp3",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-jfmibv",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-okjovb",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-151f046",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-drn9mx-container",
+      "transition": "all",
+      "transform": "matrix(0.989019, -0.147789, 0.147789, 0.989019, -46, -14.6882)"
+    },
+    {
+      "tag": "div",
+      "className": "framer-5ayKa framer-8fG5h framer-1ur60bv framer-v-1ur60bv",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1t85896-container",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "defs",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "filter",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "feturbulence",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "fedisplacementmap",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1jhn16c-container",
+      "transition": "all",
+      "transform": "matrix(1, 0, 0, 1, -46, -31.0078)"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-qm2clj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-16w97bo",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-otwvw4",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-tqofvi-container",
+      "transition": "all",
+      "transform": "matrix(0.956053, -0.293193, 0.293193, 0.956053, -41.1328, -9.56923)"
+    },
+    {
+      "tag": "div",
+      "className": "framer-5ayKa framer-8fG5h framer-1ur60bv framer-v-1ur60bv",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1t85896-container",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "defs",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "filter",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "feturbulence",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "fedisplacementmap",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1jhn16c-container",
+      "transition": "all",
+      "transform": "matrix(1, 0, 0, 1, -41.1328, -40.125)"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-qm2clj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-16w97bo",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1h224it-container",
+      "transition": "all",
+      "transform": "matrix(0.975563, -0.219719, 0.219719, 0.975563, -47.0469, -22.9333)"
+    },
+    {
+      "tag": "div",
+      "className": "framer-5ayKa framer-8fG5h framer-1ur60bv framer-v-1w64cd8",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1t85896-container",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "defs",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "filter",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "feturbulence",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "fedisplacementmap",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1jhn16c-container",
+      "transition": "all",
+      "transform": "matrix(1, 0, 0, 1, -47.0469, -47.0469)"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-qm2clj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-16w97bo",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-i5xq41",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1m9pwpb",
+      "transition": "all",
+      "transform": "matrix(1.04115, 0, 0, 1.04115, 0, 0)"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1nlaqts",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1owrvj1-container",
+      "transition": "all"
+    },
+    {
+      "tag": "video",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1d0taq8-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "section",
+      "className": "framer-kqwthz",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1ylgqnn",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1pfxbxg-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-qcWRV framer-vQNzi framer-W7LuS framer-1qvdzdc framer-v-1qvdzdc",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1lfw59q",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "img",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-7t1r7z-container",
+      "transition": "all",
+      "transform": "matrix(1, 0, 0, 1, -128.039, -121.539)"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1xcy6gu",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-qrpho1",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1exh1m5",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1vcau2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-5iyhf2-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-qcWRV framer-vQNzi framer-W7LuS framer-1qvdzdc framer-v-1qvdzdc",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1lfw59q",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "img",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-7t1r7z-container",
+      "transition": "all",
+      "transform": "matrix(1, 0, 0, 1, -128.039, -128.039)"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1xcy6gu",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-qrpho1",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1exh1m5",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1vcau2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-m9ktfy-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-qcWRV framer-vQNzi framer-W7LuS framer-1qvdzdc framer-v-1qvdzdc",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1lfw59q",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "img",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-7t1r7z-container",
+      "transition": "all",
+      "transform": "matrix(1, 0, 0, 1, -128.039, -127.492)"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1xcy6gu",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-qrpho1",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1exh1m5",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1vcau2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-c770yv-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-eNAeu framer-1fi8orq framer-v-1fi8orq",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-360cll",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-148kq99",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-18jw13q",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1ifd4y5",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-15u8zb8",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1nvr07e",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-lxc9mf",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1p6mpw3",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1wfreus",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1luj7si",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-10p4bsh",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-5vzlhi",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1tgu9cq",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-qv3hra",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-x0lb48",
+      "transition": "all"
+    },
+    {
+      "tag": "section",
+      "className": "framer-75zw9r",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-17wrqcb-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-eNAeu framer-1fi8orq framer-v-1fi8orq",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-360cll",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-148kq99",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-18jw13q",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1ifd4y5",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-15u8zb8",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1nvr07e",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-lxc9mf",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1p6mpw3",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1wfreus",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1luj7si",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-10p4bsh",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-5vzlhi",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1tgu9cq",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-qv3hra",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-x0lb48",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-xm1au2-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-pmpkh",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1e8eab7",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-l61sy6",
+      "transition": "all"
+    },
+    {
+      "tag": "h2",
+      "className": "framer-text framer-styles-preset-19b3qtg",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "span",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-otwvw4",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-a1gr2r-container",
+      "transition": "all",
+      "transform": "matrix(0.939693, -0.34202, 0.34202, 0.939693, -55.5234, -43)"
+    },
+    {
+      "tag": "div",
+      "className": "framer-5ayKa framer-8fG5h framer-1ur60bv framer-v-1w64cd8",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1t85896-container",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "defs",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "filter",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "feturbulence",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "fedisplacementmap",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1jhn16c-container",
+      "transition": "all",
+      "transform": "matrix(1, 0, 0, 1, -55.5234, -55.0547)"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-qm2clj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-16w97bo",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-jbs8gc",
+      "transition": "all"
+    }
+  ],
+  "detectedLibraries": {
+    "gsap": false,
+    "scrollTrigger": false,
+    "lenis": false,
+    "aos": false,
+    "framerMotion": true,
+    "three": false,
+    "spline": false,
+    "babylon": false,
+    "pixi": false,
+    "rive": false,
+    "lottie": false
+  },
+  "cssKeyframes": {
+    "__framer-editorbar-spinner-spin": "@keyframes __framer-editorbar-spinner-spin { \n  100% { transform: rotate(360deg); }\n}"
+  },
+  "cssVariables": {},
+  "customStyles": [],
+  "inlineStylesRaw": "",
+  "webglEffects": {
+    "hasWebGL": false,
+    "canvasCount": 0,
+    "canvases": [],
+    "custom3dElements": [],
+    "shaders": [],
+    "detected3dLibraries": []
+  }
+}

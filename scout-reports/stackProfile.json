@@ -1,0 +1,47 @@
+{
+  "detectedFrameworks": [
+    {
+      "framework": "framer",
+      "confidence": 1,
+      "signals": [
+        "framer-component-type",
+        "framer-name-attr",
+        "framer-generated-marker",
+        "framer-cdn",
+        "framer-motion-lib",
+        "framer-css-vars",
+        "framer-script-attr",
+        "framer-meta"
+      ]
+    },
+    {
+      "framework": "nextjs",
+      "confidence": 0.3,
+      "signals": [
+        "next-global-reference"
+      ]
+    },
+    {
+      "framework": "static-html",
+      "confidence": 0.2,
+      "signals": [
+        "plain-html-doctype"
+      ]
+    }
+  ],
+  "primaryFramework": "framer",
+  "primaryConfidence": 1,
+  "recommendedStrategy": "deep",
+  "hasSpaRouter": true,
+  "hasSsrHydration": true,
+  "animationLibraries": [
+    "lenis",
+    "rive"
+  ],
+  "runtimeHints": [
+    "spa-router",
+    "ssr-hydration",
+    "module-preload"
+  ],
+  "capturedAt": "2026-11-23T18:58:39.404Z"
+}

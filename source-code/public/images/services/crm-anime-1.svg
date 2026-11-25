@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <radialGradient id="blueGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F15A24" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0E1A34" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="crmBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0E1A34"/>
+      <stop offset="50%" stop-color="#132448"/>
+      <stop offset="100%" stop-color="#081022"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFA875"/>
+      <stop offset="100%" stop-color="#F15A24"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="800" rx="36" fill="url(#crmBg)"/>
+  <circle cx="600" cy="400" r="380" fill="url(#blueGlow)"/>
+
+  <!-- Pipeline Rail Tracks -->
+  <g stroke="#FAF7EF" stroke-opacity="0.15" stroke-width="2">
+    <line x1="160" y1="380" x2="1040" y2="380"/>
+    <line x1="160" y1="260" x2="1040" y2="260" stroke-dasharray="8 8"/>
+    <line x1="160" y1="500" x2="1040" y2="500" stroke-dasharray="8 8"/>
+  </g>
+
+  <!-- Stage 1: Omnichannel Lead Capture Node -->
+  <g transform="translate(280, 380)">
+    <circle r="75" fill="#09142A" stroke="#FAF7EF" stroke-width="3"/>
+    <circle r="55" fill="#13264E"/>
+    <text x="0" y="-12" text-anchor="middle" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="900" font-size="22">01</text>
+    <text x="0" y="14" text-anchor="middle" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="13">CAPTURE</text>
+    <text x="0" y="32" text-anchor="middle" fill="#C6E7C8" font-family="monospace" font-size="10">INBOUND LEAD</text>
+    <!-- Floating Tag -->
+    <rect x="-70" y="-130" width="140" height="38" rx="10" fill="#09142A" stroke="#C6E7C8" stroke-width="1.5"/>
+    <text x="0" y="-106" text-anchor="middle" fill="#C6E7C8" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="11">Form / LinkedIn Sync</text>
+  </g>
+
+  <!-- Connecting Beam 1 -> 2 -->
+  <line x1="355" y1="380" x2="515" y2="380" stroke="#F15A24" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="435" cy="380" r="8" fill="#F15A24"/>
+
+  <!-- Stage 2: AI Enrichment Centerpiece (Glowing Hexagon Engine) -->
+  <g transform="translate(600, 380)">
+    <circle r="95" fill="#09142A" stroke="#F15A24" stroke-width="4"/>
+    <polygon points="0,-60 52,-30 52,30 0,60 -52,30 -52,-30" fill="url(#orangeGrad)"/>
+    <text x="0" y="-8" text-anchor="middle" fill="#210D20" font-family="'Space Grotesk', sans-serif" font-weight="900" font-size="24">02</text>
+    <text x="0" y="18" text-anchor="middle" fill="#210D20" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="13">ENRICH</text>
+    <!-- Floating Metrics Tag -->
+    <rect x="-85" y="120" width="170" height="42" rx="12" fill="#09142A" stroke="#F15A24" stroke-width="2"/>
+    <text x="0" y="146" text-anchor="middle" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="12">AI SCORING: 98/100</text>
+  </g>
+
+  <!-- Connecting Beam 2 -> 3 -->
+  <line x1="695" y1="380" x2="845" y2="380" stroke="#C6E7C8" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="770" cy="380" r="8" fill="#C6E7C8"/>
+
+  <!-- Stage 3: Instant Intelligent Routing & Multi-Channel Sequences -->
+  <g transform="translate(920, 380)">
+    <circle r="75" fill="#09142A" stroke="#C6E7C8" stroke-width="3"/>
+    <circle r="55" fill="#13264E"/>
+    <text x="0" y="-12" text-anchor="middle" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="900" font-size="22">03</text>
+    <text x="0" y="14" text-anchor="middle" fill="#C6E7C8" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="13">ROUTING</text>
+    <text x="0" y="32" text-anchor="middle" fill="#FAF7EF" font-family="monospace" font-size="10">&lt; 30 SECONDS</text>
+    <!-- Floating Tag -->
+    <rect x="-70" y="-130" width="140" height="38" rx="10" fill="#09142A" stroke="#FAF7EF" stroke-width="1.5"/>
+    <text x="0" y="-106" text-anchor="middle" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="11">Slack + WhatsApp Push</text>
+  </g>
+
+  <!-- Editorial Ribbon Bottom -->
+  <g transform="translate(600, 720)">
+    <rect x="-240" y="-24" width="480" height="48" rx="24" fill="#09142A" stroke="#F15A24" stroke-width="1.5"/>
+    <circle cx="-205" cy="0" r="7" fill="#C6E7C8"/>
+    <text x="-185" y="6" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="14" letter-spacing="3">ZERO LEAD LOSS · INSTANT REVENUE ROUTING</text>
+  </g>
+</svg>

@@ -1,0 +1,1160 @@
+{
+  "generatedAt": "2026-11-23T18:59:39.363Z",
+  "sourceDir": "D:\\nocodeexport\\exports\\cmwtmpbue0000mfj9h89vgo92\\site",
+  "summary": {
+    "totalFilesScanned": 338,
+    "totalFindings": 125,
+    "highSeverity": 29,
+    "mediumSeverity": 33,
+    "lowSeverity": 63,
+    "violations": 3
+  },
+  "findings": [
+    {
+      "file": "assets/app.framerstatic.com/canvas-sandbox-on-page.LOZ6JHKA.mjs",
+      "line": 1,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "import{a as E}from\"https://app.framerstatic.com/chunk-PKNDGHWV.mjs\";import{a as wt,b as At,c as Ht,d as Bt,e as zt,f as Qt,g as Gt,h as jt}from\"https://app.framerstatic.com/chunk-XOZ2QQ2O.mjs\";import{",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-BOLWAZIJ.mjs",
+      "line": 122,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "}\n`;var je=y(L(),1);var fp=y(L(),1),ic={noSlot:0,singleFrame:1,animate:2},xj=(0,fp.createContext)(null);function FI(){return(0,fp.useContext)(xj)}var MI=y(L(),1);function AI(t){let e=(0,MI.useRef)(t);",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-BOLWAZIJ.mjs",
+      "line": 122,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "}\n`;var je=y(L(),1);var fp=y(L(),1),ic={noSlot:0,singleFrame:1,animate:2},xj=(0,fp.createContext)(null);function FI(){return(0,fp.useContext)(xj)}var MI=y(L(),1);function AI(t){let e=(0,MI.useRef)(t);",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-DPHJW6UJ.mjs",
+      "line": 4,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`;t+=`}\n`}Ee.textContent=t,document.head.appendChild(Ee),Yi={}},remove:()=>{Ee&&Ee.parentElement&&Ee.parentElement.removeChild(Ee)}};function ic(t){let e=t.match(/::view-transition-(old|new|group-chil",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-DPHJW6UJ.mjs",
+      "line": 12,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "}\n        `),()=>{a.current?.removeAttribute(\"data-motion-pop-id\"),P.contains(v)&&P.removeChild(v)}},[e]),(0,wm.jsx)(Xc,{isPresent:e,childRef:a,sizeRef:c,pop:i,children:i===!1?t:Ms.cloneElement(t,{ref",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-FN3PMT3K.mjs",
+      "line": 5,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "`);return{dom:a,text:u,slice:e}}function gt(t,e,n,o,i){let s=i.parent.type.spec.code,r,l;if(!n&&!e)return null;let a=!!e&&(o||s||!n);if(a){if(t.someProp(\"transformPastedText\",u=>{e=u(e,s||o,t)}),s)ret",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-FN3PMT3K.mjs",
+      "line": 1,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "import{a as $,b as St,c as j,h as Ke,i as me,s as Ct,v as ae,x as S,y as D,z as Ot}from\"https://app.framerstatic.com/chunk-RJVD5SHM.mjs\";var C=function(t){for(var e=0;;e++)if(t=t.previousSibling,!t)re",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-FN3PMT3K.mjs",
+      "line": 1,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "import{a as $,b as St,c as j,h as Ke,i as me,s as Ct,v as ae,x as S,y as D,z as Ot}from\"https://app.framerstatic.com/chunk-RJVD5SHM.mjs\";var C=function(t){for(var e=0;;e++)if(t=t.previousSibling,!t)re",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-FN3PMT3K.mjs",
+      "line": 2,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "import{a as $,b as St,c as j,h as Ke,i as me,s as Ct,v as ae,x as S,y as D,z as Ot}from\"https://app.framerstatic.com/chunk-RJVD5SHM.mjs\";var C=function(t){for(var e=0;;e++)if(t=t.previousSibling,!t)re",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-FN3PMT3K.mjs",
+      "line": 2,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "import{a as $,b as St,c as j,h as Ke,i as me,s as Ct,v as ae,x as S,y as D,z as Ot}from\"https://app.framerstatic.com/chunk-RJVD5SHM.mjs\";var C=function(t){for(var e=0;;e++)if(t=t.previousSibling,!t)re",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-FN3PMT3K.mjs",
+      "line": 5,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`);return{dom:a,text:u,slice:e}}function gt(t,e,n,o,i){let s=i.parent.type.spec.code,r,l;if(!n&&!e)return null;let a=!!e&&(o||s||!n);if(a){if(t.someProp(\"transformPastedText\",u=>{e=u(e,s||o,t)}),s)ret",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-FN3PMT3K.mjs",
+      "line": 5,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`);return{dom:a,text:u,slice:e}}function gt(t,e,n,o,i){let s=i.parent.type.spec.code,r,l;if(!n&&!e)return null;let a=!!e&&(o||s||!n);if(a){if(t.someProp(\"transformPastedText\",u=>{e=u(e,s||o,t)}),s)ret",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-FN3PMT3K.mjs",
+      "line": 5,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`);return{dom:a,text:u,slice:e}}function gt(t,e,n,o,i){let s=i.parent.type.spec.code,r,l;if(!n&&!e)return null;let a=!!e&&(o||s||!n);if(a){if(t.someProp(\"transformPastedText\",u=>{e=u(e,s||o,t)}),s)ret",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-FN3PMT3K.mjs",
+      "line": 5,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`);return{dom:a,text:u,slice:e}}function gt(t,e,n,o,i){let s=i.parent.type.spec.code,r,l;if(!n&&!e)return null;let a=!!e&&(o||s||!n);if(a){if(t.someProp(\"transformPastedText\",u=>{e=u(e,s||o,t)}),s)ret",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-HTBRLWIL.mjs",
+      "line": 18,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "contentWindow.",
+      "snippet": "Event: ${j(t)}.\nUrl: ${Ct(t)}`),!0)}function Is(t,e){return t.type||!e||!e.length?!1:Rs(t).some(n=>be(n,e))}function bs(t,e){if(t.type!==\"transaction\"||!e||!e.length)return!1;let n=t.transaction;retur",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-HTBRLWIL.mjs",
+      "line": 18,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "contentWindow.",
+      "snippet": "Event: ${j(t)}.\nUrl: ${Ct(t)}`),!0)}function Is(t,e){return t.type||!e||!e.length?!1:Rs(t).some(n=>be(n,e))}function bs(t,e){if(t.type!==\"transaction\"||!e||!e.length)return!1;let n=t.transaction;retur",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-INAXNNLA.mjs",
+      "line": 9,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`,n=s.state.doc.line(n.number+(e?1:-1)),r=s.bidiSpans(n),h=s.visualLineSide(n,!e)}if(a){if(!a(f))return l}else{if(!i)return h;a=i(f)}l=h}}function tf(s,t,e){let i=s.state.charCategorizer(t),n=i(e);ret",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-INAXNNLA.mjs",
+      "line": 9,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`,n=s.state.doc.line(n.number+(e?1:-1)),r=s.bidiSpans(n),h=s.visualLineSide(n,!e)}if(a){if(!a(f))return l}else{if(!i)return h;a=i(f)}l=h}}function tf(s,t,e){let i=s.state.charCategorizer(t),n=i(e);ret",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-INAXNNLA.mjs",
+      "line": 10,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`&&s.lineWrapping&&(i&&(i=A.single(i.main.anchor-1,i.main.head-1)),e={from:n.from,to:n.to,insert:B.of([\" \"])}),e)return Ys(s,e,i,r);if(i&&!i.main.eq(n)){let o=!1,l=\"select\";return s.inputState.lastSel",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-INAXNNLA.mjs",
+      "line": 10,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`&&s.lineWrapping&&(i&&(i=A.single(i.main.anchor-1,i.main.head-1)),e={from:n.from,to:n.to,insert:B.of([\" \"])}),e)return Ys(s,e,i,r);if(i&&!i.main.eq(n)){let o=!1,l=\"select\";return s.inputState.lastSel",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-INAXNNLA.mjs",
+      "line": 11,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`))};if(h.from==this.from&&r<this.from?h.from=r:h.to==this.to&&r>this.to&&(h.to=r),h.from==h.to&&!h.insert.length){let f=A.single(this.toEditorPos(i.selectionStart),this.toEditorPos(i.selectionEnd));f",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-INAXNNLA.mjs",
+      "line": 11,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`))};if(h.from==this.from&&r<this.from?h.from=r:h.to==this.to&&r>this.to&&(h.to=r),h.from==h.to&&!h.insert.length){let f=A.single(this.toEditorPos(i.selectionStart),this.toEditorPos(i.selectionEnd));f",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-INAXNNLA.mjs",
+      "line": 13,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`&&(e=\"\");else{let i=e.indexOf(`\n`);i>-1&&(e=e.slice(0,i))}return t+e.length<=this.to?e:e.slice(0,this.to-t)}nextLine(){let t=this.parsedPos,e=this.lineAfter(t),i=t+e.length;for(let n=this.rangeIndex;",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 14,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "`;function $pe(e,t){return e===\"deleteContentBackward\"?Hpe(t):t}function jpe(e,t){e._pendingStateFromBeforeInput!==void 0&&(e.update(e._pendingStateFromBeforeInput),e._pendingStateFromBeforeInput=void",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 22,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "${o}`,i);return t}function ALe(e,t){let r=nM(e),n=nM(t),o=new Set([...r.keys(),...n.keys()]),i=0;for(let a of o)r.get(a)!==n.get(a)&&i++;return i}function iM(e,t,r=\"target-wins\"){let n={...e};if(n.imp",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 23,
+      "severity": "medium",
+      "category": "inline-event-handler",
+      "pattern": "oNe=\"svg\"",
+      "snippet": "`).map(r=>vq(r,t)),entityMap:{}}}function gq(){return{blocks:[vq(\"\",[],\"dflt0\")],entityMap:{}}}function cCe(e,t=\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789\"){let r=\"\",n=t.length;fo",
+      "recommendation": "Extract inline event handlers into proper addEventListener calls"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 12,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new Function(",
+      "snippet": "`,yde={\"text/rtf\":1,\"text/html\":1};function gde(e){if(e.kind==\"file\")return e.getAsFile()}var vde=(function(){function e(r){this.data=r,this.types=r.types?dde(r.types):[]}var t=e.prototype;return t.is",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 3,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "Please use \"`+t+'\" instead.')}var Hi={getLastCreatedEntityKey:function(){return Uc(\"DraftEntity.getLastCreatedEntityKey\",\"contentState.getLastCreatedEntityKey\"),Hi.__getLastCreatedEntityKey()},create:",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 3,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "Please use \"`+t+'\" instead.')}var Hi={getLastCreatedEntityKey:function(){return Uc(\"DraftEntity.getLastCreatedEntityKey\",\"contentState.getLastCreatedEntityKey\"),Hi.__getLastCreatedEntityKey()},create:",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 3,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "Please use \"`+t+'\" instead.')}var Hi={getLastCreatedEntityKey:function(){return Uc(\"DraftEntity.getLastCreatedEntityKey\",\"contentState.getLastCreatedEntityKey\"),Hi.__getLastCreatedEntityKey()},create:",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 3,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "Please use \"`+t+'\" instead.')}var Hi={getLastCreatedEntityKey:function(){return Uc(\"DraftEntity.getLastCreatedEntityKey\",\"contentState.getLastCreatedEntityKey\"),Hi.__getLastCreatedEntityKey()},create:",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 3,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "Please use \"`+t+'\" instead.')}var Hi={getLastCreatedEntityKey:function(){return Uc(\"DraftEntity.getLastCreatedEntityKey\",\"contentState.getLastCreatedEntityKey\"),Hi.__getLastCreatedEntityKey()},create:",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 4,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`)},r.getLastCreatedEntityKey=function(){return Qa.__getLastCreatedEntityKey()},r.hasText=function(){var o=this.getBlockMap();return o.size>1||escape(o.first().getText()).replace(/%u200B/g,\"\").length>",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 4,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "`)},r.getLastCreatedEntityKey=function(){return Qa.__getLastCreatedEntityKey()},r.hasText=function(){var o=this.getBlockMap();return o.size>1||escape(o.first().getText()).replace(/%u200B/g,\"\").length>",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 7,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "`):jc.createElement(\"br\",{key:\"A\",\"data-text\":\"true\",ref:t})},Iue=function(t){return yT?jc.createElement(\"span\",{key:\"B\",\"data-text\":\"true\",ref:t},`\n`):jc.createElement(\"br\",{key:\"B\",\"data-text\":\"true",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 9,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "`)&&this.props.isLast&&(a+=`\n`);var s=this.props,l=s.customStyleMap,c=s.customStyleFn,u=s.offsetKey,d=s.styleSet,p=d.reduce(function(S,v){var g={},y=l[v];return y!==void 0&&S.textDecoration!==y.textDe",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 9,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "`)&&this.props.isLast&&(a+=`\n`);var s=this.props,l=s.customStyleMap,c=s.customStyleFn,u=s.offsetKey,d=s.styleSet,p=d.reduce(function(S,v){var g={},y=l[v];return y!==void 0&&S.textDecoration!==y.textDe",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 9,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`)&&this.props.isLast&&(a+=`\n`);var s=this.props,l=s.customStyleMap,c=s.customStyleFn,u=s.offsetKey,d=s.styleSet,p=d.reduce(function(S,v){var g={},y=l[v];return y!==void 0&&S.textDecoration!==y.textDe",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 9,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`)&&this.props.isLast&&(a+=`\n`);var s=this.props,l=s.customStyleMap,c=s.customStyleFn,u=s.offsetKey,d=s.styleSet,p=d.reduce(function(S,v){var g={},y=l[v];return y!==void 0&&S.textDecoration!==y.textDe",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 12,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`,yde={\"text/rtf\":1,\"text/html\":1};function gde(e){if(e.kind==\"file\")return e.getAsFile()}var vde=(function(){function e(r){this.data=r,this.types=r.types?dde(r.types):[]}var t=e.prototype;return t.is",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 12,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "`,yde={\"text/rtf\":1,\"text/html\":1};function gde(e){if(e.kind==\"file\")return e.getAsFile()}var vde=(function(){function e(r){this.data=r,this.types=r.types?dde(r.types):[]}var t=e.prototype;return t.is",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 12,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`,yde={\"text/rtf\":1,\"text/html\":1};function gde(e){if(e.kind==\"file\")return e.getAsFile()}var vde=(function(){function e(r){this.data=r,this.types=r.types?dde(r.types):[]}var t=e.prototype;return t.is",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 12,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`,yde={\"text/rtf\":1,\"text/html\":1};function gde(e){if(e.kind==\"file\")return e.getAsFile()}var vde=(function(){function e(r){this.data=r,this.types=r.types?dde(r.types):[]}var t=e.prototype;return t.is",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 12,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "`,yde={\"text/rtf\":1,\"text/html\":1};function gde(e){if(e.kind==\"file\")return e.getAsFile()}var vde=(function(){function e(r){this.data=r,this.types=r.types?dde(r.types):[]}var t=e.prototype;return t.is",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 14,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`;function $pe(e,t){return e===\"deleteContentBackward\"?Hpe(t):t}function jpe(e,t){e._pendingStateFromBeforeInput!==void 0&&(e.update(e._pendingStateFromBeforeInput),e._pendingStateFromBeforeInput=void",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 14,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "`;function $pe(e,t){return e===\"deleteContentBackward\"?Hpe(t):t}function jpe(e,t){e._pendingStateFromBeforeInput!==void 0&&(e.update(e._pendingStateFromBeforeInput),e._pendingStateFromBeforeInput=void",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 14,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "`;function $pe(e,t){return e===\"deleteContentBackward\"?Hpe(t):t}function jpe(e,t){e._pendingStateFromBeforeInput!==void 0&&(e.update(e._pendingStateFromBeforeInput),e._pendingStateFromBeforeInput=void",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 14,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`;function $pe(e,t){return e===\"deleteContentBackward\"?Hpe(t):t}function jpe(e,t){e._pendingStateFromBeforeInput!==void 0&&(e.update(e._pendingStateFromBeforeInput),e._pendingStateFromBeforeInput=void",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 14,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`;function $pe(e,t){return e===\"deleteContentBackward\"?Hpe(t):t}function jpe(e,t){e._pendingStateFromBeforeInput!==void 0&&(e.update(e._pendingStateFromBeforeInput),e._pendingStateFromBeforeInput=void",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 14,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "`;function $pe(e,t){return e===\"deleteContentBackward\"?Hpe(t):t}function jpe(e,t){e._pendingStateFromBeforeInput!==void 0&&(e.update(e._pendingStateFromBeforeInput),e._pendingStateFromBeforeInput=void",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+      "line": 19,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`,a=a.push(a.last()));var c=this._extractTextFromBlockConfigs(l.childConfigs);i+=c.text,a=a.concat(c.characterList)}return{text:i,characterList:a}},e})(),$he=function(t){var r=arguments.length>1&&argu",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KXSQRZ7J.mjs",
+      "line": 1,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "import{a as D}from\"https://app.framerstatic.com/chunk-JHU5KKUH.mjs\";import{b as u}from\"https://app.framerstatic.com/chunk-YSP5ZHDJ.mjs\";import{a as I}from\"https://app.framerstatic.com/chunk-SWYZG2NI.m",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KXSQRZ7J.mjs",
+      "line": 1,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "import{a as D}from\"https://app.framerstatic.com/chunk-JHU5KKUH.mjs\";import{b as u}from\"https://app.framerstatic.com/chunk-YSP5ZHDJ.mjs\";import{a as I}from\"https://app.framerstatic.com/chunk-SWYZG2NI.m",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "function-constructor",
+      "pattern": "new function(",
+      "snippet": "import{b as Lp}from\"https://app.framerstatic.com/chunk-DVLP366F.mjs\";import{$c as tr,$e as Ea,$m as kh,$o as Mh,$r as si,$t as pp,$u as vp,Ad as ud,Ae as Mf,Ao as ls,Ap as fs,Au as ci,Ba as Ui,Be as m",
+      "recommendation": "Avoid the Function constructor — use regular functions or eval alternatives"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 3,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`,toMarkdown:Lr(\"break\"),toDOM(){return document.createElement(\"br\")},parseDOM:[{tag:\"br.trailing-break\",ignore:!0},{tag:\"br\"}]};function ry({linkRuntime:t,module:e,tables:i}){return{document:ey,textB",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+      "line": 3,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`,toMarkdown:Lr(\"break\"),toDOM(){return document.createElement(\"br\")},parseDOM:[{tag:\"br.trailing-break\",ignore:!0},{tag:\"br\"}]};function ry({linkRuntime:t,module:e,tables:i}){return{document:ey,textB",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-NIQQNLPF.mjs",
+      "line": 3,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`+s.join(`\n`)),i=Error(\"Local document different from server document.\"),z.reportError(i,{differences:s,localOnlyRows:o.extra.length,remoteOnlyRows:o.missing.length})):o.extra.length>0||o.missing.leng",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-R2S4D7RI.mjs",
+      "line": 1,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "contentWindow.",
+      "snippet": "var n=t=>t.stopPropagation();function i(){let{activeElement:t}=document;if(t instanceof HTMLIFrameElement&&t.contentWindow)try{t=t.contentWindow.document.activeElement}catch(e){if(e instanceof DOMExce",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-R3EYWWKL.mjs",
+      "line": 1,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "import{a as zr,b as Rr}from\"https://app.framerstatic.com/chunk-36CHR5VT.mjs\";import{$h as To,Ak as Vr,Bd as gr,Bk as Ne,Ck as lt,Fa as dr,Ga as ur,Hj as Tr,Ib as go,Jb as mr,Kb as yr,Kj as hr,Lj as br",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-R3EYWWKL.mjs",
+      "line": 1,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "import{a as zr,b as Rr}from\"https://app.framerstatic.com/chunk-36CHR5VT.mjs\";import{$h as To,Ak as Vr,Bd as gr,Bk as Ne,Ck as lt,Fa as dr,Ga as ur,Hj as Tr,Ib as go,Jb as mr,Kb as yr,Kj as hr,Lj as br",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-R7Z3KLXQ.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "inline-event-handler",
+      "pattern": "onewayRequestId=\"oneway\"",
+      "snippet": "import{j as B}from\"https://app.framerstatic.com/chunk-EAUMDN6M.mjs\";var y;(e=>e.log=B(\"\\u{1F4A9} fallback-logger-please-reassign:services\"))(y||={});(s=>{s._isTesting=!1;let e;async function t(n,a){if",
+      "recommendation": "Extract inline event handlers into proper addEventListener calls"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-R7Z3KLXQ.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "inline-event-handler",
+      "pattern": "onewayStreamResponseIdPrefix=\"#oneway:\"",
+      "snippet": "import{j as B}from\"https://app.framerstatic.com/chunk-EAUMDN6M.mjs\";var y;(e=>e.log=B(\"\\u{1F4A9} fallback-logger-please-reassign:services\"))(y||={});(s=>{s._isTesting=!1;let e;async function t(n,a){if",
+      "recommendation": "Extract inline event handlers into proper addEventListener calls"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-RJVD5SHM.mjs",
+      "line": 3,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`)}};z.empty=new z(!0);var we=class{constructor(e,t){this.string=e,this.nodeTypes=t,this.inline=null,this.pos=0,this.tokens=e.split(/\\s*(?=\\b|\\W|$)/),this.tokens[this.tokens.length-1]==\"\"&&this.tokens",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-RYY4FSEL.mjs",
+      "line": 85,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "}\n`,m=document.createElement(\"style\");m.innerHTML=$;document.head.appendChild(m);function S(t){let e=window.__framer_editorBarDependencies;if(!e)throw new Error(\"Dependencies not found\");if(e.__versio",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-UUJZFRP4.mjs",
+      "line": 20,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "-])`},{atBreak:!0,before:\"\\\\d+\",character:\".\",after:`(?:[ \t\\r\n]|$)`},{atBreak:!0,character:\"<\",after:\"[!/?A-Za-z]\"},{character:\"<\",after:\"[!/?A-Za-z]\",inConstruct:\"phrasing\",notInConstruct:Re},{charac",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-V5O7RBXB.mjs",
+      "line": 1,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "import{e as Nu,q as Cs}from\"https://app.framerstatic.com/chunk-ETLWQA6D.mjs\";import{e as Tu,i as Ou}from\"https://app.framerstatic.com/chunk-OQKRZLQK.mjs\";import{a as Au}from\"https://app.framerstatic.c",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-V5O7RBXB.mjs",
+      "line": 1,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "import{e as Nu,q as Cs}from\"https://app.framerstatic.com/chunk-ETLWQA6D.mjs\";import{e as Tu,i as Ou}from\"https://app.framerstatic.com/chunk-OQKRZLQK.mjs\";import{a as Au}from\"https://app.framerstatic.c",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-XDEZW4UP.mjs",
+      "line": 4609,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "\\f\\r \"&'<=>\\``.split(\"\"),`\\0\t\n\\f\\r \"&'<=>\\``.split(\"\")]],single:[[\"&'\".split(\"\"),\"\\\"&'`\".split(\"\")],[\"\\0&'\".split(\"\"),\"\\0\\\"&'`\".split(\"\")]],double:[['\"&'.split(\"\"),\"\\\"&'`\".split(\"\")],['\\0\"&'.split(\"\")",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-YS3B4HMG.mjs",
+      "line": 1,
+      "severity": "medium",
+      "category": "base64-exec",
+      "pattern": "atob(t).",
+      "snippet": "var o=class extends Error{};o.prototype.name=\"InvalidTokenError\";function i(t){return decodeURIComponent(atob(t).replace(/(.)/g,(e,r)=>{let n=r.charCodeAt(0).toString(16).toUpperCase();return n.length",
+      "recommendation": "Avoid decoding and executing base64 strings at runtime"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-ZFHRVFFY.mjs",
+      "line": 7,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "</svg>\n`,lu=class extends Gv{getPosition;editorView;onChange;stylePresetClassNameByTag;unsubscribe;lastClassName;constructor(t){super(t.tableNode,100),this.editorView=t.editorView,this.onChange=t.onCh",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-ZFHRVFFY.mjs",
+      "line": 7,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "</svg>\n`,lu=class extends Gv{getPosition;editorView;onChange;stylePresetClassNameByTag;unsubscribe;lastClassName;constructor(t){super(t.tableNode,100),this.editorView=t.editorView,this.onChange=t.onCh",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-ZFHRVFFY.mjs",
+      "line": 13,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "}\n    `.trim(),S.head.prepend(A)},[m]),(0,fr.useEffect)(()=>{let S=y.current;return()=>{var A;u||_g((A=S.target)!==null&&A!==void 0?A:void 0);for(let L of S.disposables)L();S.disposables=[]}},[u]),{is",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-ZFHRVFFY.mjs",
+      "line": 13,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "}\n    `.trim(),S.head.prepend(A)},[m]),(0,fr.useEffect)(()=>{let S=y.current;return()=>{var A;u||_g((A=S.target)!==null&&A!==void 0?A:void 0);for(let L of S.disposables)L();S.disposables=[]}},[u]),{is",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-ZFHRVFFY.mjs",
+      "line": 13,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "defaultView.",
+      "snippet": "}\n    `.trim(),S.head.prepend(A)},[m]),(0,fr.useEffect)(()=>{let S=y.current;return()=>{var A;u||_g((A=S.target)!==null&&A!==void 0?A:void 0);for(let L of S.disposables)L();S.disposables=[]}},[u]),{is",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/chunk-ZFHRVFFY.mjs",
+      "line": 13,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "}\n    `.trim(),S.head.prepend(A)},[m]),(0,fr.useEffect)(()=>{let S=y.current;return()=>{var A;u||_g((A=S.target)!==null&&A!==void 0?A:void 0);for(let L of S.disposables)L();S.disposables=[]}},[u]),{is",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/app.framerstatic.com/render-65KYGUKY.mjs",
+      "line": 1,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "import\"https://app.framerstatic.com/chunk-3SJPTK4G.mjs\";import{a as ht}from\"https://app.framerstatic.com/chunk-PKNDGHWV.mjs\";import{a as hd}from\"https://app.framerstatic.com/chunk-42WXH4JZ.mjs\";import",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/framer.com/edit/init.mjs",
+      "line": 34,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "}\n`,$=document.createElement(\"style\");$.innerHTML=me;document.head.appendChild($);var I=new URL(import.meta.url).origin;function ge(){if(localStorage[y])return G(),!0;let e=new URL(window.location.hre",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/framer.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 150,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "jd(d.textContent,h,a),e=[\"children\",h]):\"number\"===typeof h&&d.textContent!==\"\"+h&&(!0!==f.suppressHydrationWarning&&jd(d.textContent,h,a),e=[\"children\",\"\"+h]):$b.hasOwnProperty(g)&&null!=h&&\"onScroll",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/framer.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 220,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "he=Symbol.for(\"react.suspense_list\"),je=Symbol.for(\"react.memo\"),Ta=Symbol.for(\"react.lazy\");Symbol.for(\"react.scope\");Symbol.for(\"react.debug_trace_mode\");var Ui=Symbol.for(\"react.offscreen\");Symbol.",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/framer.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 220,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "he=Symbol.for(\"react.suspense_list\"),je=Symbol.for(\"react.memo\"),Ta=Symbol.for(\"react.lazy\");Symbol.for(\"react.scope\");Symbol.for(\"react.debug_trace_mode\");var Ui=Symbol.for(\"react.offscreen\");Symbol.",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/framer.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 57,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "contentWindow.",
+      "snippet": "a||\"change\"===a)return fd(b)}function Sj(a,b){return a===b&&(0!==a||1/a===1/b)||a!==a&&b!==b}function qc(a,b){if(ua(a,b))return!0;if(\"object\"!==typeof a||null===a||\"object\"!==typeof b||null===b)return",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/framer.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 58,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "if(a<=b&&d>=b)return{node:c,offset:b-a};a=d}a:{for(;c;){if(c.nextSibling){c=c.nextSibling;break a}c=c.parentNode}c=void 0}c=$g(c)}}function bh(a,b){return a&&b?a===b?!0:a&&3===a.nodeType?!1:b&&3===b.n",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/framer.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 60,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "else if(a=(b=c.ownerDocument||document)&&b.defaultView||window,a.getSelection){a=a.getSelection();var e=c.textContent.length,f=Math.min(d.start,e);d=void 0===d.end?f:Math.min(d.end,e);!a.extend&&f>d&&",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/framer.CxPJkRhH.mjs",
+      "line": 662,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "This error indicates a state update wasn’t wrapped with \\`startTransition\\`. Some of the UI might flash as a result. `+et(`If you are the author of this website, update external components and check r",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/framer.CxPJkRhH.mjs",
+      "line": 662,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "This error indicates a state update wasn’t wrapped with \\`startTransition\\`. Some of the UI might flash as a result. `+et(`If you are the author of this website, update external components and check r",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/motion.Bcij9dPp.mjs",
+      "line": 12,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "}\n        `),()=>{c.current?.removeAttribute(`data-motion-pop-id`),S.contains(x)&&S.removeChild(x)}},[t]),x(Vd,{isPresent:t,childRef:c,sizeRef:l,pop:a,children:a===!1?e:w(e,{ref:p})})}function Pi(){re",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/react.BLT3Z9Sx.mjs",
+      "line": 8,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "Error generating stack: `+e.message+`\n`+e.stack}return{value:e,source:t,stack:i,digest:null}}function Lo(e,t,n){return{value:e,source:null,stack:n??null,digest:t??null}}function Ro(e,t){try{console.er",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/react.BLT3Z9Sx.mjs",
+      "line": 8,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "Error generating stack: `+e.message+`\n`+e.stack}return{value:e,source:t,stack:i,digest:null}}function Lo(e,t,n){return{value:e,source:null,stack:n??null,digest:t??null}}function Ro(e,t){try{console.er",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/react.BLT3Z9Sx.mjs",
+      "line": 8,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "Error generating stack: `+e.message+`\n`+e.stack}return{value:e,source:t,stack:i,digest:null}}function Lo(e,t,n){return{value:e,source:null,stack:n??null,digest:t??null}}function Ro(e,t){try{console.er",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/react.BLT3Z9Sx.mjs",
+      "line": 5,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "contentWindow.",
+      "snippet": "`),o=i.length-1,s=a.length-1;1<=o&&0<=s&&i[o]!==a[s];)s--;for(;1<=o&&0<=s;o--,s--)if(i[o]!==a[s]){if(o!==1||s!==1)do if(o--,s--,0>s||i[o]!==a[s]){var c=`\n`+i[o].replace(` at new `,` at `);return e.dis",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/react.BLT3Z9Sx.mjs",
+      "line": 5,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`),o=i.length-1,s=a.length-1;1<=o&&0<=s&&i[o]!==a[s];)s--;for(;1<=o&&0<=s;o--,s--)if(i[o]!==a[s]){if(o!==1||s!==1)do if(o--,s--,0>s||i[o]!==a[s]){var c=`\n`+i[o].replace(` at new `,` at `);return e.dis",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/react.BLT3Z9Sx.mjs",
+      "line": 5,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "`),o=i.length-1,s=a.length-1;1<=o&&0<=s&&i[o]!==a[s];)s--;for(;1<=o&&0<=s;o--,s--)if(i[o]!==a[s]){if(o!==1||s!==1)do if(o--,s--,0>s||i[o]!==a[s]){var c=`\n`+i[o].replace(` at new `,` at `);return e.dis",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/site-2193bfbcbc10ab6e0657a41643faba9cbae079e2e574aadc93f94f62d1.framercanvas.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 150,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "jd(d.textContent,h,a),e=[\"children\",h]):\"number\"===typeof h&&d.textContent!==\"\"+h&&(!0!==f.suppressHydrationWarning&&jd(d.textContent,h,a),e=[\"children\",\"\"+h]):$b.hasOwnProperty(g)&&null!=h&&\"onScroll",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/site-2193bfbcbc10ab6e0657a41643faba9cbae079e2e574aadc93f94f62d1.framercanvas.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 220,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "he=Symbol.for(\"react.suspense_list\"),je=Symbol.for(\"react.memo\"),Ta=Symbol.for(\"react.lazy\");Symbol.for(\"react.scope\");Symbol.for(\"react.debug_trace_mode\");var Ui=Symbol.for(\"react.offscreen\");Symbol.",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/site-2193bfbcbc10ab6e0657a41643faba9cbae079e2e574aadc93f94f62d1.framercanvas.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 220,
+      "severity": "high",
+      "category": "dangerous-innerhtml",
+      "pattern": ".innerHTML=",
+      "snippet": "he=Symbol.for(\"react.suspense_list\"),je=Symbol.for(\"react.memo\"),Ta=Symbol.for(\"react.lazy\");Symbol.for(\"react.scope\");Symbol.for(\"react.debug_trace_mode\");var Ui=Symbol.for(\"react.offscreen\");Symbol.",
+      "recommendation": "Replace innerHTML assignments with textContent or safe DOM methods"
+    },
+    {
+      "file": "assets/site-2193bfbcbc10ab6e0657a41643faba9cbae079e2e574aadc93f94f62d1.framercanvas.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 57,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "contentWindow.",
+      "snippet": "a||\"change\"===a)return fd(b)}function Sj(a,b){return a===b&&(0!==a||1/a===1/b)||a!==a&&b!==b}function qc(a,b){if(ua(a,b))return!0;if(\"object\"!==typeof a||null===a||\"object\"!==typeof b||null===b)return",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/site-2193bfbcbc10ab6e0657a41643faba9cbae079e2e574aadc93f94f62d1.framercanvas.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 58,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "if(a<=b&&d>=b)return{node:c,offset:b-a};a=d}a:{for(;c;){if(c.nextSibling){c=c.nextSibling;break a}c=c.parentNode}c=void 0}c=$g(c)}}function bh(a,b){return a&&b?a===b?!0:a&&3===a.nodeType?!1:b&&3===b.n",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    },
+    {
+      "file": "assets/site-2193bfbcbc10ab6e0657a41643faba9cbae079e2e574aadc93f94f62d1.framercanvas.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+      "line": 60,
+      "severity": "low",
+      "category": "unsafe-dom-access",
+      "pattern": "ownerDocument.",
+      "snippet": "else if(a=(b=c.ownerDocument||document)&&b.defaultView||window,a.getSelection){a=a.getSelection();var e=c.textContent.length,f=Math.min(d.start,e);d=void 0===d.end?f:Math.min(d.end,e);!a.extend&&f>d&&",
+      "recommendation": "Sanitize cross-origin DOM access — ensure same-origin checks"
+    }
+  ],
+  "allowlistViolations": [
+    {
+      "type": "inline-script",
+      "value": "~11437 chars inline script",
+      "foundIn": "index.html",
+      "recommendation": "Extract large inline scripts into separate files with SRI"
+    },
+    {
+      "type": "inline-script",
+      "value": "~3050 chars inline script",
+      "foundIn": "index.html",
+      "recommendation": "Extract large inline scripts into separate files with SRI"
+    },
+    {
+      "type": "inline-script",
+      "value": "~4257 chars inline script",
+      "foundIn": "index.html",
+      "recommendation": "Extract large inline scripts into separate files with SRI"
+    }
+  ],
+  "blockedByHighSeverity": false
+}

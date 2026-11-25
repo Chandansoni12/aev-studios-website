@@ -1,0 +1,1551 @@
+{
+  "gsapAnimations": [],
+  "scrollTriggers": [],
+  "intersectionObservers": [],
+  "cssAnimations": [],
+  "lenis": null,
+  "aos": null,
+  "animatedElements": [],
+  "potentiallyAnimated": [
+    {
+      "tag": "html",
+      "className": "lenis",
+      "transition": "all"
+    },
+    {
+      "tag": "head",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "title",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "script",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "link",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "meta",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "body",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "script",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-dYXTG framer-1yv164u",
+      "transition": "all"
+    },
+    {
+      "tag": "style",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-mWopR framer-Nmgwh framer-W7LuS framer-1gwwtfb",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1lf9tzv-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-dpdy0d hidden-1paqt8s",
+      "transition": "all"
+    },
+    {
+      "tag": "nav",
+      "className": "framer-saGJ3 framer-M3n4H framer-195ki3b framer-v-195ki3b",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1a8qe5x",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-wlfjwy",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-14gcjol framer-11uolsd",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "img",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-lekfk6",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-g8of7l",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1ft790z",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-pgbefa",
+      "transition": "all"
+    },
+    {
+      "tag": "main",
+      "className": "framer-1gtanxu",
+      "transition": "all"
+    },
+    {
+      "tag": "section",
+      "className": "framer-m6y5it",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-wq5g0u",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "img",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1n5vr87",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1t06rf4",
+      "transition": "all"
+    },
+    {
+      "tag": "h1",
+      "className": "framer-text framer-styles-preset-11xnjq1",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ay3ex4",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1vcau2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-1paqt8s",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1t504kw-container",
+      "transition": "all"
+    },
+    {
+      "tag": "button",
+      "className": "framer-t38qD framer-WCIgU framer-g3sdog framer-v-g3sdog",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-1p5om0o framer-6ophp3",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-jfmibv",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-okjovb",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-151f046",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1u16ldn-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1p26z5w-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-17ndlmv",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-1xm6n8w hidden-1wgwu20",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-zdky93-container",
+      "transition": "all",
+      "transform": "matrix(1, 0, 0, 1, 0, -80)"
+    },
+    {
+      "tag": "nav",
+      "className": "framer-saGJ3 framer-M3n4H framer-195ki3b framer-v-195ki3b",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1a8qe5x",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-wlfjwy",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-14gcjol framer-11uolsd",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "img",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-lekfk6",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-g8of7l",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1ft790z",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-pgbefa",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-hcm3xd-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "ssr-variant hidden-1xm6n8w hidden-1wgwu20",
+      "transition": "all"
+    },
+    {
+      "tag": "footer",
+      "className": "framer-KUy35 framer-vQNzi framer-3uC5m framer-M3n4H framer-nz6C7 framer-W7LuS framer-un1Bv framer-6EIJm framer-cis9k2 framer-v-cis9k2",
+      "transition": "all"
+    },
+    {
+      "tag": "section",
+      "className": "framer-1uso4zc",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-175rodl",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-18ihst5",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1gyzrfr",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-nqaxup",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "img",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-f2yte9",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ezjudj",
+      "transition": "all"
+    },
+    {
+      "tag": "h3",
+      "className": "framer-text framer-styles-preset-qrpho1",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1fw42ar",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1v525k0",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-bfaxg5",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-dtlisq",
+      "transition": "all"
+    },
+    {
+      "tag": "form",
+      "className": "framer-w7mhd2",
+      "transition": "all"
+    },
+    {
+      "tag": "label",
+      "className": "framer-lydwyo",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ghzc4",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-pgbefa",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-form-text-input framer-form-input-wrapper framer-ic9any framer-form-text-input-type",
+      "transition": "background, box-shadow"
+    },
+    {
+      "tag": "input",
+      "className": "framer-form-input framer-form-input-empty",
+      "transition": "all"
+    },
+    {
+      "tag": "label",
+      "className": "framer-vnyxop",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-w5dat8",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-pgbefa",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-form-text-input framer-form-input-wrapper framer-mqnptk",
+      "transition": "background, box-shadow"
+    },
+    {
+      "tag": "input",
+      "className": "framer-form-input framer-form-input-empty",
+      "transition": "all"
+    },
+    {
+      "tag": "label",
+      "className": "framer-1z07nbe",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1bggo2y",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-pgbefa",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-form-text-input framer-form-input-wrapper framer-13mw6aw",
+      "transition": "background, box-shadow"
+    },
+    {
+      "tag": "input",
+      "className": "framer-form-input framer-form-input-empty",
+      "transition": "all"
+    },
+    {
+      "tag": "label",
+      "className": "framer-1r1141e",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-fw72sz",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-pgbefa",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-form-text-input framer-form-input-wrapper framer-1o6hkti framer-form-textarea-input-type",
+      "transition": "background, box-shadow"
+    },
+    {
+      "tag": "textarea",
+      "className": "framer-form-input",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-29p82a-container",
+      "transition": "all"
+    },
+    {
+      "tag": "button",
+      "className": "framer-t38qD framer-WCIgU framer-g3sdog framer-v-1klfovf",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-1p5om0o framer-6ophp3",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-jfmibv",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-okjovb",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-151f046",
+      "transition": "all"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "input",
+      "className": "",
+      "transition": "all",
+      "transform": "matrix(0, 0, 0, 0, 0, 0)"
+    },
+    {
+      "tag": "script",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "noscript",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "footer",
+      "className": "framer-17sd12c",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-g3xhlm",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1cl3hhy",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-10h7478",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-v7sh32",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-txhxj3",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-7vgg9c",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-t49guo",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-yy7qd9",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1vcau2",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-text framer-styles-preset-yx9a1c",
+      "transition": "color 0.3s cubic-bezier(0.44, 0, 0.56, 1)"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1rmg79u",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1xgo1qo",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1kav03k",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1nf8np8",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1vcau2",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-text framer-styles-preset-yx9a1c",
+      "transition": "color 0.3s cubic-bezier(0.44, 0, 0.56, 1)"
+    },
+    {
+      "tag": "div",
+      "className": "framer-b0xlki",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1nydqtq",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-dk1ec",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-fbqztc",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1vcau2",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-text framer-styles-preset-yx9a1c",
+      "transition": "color 0.3s cubic-bezier(0.44, 0, 0.56, 1)"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1u1nlyh",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-7n9mnr",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-85993h",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1cmkvx3",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-18mhpr2",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1vcau2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-iovrlq",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1vcau2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-138vnxb",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-12sa0h5",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-af26sm",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1e28bvw-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ozqyqj-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ok8onu-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1ggefga-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-qf3luo-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-xpvubp-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-wrfbmw",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-13dkeq2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-d7725l-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1ofe2w-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-17rw031-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-mt33ft-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-akec6d-container",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-ie8anl-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "g",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "path",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-u5x6uj",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1z07rd2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1nf2p8p",
+      "transition": "all"
+    },
+    {
+      "tag": "svg",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all"
+    },
+    {
+      "tag": "foreignobject",
+      "className": "[object SVGAnimatedString]",
+      "transition": "all",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-jd9pcd",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1ymisi2",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-hge15g",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1b995d8",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-text framer-styles-preset-yx9a1c",
+      "transition": "color 0.3s cubic-bezier(0.44, 0, 0.56, 1)"
+    },
+    {
+      "tag": "div",
+      "className": "framer-67y250",
+      "transition": "all"
+    },
+    {
+      "tag": "p",
+      "className": "framer-text framer-styles-preset-1b995d8",
+      "transition": "all"
+    },
+    {
+      "tag": "a",
+      "className": "framer-text framer-styles-preset-yx9a1c",
+      "transition": "color 0.3s cubic-bezier(0.44, 0, 0.56, 1)"
+    },
+    {
+      "tag": "div",
+      "className": "framer-18q1y75-container",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-eNAeu framer-1fi8orq framer-v-1fi8orq",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-360cll",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-148kq99",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-18jw13q",
+      "transition": "all"
+    },
+    {
+      "tag": "div",
+      "className": "framer-1ifd4y5",
+      "transition": "all"
+    }
+  ],
+  "detectedLibraries": {
+    "gsap": false,
+    "scrollTrigger": false,
+    "lenis": false,
+    "aos": false,
+    "framerMotion": true,
+    "three": false,
+    "spline": false,
+    "babylon": false,
+    "pixi": false,
+    "rive": false,
+    "lottie": false
+  },
+  "cssKeyframes": {
+    "__framer-editorbar-spinner-spin": "@keyframes __framer-editorbar-spinner-spin { \n  100% { transform: rotate(360deg); }\n}"
+  },
+  "cssVariables": {},
+  "customStyles": [],
+  "inlineStylesRaw": "",
+  "webglEffects": {
+    "hasWebGL": false,
+    "canvasCount": 0,
+    "canvases": [],
+    "custom3dElements": [],
+    "shaders": [],
+    "detected3dLibraries": []
+  }
+}

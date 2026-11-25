@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <linearGradient id="webBg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#321338"/>
+      <stop offset="100%" stop-color="#160618"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#webBg2)"/>
+  <g transform="translate(600, 370)">
+    <!-- Fluid Waveform Curves -->
+    <path d="M-380,30 Q-190,-180 0,30 T380,30" fill="none" stroke="#F15A24" stroke-width="6"/>
+    <path d="M-380,70 Q-190,-140 0,70 T380,70" fill="none" stroke="#DCCBFA" stroke-width="4" opacity="0.8"/>
+    <path d="M-380,110 Q-190,-100 0,110 T380,110" fill="none" stroke="#C6E7C8" stroke-width="3" opacity="0.6"/>
+
+    <!-- Central Interactive Element -->
+    <rect x="-140" y="-120" width="280" height="200" rx="22" fill="#1B0920" stroke="#DCCBFA" stroke-width="3"/>
+    <circle cx="0" cy="-30" r="36" fill="#F15A24"/>
+    <polygon points="-10,-45 18,-30 -10,-15" fill="#FAF7EF"/>
+    <text x="0" y="45" text-anchor="middle" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="16">60 FPS INTERACTIVITY</text>
+  </g>
+  <text x="600" y="705" text-anchor="middle" fill="#FAF7EF" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="16" letter-spacing="4">MAXIMUM BRAND AUTHORITY &amp; CONVERSION</text>
+</svg>

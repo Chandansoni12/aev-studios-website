@@ -1,0 +1,139 @@
+{
+  "jobId": "1795460297303-u8gbxb",
+  "startTime": "2026-11-23T18:58:17.303Z",
+  "endTime": "2026-11-23T18:59:41.913Z",
+  "totalDurationMs": 84610,
+  "totalPages": 2,
+  "stages": {
+    "browser-launch": {
+      "stage": "browser-launch",
+      "startTime": 1795460297306,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460297738,
+      "durationMs": 432
+    },
+    "stack-scout": {
+      "stage": "stack-scout",
+      "startTime": 1795460297738,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460319406,
+      "durationMs": 21668
+    },
+    "page-discovery": {
+      "stage": "page-discovery",
+      "startTime": 1795460319406,
+      "itemsProcessed": 2,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460320359,
+      "durationMs": 953
+    },
+    "page-capture": {
+      "stage": "page-capture",
+      "startTime": 1795460320359,
+      "itemsProcessed": 2,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460352303,
+      "durationMs": 31944
+    },
+    "css-processing": {
+      "stage": "css-processing",
+      "startTime": 1795460352306,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460373285,
+      "durationMs": 20979
+    },
+    "html-cleanup": {
+      "stage": "html-cleanup",
+      "startTime": 1795460373285,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460373935,
+      "durationMs": 650
+    },
+    "manifest": {
+      "stage": "manifest",
+      "startTime": 1795460373935,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460374235,
+      "durationMs": 300
+    },
+    "animation-manifest": {
+      "stage": "animation-manifest",
+      "startTime": 1795460374235,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460378936,
+      "durationMs": 4701
+    },
+    "motion-reconstruction": {
+      "stage": "motion-reconstruction",
+      "startTime": 1795460378936,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460378962,
+      "durationMs": 26
+    },
+    "security-scan": {
+      "stage": "security-scan",
+      "startTime": 1795460378962,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460379368,
+      "durationMs": 406
+    },
+    "support-files": {
+      "stage": "support-files",
+      "startTime": 1795460379368,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460379371,
+      "durationMs": 3
+    },
+    "auto-convert": {
+      "stage": "auto-convert",
+      "startTime": 1795460379371,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460381464,
+      "durationMs": 2093
+    },
+    "finalize": {
+      "stage": "finalize",
+      "startTime": 1795460381464,
+      "itemsProcessed": 0,
+      "failures": 0,
+      "status": "completed",
+      "errors": [],
+      "endTime": 1795460381913,
+      "durationMs": 449
+    }
+  }
+}

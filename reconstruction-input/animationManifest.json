@@ -1,0 +1,3906 @@
+{
+  "sourceUrl": "https://real-home-035434.framer.app/",
+  "generatedAt": "2026-11-23T18:59:38.933Z",
+  "cssKeyframes": [
+    {
+      "name": "blink",
+      "sourceFile": "merged-css",
+      "rawContent": "49%{border-color:unset",
+      "properties": [
+        "color"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "ProseMirror-cursor-blink",
+      "sourceFile": "merged-css",
+      "rawContent": "to{visibility:hidden",
+      "properties": [],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "spin-b12vj57b",
+      "sourceFile": "merged-css",
+      "rawContent": "to{transform:rotate(360deg)",
+      "properties": [
+        "transform"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "toast-appear-t1my5r4k",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:0;translate:0 15px",
+      "properties": [
+        "opacity",
+        "translate"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "toast-appear-progress-t1my5r4k",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:0;translate:0 15px",
+      "properties": [
+        "opacity",
+        "translate"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "toast-disappear-t1my5r4k",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:1",
+      "properties": [
+        "opacity"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "toast-overflow-remove-t1my5r4k",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:1;translate:0",
+      "properties": [
+        "opacity",
+        "translate"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "tooltip-enter-s1vo07bb",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:0;transform:translateY(var(--initial-translate-y)) scale(.96)",
+      "properties": [
+        "opacity",
+        "transform"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "tooltip-exit-s1wvirx",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:1",
+      "properties": [
+        "opacity"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "enter-m1vb3zu0",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:0;transform:translateY(16px) scale(.9)",
+      "properties": [
+        "opacity",
+        "transform"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "fadeIn-fim46by",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:0",
+      "properties": [
+        "opacity"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "flash-default-style-d8eehx6",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:0",
+      "properties": [
+        "opacity"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "flash-glow-style-ghqxg7a",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{box-shadow:unset;background-color:#0000",
+      "properties": [
+        "color"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "fadeIn-f1rxqld5",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:0",
+      "properties": [
+        "opacity"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "caret-blink-cquxc66",
+      "sourceFile": "merged-css",
+      "rawContent": "0%,35%,to{opacity:1",
+      "properties": [
+        "opacity"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    },
+    {
+      "name": "fadeIn-t49i6vy",
+      "sourceFile": "merged-css",
+      "rawContent": "0%{opacity:0",
+      "properties": [
+        "opacity"
+      ],
+      "vendorPrefixed": false,
+      "routeUsage": []
+    }
+  ],
+  "cssTransitions": [
+    {
+      "selector": ".text",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".b1rdbf0o",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".bvatmcz",
+      "sourceFile": "merged-css",
+      "properties": [
+        "color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".b6dohbs",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".pn3co68",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".dyiclh3",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".s1yv2vyw",
+      "sourceFile": "merged-css",
+      "properties": [
+        "top",
+        "cubic-bezier(.2,0,0,1)}"
+      ],
+      "duration": "",
+      "timing": "cubic-bezier(.2,0,0,1)}",
+      "delay": ""
+    },
+    {
+      "selector": ".s8ln65c",
+      "sourceFile": "merged-css",
+      "properties": [
+        "color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".s1yv2vyw",
+      "sourceFile": "merged-css",
+      "properties": [
+        "left",
+        "cubic-bezier(.2,0,0,1)}"
+      ],
+      "duration": "",
+      "timing": "cubic-bezier(.2,0,0,1)}",
+      "delay": ""
+    },
+    {
+      "selector": ".toast-cta",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "linear}",
+      "delay": ""
+    },
+    {
+      "selector": ".t1my5r4k",
+      "sourceFile": "merged-css",
+      "properties": [],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".toast-cta",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "0s",
+      "timing": "linear",
+      "delay": ""
+    },
+    {
+      "selector": ".a5l2dp5",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity",
+        "cubic-bezier(.16,1,.3,1)"
+      ],
+      "duration": "",
+      "timing": "cubic-bezier(.16,1,.3,1),transform",
+      "delay": ""
+    },
+    {
+      "selector": ".tin3qvp",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".c1ac9vjt",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "ease-in-out",
+      "delay": ""
+    },
+    {
+      "selector": ".a1lz2nwz",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity",
+        "cubic-bezier(.16,1,.3,1)"
+      ],
+      "duration": "",
+      "timing": "cubic-bezier(.16,1,.3,1),transform",
+      "delay": ""
+    },
+    {
+      "selector": ".aq1ds02",
+      "sourceFile": "merged-css",
+      "properties": [],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".dnh1qdo",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": "-webkit-autofill",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "0s",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": "hover",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "0s",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": "focus",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "0s",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": "active",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "0s",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": "div",
+      "sourceFile": "merged-css",
+      "properties": [],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".c1dx5mcm",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".t16h59f3",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".ts3kncj",
+      "sourceFile": "merged-css",
+      "properties": [],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".c1yp40qr",
+      "sourceFile": "merged-css",
+      "properties": [
+        "height"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".c1azw9i",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".d1cnybc5",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".c17x0zv8",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".pxp0z46",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".pka6r5o",
+      "sourceFile": "merged-css",
+      "properties": [
+        "background-color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".m1vwuag",
+      "sourceFile": "merged-css",
+      "properties": [
+        "none}"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": "after",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": "before",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".b1k4esu7",
+      "sourceFile": "merged-css",
+      "properties": [
+        "color"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".c1ri4zde",
+      "sourceFile": "merged-css",
+      "properties": [],
+      "duration": "",
+      "timing": "ease-out",
+      "delay": ""
+    },
+    {
+      "selector": ".l35vtix.lv62knu",
+      "sourceFile": "merged-css",
+      "properties": [
+        "none"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    },
+    {
+      "selector": ".i12uczf0",
+      "sourceFile": "merged-css",
+      "properties": [
+        "opacity"
+      ],
+      "duration": "",
+      "timing": "",
+      "delay": ""
+    }
+  ],
+  "cssAnimations": [],
+  "interactionAnimations": [
+    {
+      "trigger": "hover",
+      "selector": ".b1rdbf0o:hover:not(:disabled),.b1rdbf0o:active:focus-visible:not(:disabled),.b1rdbf0o:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".bygx14j:hover:not(:disabled),.bygx14j:active:focus-visible:not(:disabled),.bygx14j:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".b1oc7bld:hover:not(:disabled),.b1oc7bld:active:focus-visible:not(:disabled),.b1oc7bld:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".b1oc7bld:hover:not(:disabled),.b1oc7bld:active:focus-visible:not(:disabled),.b1oc7bld:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".b1imdzu7:hover:not(:disabled),.b1imdzu7:active:focus-visible:not(:disabled),.b1imdzu7:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".bvatmcz:hover:not(:disabled),.bvatmcz:active:focus-visible:not(:disabled),.bvatmcz:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".b1kotam0:hover:not(:disabled),.b1kotam0:active:focus-visible:not(:disabled),.b1kotam0:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".b13fldmr:hover:not(:disabled),.b13fldmr:active:focus-visible:not(:disabled),.b13fldmr:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".b6dohbs:hover:not(:disabled),.b6dohbs:active:focus-visible:not(:disabled),.b6dohbs:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".pn3co68:hover:not(:disabled),.pn3co68:active:focus-visible:not(:disabled),.pn3co68:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".dvsi73e:hover:not(:disabled),.dvsi73e:active:focus-visible:not(:disabled),.dvsi73e:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "#222)}.s56pukx:hover",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".upfcbpb .s56pukx:hover",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".t17y8opq:hover .toast-card",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "--toast-scale: 1;--translate-y: calc(var(--index) * var(--toast-expanded-offset) * -1)}.t17y8opq:hover .toast-card:not(.paused):not(.is-overflowing):not(.is-entering)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "animation-play-state:paused}.t17y8opq:hover .toast-card.is-stacked .toast-cta",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".p1wvyz2l .toaster-content:hover .toast-card",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".tevjxrg:hover:not(:disabled),.tevjxrg:active:focus-visible:not(:disabled),.tevjxrg:active:hover:not(:disabled)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "#999)}.m8c9l16:where([data-active-item=true][aria-expanded=true]):not(:hover)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "#333)}.m8c9l16:where([data-active-item=true][aria-expanded=true]):not(:hover) .adwpnn1",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "#999)}.m8c9l16:where([data-active-item=true][aria-expanded=true]):not(:hover) .cfbiwg1",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "#222)}.m1skb7s7:where([data-active-item=true][aria-expanded=true]):not(:hover)",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "#333)}.m1skb7s7:where([data-active-item=true][aria-expanded=true]):not(:hover) .mxzzb2k",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "#999)}.m1skb7s7:where([data-active-item=true][aria-expanded=true]):not(:hover) .adwpnn1",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "width:var(--avatar-size);height:var(--avatar-size);border-radius:inherit;cursor:pointer;opacity:0;background-color:#0009;justify-content:center;align-items:center;transition:opacity .3s ease-in-out;display:flex;position:absolute;top:0;left:0}.c1ac9vjt:hover",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "#fff)}.w1vx93q9:hover>svg",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "#666)}.w1vx93q9:hover>svg path:first-child",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "#666)}.p1oxlfbn:hover>.w1vx93q9>svg",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": "opacity:1}.w1vx93q9:hover .tkaasce",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    },
+    {
+      "trigger": "hover",
+      "selector": ".o1oauour:hover>svg",
+      "estimatedEffect": "hover-style-change",
+      "route": "",
+      "confidence": "high"
+    }
+  ],
+  "detectedJSLibraries": [
+    {
+      "name": "framer-motion",
+      "confidence": "high",
+      "evidence": [
+        "framer-motion",
+        "motion.create(",
+        "from \"framer-motion\"",
+        "AnimatePresence"
+      ],
+      "routeUsage": []
+    },
+    {
+      "name": "WebGL-Shaders",
+      "confidence": "high",
+      "evidence": [
+        "createShader(",
+        "createProgram("
+      ],
+      "routeUsage": []
+    },
+    {
+      "name": "Lenis",
+      "confidence": "medium",
+      "evidence": [
+        "lenis"
+      ],
+      "routeUsage": []
+    }
+  ],
+  "routeAnimationMap": {
+    "/": {
+      "route": "/",
+      "keyframeCount": 0,
+      "transitionCount": 20,
+      "interactionCount": 15,
+      "detectedLibs": [
+        "framer-motion",
+        "WebGL-Shaders",
+        "Lenis"
+      ],
+      "hasScrollTriggered": true,
+      "hasHoverEffects": true
+    },
+    "/route-1": {
+      "route": "/route-1",
+      "keyframeCount": 0,
+      "transitionCount": 20,
+      "interactionCount": 15,
+      "detectedLibs": [
+        "framer-motion",
+        "WebGL-Shaders",
+        "Lenis"
+      ],
+      "hasScrollTriggered": true,
+      "hasHoverEffects": true
+    }
+  },
+  "animationSpyData": {
+    "gsapAnimations": [],
+    "scrollTriggers": [],
+    "intersectionObservers": [],
+    "cssAnimations": [],
+    "lenis": null,
+    "aos": null,
+    "animatedElements": [],
+    "potentiallyAnimated": [
+      {
+        "tag": "html",
+        "className": "lenis",
+        "transition": "all"
+      },
+      {
+        "tag": "head",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "title",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "script",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "body",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "script",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-dYXTG framer-1yv164u",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-mWopR framer-Nmgwh framer-W7LuS framer-1gwwtfb",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1lf9tzv-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-dpdy0d hidden-1paqt8s",
+        "transition": "all"
+      },
+      {
+        "tag": "nav",
+        "className": "framer-saGJ3 framer-M3n4H framer-195ki3b framer-v-195ki3b",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1a8qe5x",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-wlfjwy",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-14gcjol framer-11uolsd",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "img",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-lekfk6",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-g8of7l",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1ft790z",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-pgbefa",
+        "transition": "all"
+      },
+      {
+        "tag": "main",
+        "className": "framer-1gtanxu",
+        "transition": "all"
+      },
+      {
+        "tag": "section",
+        "className": "framer-m6y5it",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-wq5g0u",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "img",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1n5vr87",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1t06rf4",
+        "transition": "all"
+      },
+      {
+        "tag": "h1",
+        "className": "framer-text framer-styles-preset-11xnjq1",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ay3ex4",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1vcau2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-1paqt8s",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1t504kw-container",
+        "transition": "all"
+      },
+      {
+        "tag": "button",
+        "className": "framer-t38qD framer-WCIgU framer-g3sdog framer-v-g3sdog",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-1p5om0o framer-6ophp3",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-jfmibv",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-okjovb",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-151f046",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1u16ldn-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1p26z5w-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-17ndlmv",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-1xm6n8w hidden-1wgwu20",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-zdky93-container",
+        "transition": "all",
+        "transform": "matrix(1, 0, 0, 1, 0, -80)"
+      },
+      {
+        "tag": "nav",
+        "className": "framer-saGJ3 framer-M3n4H framer-195ki3b framer-v-195ki3b",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1a8qe5x",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-wlfjwy",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-14gcjol framer-11uolsd",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "img",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-lekfk6",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-g8of7l",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1ft790z",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-pgbefa",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-hcm3xd-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-1xm6n8w hidden-1wgwu20",
+        "transition": "all"
+      },
+      {
+        "tag": "footer",
+        "className": "framer-KUy35 framer-vQNzi framer-3uC5m framer-M3n4H framer-nz6C7 framer-W7LuS framer-un1Bv framer-6EIJm framer-cis9k2 framer-v-cis9k2",
+        "transition": "all"
+      },
+      {
+        "tag": "section",
+        "className": "framer-1uso4zc",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-175rodl",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-18ihst5",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1gyzrfr",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-nqaxup",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "img",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-f2yte9",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ezjudj",
+        "transition": "all"
+      },
+      {
+        "tag": "h3",
+        "className": "framer-text framer-styles-preset-qrpho1",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1fw42ar",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1v525k0",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-bfaxg5",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-dtlisq",
+        "transition": "all"
+      },
+      {
+        "tag": "form",
+        "className": "framer-w7mhd2",
+        "transition": "all"
+      },
+      {
+        "tag": "label",
+        "className": "framer-lydwyo",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ghzc4",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-pgbefa",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-form-text-input framer-form-input-wrapper framer-ic9any framer-form-text-input-type",
+        "transition": "background, box-shadow"
+      },
+      {
+        "tag": "input",
+        "className": "framer-form-input framer-form-input-empty",
+        "transition": "all"
+      },
+      {
+        "tag": "label",
+        "className": "framer-vnyxop",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-w5dat8",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-pgbefa",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-form-text-input framer-form-input-wrapper framer-mqnptk",
+        "transition": "background, box-shadow"
+      },
+      {
+        "tag": "input",
+        "className": "framer-form-input framer-form-input-empty",
+        "transition": "all"
+      },
+      {
+        "tag": "label",
+        "className": "framer-1z07nbe",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1bggo2y",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-pgbefa",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-form-text-input framer-form-input-wrapper framer-13mw6aw",
+        "transition": "background, box-shadow"
+      },
+      {
+        "tag": "input",
+        "className": "framer-form-input framer-form-input-empty",
+        "transition": "all"
+      },
+      {
+        "tag": "label",
+        "className": "framer-1r1141e",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-fw72sz",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-pgbefa",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-form-text-input framer-form-input-wrapper framer-1o6hkti framer-form-textarea-input-type",
+        "transition": "background, box-shadow"
+      },
+      {
+        "tag": "textarea",
+        "className": "framer-form-input",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-29p82a-container",
+        "transition": "all"
+      },
+      {
+        "tag": "button",
+        "className": "framer-t38qD framer-WCIgU framer-g3sdog framer-v-1klfovf",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-1p5om0o framer-6ophp3",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-jfmibv",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-okjovb",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-151f046",
+        "transition": "all"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "input",
+        "className": "",
+        "transition": "all",
+        "transform": "matrix(0, 0, 0, 0, 0, 0)"
+      },
+      {
+        "tag": "script",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "noscript",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "footer",
+        "className": "framer-17sd12c",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-g3xhlm",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1cl3hhy",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-10h7478",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-v7sh32",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-txhxj3",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-7vgg9c",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-t49guo",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-yy7qd9",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1vcau2",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-text framer-styles-preset-yx9a1c",
+        "transition": "color 0.3s cubic-bezier(0.44, 0, 0.56, 1)"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1rmg79u",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1xgo1qo",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1kav03k",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1nf8np8",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1vcau2",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-text framer-styles-preset-yx9a1c",
+        "transition": "color 0.3s cubic-bezier(0.44, 0, 0.56, 1)"
+      },
+      {
+        "tag": "div",
+        "className": "framer-b0xlki",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1nydqtq",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-dk1ec",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-fbqztc",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1vcau2",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-text framer-styles-preset-yx9a1c",
+        "transition": "color 0.3s cubic-bezier(0.44, 0, 0.56, 1)"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1u1nlyh",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-7n9mnr",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-85993h",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1cmkvx3",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-18mhpr2",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1vcau2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-iovrlq",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1vcau2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-138vnxb",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-12sa0h5",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-af26sm",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1e28bvw-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ozqyqj-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ok8onu-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1ggefga-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-qf3luo-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-xpvubp-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-wrfbmw",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-13dkeq2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-d7725l-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1ofe2w-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-17rw031-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-mt33ft-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-akec6d-container",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-UPlzk framer-nz6C7 framer-amiluz framer-v-amiluz framer-vdtzjk",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-ie8anl-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "g",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-u5x6uj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1z07rd2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1nf2p8p",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "foreignobject",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-jd9pcd",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1ymisi2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-hge15g",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1b995d8",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-text framer-styles-preset-yx9a1c",
+        "transition": "color 0.3s cubic-bezier(0.44, 0, 0.56, 1)"
+      },
+      {
+        "tag": "div",
+        "className": "framer-67y250",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1b995d8",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-text framer-styles-preset-yx9a1c",
+        "transition": "color 0.3s cubic-bezier(0.44, 0, 0.56, 1)"
+      },
+      {
+        "tag": "div",
+        "className": "framer-18q1y75-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-eNAeu framer-1fi8orq framer-v-1fi8orq",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-360cll",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-148kq99",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-18jw13q",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1ifd4y5",
+        "transition": "all"
+      },
+      {
+        "tag": "html",
+        "className": "lenis",
+        "transition": "all"
+      },
+      {
+        "tag": "head",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "title",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "script",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "link",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "meta",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "body",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "script",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-dYXTG framer-1yv164u",
+        "transition": "all"
+      },
+      {
+        "tag": "style",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-4NkYy framer-Nmgwh framer-BwaNn framer-vQNzi framer-klsXf framer-o3VSo framer-LejJ0 framer-zgsw7e",
+        "transition": "all"
+      },
+      {
+        "tag": "main",
+        "className": "framer-1sv2b1r",
+        "transition": "all"
+      },
+      {
+        "tag": "section",
+        "className": "framer-1kl1lo1",
+        "transition": "all"
+      },
+      {
+        "tag": "section",
+        "className": "framer-1j39tsq",
+        "transition": "all"
+      },
+      {
+        "tag": "section",
+        "className": "framer-8ck2yw",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "foreignobject",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      {
+        "tag": "h1",
+        "className": "framer-text",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-93btow",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-vm6iey",
+        "transition": "all"
+      },
+      {
+        "tag": "h1",
+        "className": "framer-text framer-styles-preset-11xnjq1",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1skk0bb-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-otwvw4",
+        "transition": "all"
+      },
+      {
+        "tag": "button",
+        "className": "framer-t38qD framer-WCIgU framer-g3sdog framer-v-g3sdog",
+        "transition": "all"
+      },
+      {
+        "tag": "a",
+        "className": "framer-1p5om0o framer-6ophp3",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-jfmibv",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-okjovb",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-151f046",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-drn9mx-container",
+        "transition": "all",
+        "transform": "matrix(0.989019, -0.147789, 0.147789, 0.989019, -46, -14.6882)"
+      },
+      {
+        "tag": "div",
+        "className": "framer-5ayKa framer-8fG5h framer-1ur60bv framer-v-1ur60bv",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1t85896-container",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "defs",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "filter",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "feturbulence",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "fedisplacementmap",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1jhn16c-container",
+        "transition": "all",
+        "transform": "matrix(1, 0, 0, 1, -46, -31.0078)"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-qm2clj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-16w97bo",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-otwvw4",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-tqofvi-container",
+        "transition": "all",
+        "transform": "matrix(0.956053, -0.293193, 0.293193, 0.956053, -41.1328, -9.56923)"
+      },
+      {
+        "tag": "div",
+        "className": "framer-5ayKa framer-8fG5h framer-1ur60bv framer-v-1ur60bv",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1t85896-container",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "defs",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "filter",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "feturbulence",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "fedisplacementmap",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1jhn16c-container",
+        "transition": "all",
+        "transform": "matrix(1, 0, 0, 1, -41.1328, -40.125)"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-qm2clj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-16w97bo",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1h224it-container",
+        "transition": "all",
+        "transform": "matrix(0.975563, -0.219719, 0.219719, 0.975563, -47.0469, -22.9333)"
+      },
+      {
+        "tag": "div",
+        "className": "framer-5ayKa framer-8fG5h framer-1ur60bv framer-v-1w64cd8",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1t85896-container",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "defs",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "filter",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "feturbulence",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "fedisplacementmap",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1jhn16c-container",
+        "transition": "all",
+        "transform": "matrix(1, 0, 0, 1, -47.0469, -47.0469)"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-qm2clj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-16w97bo",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-i5xq41",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1m9pwpb",
+        "transition": "all",
+        "transform": "matrix(1.04115, 0, 0, 1.04115, 0, 0)"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1nlaqts",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1owrvj1-container",
+        "transition": "all"
+      },
+      {
+        "tag": "video",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1d0taq8-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "section",
+        "className": "framer-kqwthz",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1ylgqnn",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1pfxbxg-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-qcWRV framer-vQNzi framer-W7LuS framer-1qvdzdc framer-v-1qvdzdc",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1lfw59q",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "img",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-7t1r7z-container",
+        "transition": "all",
+        "transform": "matrix(1, 0, 0, 1, -128.039, -121.539)"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1xcy6gu",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-qrpho1",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1exh1m5",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1vcau2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-5iyhf2-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-qcWRV framer-vQNzi framer-W7LuS framer-1qvdzdc framer-v-1qvdzdc",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1lfw59q",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "img",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-7t1r7z-container",
+        "transition": "all",
+        "transform": "matrix(1, 0, 0, 1, -128.039, -128.039)"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1xcy6gu",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-qrpho1",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1exh1m5",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1vcau2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-7hwwvd hidden-otwvw4",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-m9ktfy-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-qcWRV framer-vQNzi framer-W7LuS framer-1qvdzdc framer-v-1qvdzdc",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1lfw59q",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "img",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-7t1r7z-container",
+        "transition": "all",
+        "transform": "matrix(1, 0, 0, 1, -128.039, -127.492)"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1xcy6gu",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-qrpho1",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1exh1m5",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-1vcau2",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-c770yv-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-eNAeu framer-1fi8orq framer-v-1fi8orq",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-360cll",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-148kq99",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-18jw13q",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1ifd4y5",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-15u8zb8",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1nvr07e",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-lxc9mf",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1p6mpw3",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1wfreus",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1luj7si",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-10p4bsh",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-5vzlhi",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1tgu9cq",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-qv3hra",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-x0lb48",
+        "transition": "all"
+      },
+      {
+        "tag": "section",
+        "className": "framer-75zw9r",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-17wrqcb-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-eNAeu framer-1fi8orq framer-v-1fi8orq",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-360cll",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-148kq99",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-18jw13q",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1ifd4y5",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-15u8zb8",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1nvr07e",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-lxc9mf",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1p6mpw3",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1wfreus",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1luj7si",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-10p4bsh",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-5vzlhi",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1tgu9cq",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-qv3hra",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-x0lb48",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-xm1au2-container",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-pmpkh",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1e8eab7",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-l61sy6",
+        "transition": "all"
+      },
+      {
+        "tag": "h2",
+        "className": "framer-text framer-styles-preset-19b3qtg",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "span",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "ssr-variant hidden-otwvw4",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-a1gr2r-container",
+        "transition": "all",
+        "transform": "matrix(0.939693, -0.34202, 0.34202, 0.939693, -55.5234, -43)"
+      },
+      {
+        "tag": "div",
+        "className": "framer-5ayKa framer-8fG5h framer-1ur60bv framer-v-1w64cd8",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1t85896-container",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "defs",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "filter",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "feturbulence",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "fedisplacementmap",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-1jhn16c-container",
+        "transition": "all",
+        "transform": "matrix(1, 0, 0, 1, -55.5234, -55.0547)"
+      },
+      {
+        "tag": "div",
+        "className": "",
+        "transition": "all"
+      },
+      {
+        "tag": "svg",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "path",
+        "className": "[object SVGAnimatedString]",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-qm2clj",
+        "transition": "all"
+      },
+      {
+        "tag": "p",
+        "className": "framer-text framer-styles-preset-16w97bo",
+        "transition": "all"
+      },
+      {
+        "tag": "div",
+        "className": "framer-jbs8gc",
+        "transition": "all"
+      }
+    ],
+    "detectedLibraries": {
+      "gsap": false,
+      "scrollTrigger": false,
+      "lenis": false,
+      "aos": false,
+      "framerMotion": true,
+      "three": false,
+      "spline": false,
+      "babylon": false,
+      "pixi": false,
+      "rive": false,
+      "lottie": false
+    },
+    "cssKeyframes": {
+      "__framer-editorbar-spinner-spin": "@keyframes __framer-editorbar-spinner-spin { \n  100% { transform: rotate(360deg); }\n}"
+    },
+    "cssVariables": {},
+    "customStyles": [],
+    "inlineStylesRaw": "",
+    "webglEffects": {
+      "hasWebGL": false,
+      "canvasCount": 0,
+      "canvases": [],
+      "custom3dElements": [],
+      "shaders": [],
+      "detected3dLibraries": []
+    }
+  },
+  "webglEffects": {
+    "hasWebGL": false,
+    "canvasCount": 0,
+    "canvases": [],
+    "custom3dElements": [],
+    "shaders": [],
+    "detected3dLibraries": []
+  },
+  "summary": {
+    "totalKeyframes": 16,
+    "totalTransitions": 39,
+    "totalInteractionAnimations": 30,
+    "totalDetectedLibs": 3,
+    "routeCount": 2,
+    "primaryAnimationType": "js-library"
+  }
+}

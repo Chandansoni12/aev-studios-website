@@ -1,0 +1,8 @@
+/*
+ * CodesandboxLogo (phosphor-icons/CodesandboxLogo@0.0.53)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/BIwihdUoeA68PyIKqRfS/utnlX1CVtR3vX6RKNsW9/CodesandboxLogo.js"
+export { default } from "https://framerusercontent.com/modules/BIwihdUoeA68PyIKqRfS/utnlX1CVtR3vX6RKNsW9/CodesandboxLogo.js"

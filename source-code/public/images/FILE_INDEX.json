@@ -1,0 +1,4148 @@
+[
+  {
+    "path": "404.html",
+    "type": ".html",
+    "charSize": 203020,
+    "byteSize": 203031
+  },
+  {
+    "path": "animation-spy/404.json",
+    "type": ".json",
+    "charSize": 32640,
+    "byteSize": 32640
+  },
+  {
+    "path": "animation-spy/index.json",
+    "type": ".json",
+    "charSize": 30507,
+    "byteSize": 30507
+  },
+  {
+    "path": "assets/app.framerstatic.com/canvas-sandbox-on-page.LOZ6JHKA.mjs",
+    "type": ".mjs",
+    "charSize": 39036,
+    "byteSize": 39036
+  },
+  {
+    "path": "assets/app.framerstatic.com/canvas-sandbox-on-page.ZLEQJPO6.css",
+    "type": ".css",
+    "charSize": 64631,
+    "byteSize": 64631
+  },
+  {
+    "path": "assets/app.framerstatic.com/checkerboard-18-PJWIPCVW.svg",
+    "type": ".svg",
+    "charSize": 283,
+    "byteSize": 283
+  },
+  {
+    "path": "assets/app.framerstatic.com/checkerboard-22-MHUGSN2C.svg",
+    "type": ".svg",
+    "charSize": 216,
+    "byteSize": 216
+  },
+  {
+    "path": "assets/app.framerstatic.com/checkerboard-30-HXGIAXYP.svg",
+    "type": ".svg",
+    "charSize": 297,
+    "byteSize": 297
+  },
+  {
+    "path": "assets/app.framerstatic.com/checkerboard-8-776AE4U3.svg",
+    "type": ".svg",
+    "charSize": 278,
+    "byteSize": 278
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-2BUQYWAH.mjs",
+    "type": ".mjs",
+    "charSize": 2172,
+    "byteSize": 2172
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-2CEDOG4D.mjs",
+    "type": ".mjs",
+    "charSize": 2002,
+    "byteSize": 2002
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-2FCXHKEL.mjs",
+    "type": ".mjs",
+    "charSize": 1212,
+    "byteSize": 1212
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-2MT7RTZU.mjs",
+    "type": ".mjs",
+    "charSize": 4848,
+    "byteSize": 4848
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-2Z4UPA7G.mjs",
+    "type": ".mjs",
+    "charSize": 182,
+    "byteSize": 182
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-2Z6RNT3X.mjs",
+    "type": ".mjs",
+    "charSize": 55725,
+    "byteSize": 55725
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-36CHR5VT.mjs",
+    "type": ".mjs",
+    "charSize": 9311,
+    "byteSize": 9311
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3BNSQ6R3.mjs",
+    "type": ".mjs",
+    "charSize": 4254,
+    "byteSize": 4254
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3CKYEPG2.mjs",
+    "type": ".mjs",
+    "charSize": 6659,
+    "byteSize": 6659
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3DO2FQVH.mjs",
+    "type": ".mjs",
+    "charSize": 529,
+    "byteSize": 529
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3JXINZRV.mjs",
+    "type": ".mjs",
+    "charSize": 36737,
+    "byteSize": 36737
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3L3T6TLP.mjs",
+    "type": ".mjs",
+    "charSize": 555855,
+    "byteSize": 555855
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3PRKS5EZ.mjs",
+    "type": ".mjs",
+    "charSize": 227,
+    "byteSize": 227
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3RY5YAQT.mjs",
+    "type": ".mjs",
+    "charSize": 1793,
+    "byteSize": 1793
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3RZKUGJU.mjs",
+    "type": ".mjs",
+    "charSize": 19575,
+    "byteSize": 19575
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3SJPTK4G.mjs",
+    "type": ".mjs",
+    "charSize": 146,
+    "byteSize": 146
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3UQ5C4AE.mjs",
+    "type": ".mjs",
+    "charSize": 1482,
+    "byteSize": 1482
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-3WKMMIQB.mjs",
+    "type": ".mjs",
+    "charSize": 10272,
+    "byteSize": 10272
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-42CIUZMR.mjs",
+    "type": ".mjs",
+    "charSize": 16501,
+    "byteSize": 16501
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-42WXH4JZ.mjs",
+    "type": ".mjs",
+    "charSize": 1798,
+    "byteSize": 1798
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-44GVXXDT.mjs",
+    "type": ".mjs",
+    "charSize": 2448,
+    "byteSize": 2448
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-47P32JLD.mjs",
+    "type": ".mjs",
+    "charSize": 262,
+    "byteSize": 262
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-4GL23XDC.mjs",
+    "type": ".mjs",
+    "charSize": 9431,
+    "byteSize": 9431
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-4HRYW54D.mjs",
+    "type": ".mjs",
+    "charSize": 417,
+    "byteSize": 417
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-4JY5UMT2.mjs",
+    "type": ".mjs",
+    "charSize": 667,
+    "byteSize": 667
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-4LRWIK5D.mjs",
+    "type": ".mjs",
+    "charSize": 748,
+    "byteSize": 748
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-4ZT5FTBN.mjs",
+    "type": ".mjs",
+    "charSize": 3321,
+    "byteSize": 3321
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-55TARNRL.mjs",
+    "type": ".mjs",
+    "charSize": 1631,
+    "byteSize": 1631
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-5IL6A4G6.mjs",
+    "type": ".mjs",
+    "charSize": 198178,
+    "byteSize": 198178
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-5J75RUHV.mjs",
+    "type": ".mjs",
+    "charSize": 1060,
+    "byteSize": 1060
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-5KYL5TZI.mjs",
+    "type": ".mjs",
+    "charSize": 1900,
+    "byteSize": 1900
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-5QSN7R54.mjs",
+    "type": ".mjs",
+    "charSize": 772,
+    "byteSize": 772
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-5S6GKLNN.mjs",
+    "type": ".mjs",
+    "charSize": 2196,
+    "byteSize": 2196
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-5SCC76R2.mjs",
+    "type": ".mjs",
+    "charSize": 21931,
+    "byteSize": 21931
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-5T53KDGV.mjs",
+    "type": ".mjs",
+    "charSize": 392,
+    "byteSize": 392
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-5XPTMCOL.mjs",
+    "type": ".mjs",
+    "charSize": 2155,
+    "byteSize": 2155
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-65U5SPEK.mjs",
+    "type": ".mjs",
+    "charSize": 12231,
+    "byteSize": 12231
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-6ACR5S7Z.mjs",
+    "type": ".mjs",
+    "charSize": 1287,
+    "byteSize": 1287
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-6GEOGNHE.mjs",
+    "type": ".mjs",
+    "charSize": 313,
+    "byteSize": 313
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-6LOQDKOR.mjs",
+    "type": ".mjs",
+    "charSize": 16560,
+    "byteSize": 16560
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-6XCHZ6JF.mjs",
+    "type": ".mjs",
+    "charSize": 14764,
+    "byteSize": 14764
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-73DCT4FW.mjs",
+    "type": ".mjs",
+    "charSize": 210,
+    "byteSize": 210
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-75S6PFJX.mjs",
+    "type": ".mjs",
+    "charSize": 2875,
+    "byteSize": 2875
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-7GKAI4PF.mjs",
+    "type": ".mjs",
+    "charSize": 278049,
+    "byteSize": 278049
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-7JB7LKQK.mjs",
+    "type": ".mjs",
+    "charSize": 511,
+    "byteSize": 511
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-7WJ42D6X.mjs",
+    "type": ".mjs",
+    "charSize": 115,
+    "byteSize": 115
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-ABHAING4.mjs",
+    "type": ".mjs",
+    "charSize": 509,
+    "byteSize": 509
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-AHBUMA74.mjs",
+    "type": ".mjs",
+    "charSize": 317,
+    "byteSize": 317
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-AM4LK65D.mjs",
+    "type": ".mjs",
+    "charSize": 2261,
+    "byteSize": 2261
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-ANS27QTX.mjs",
+    "type": ".mjs",
+    "charSize": 8437,
+    "byteSize": 8437
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-ARJ7WQTJ.mjs",
+    "type": ".mjs",
+    "charSize": 1489,
+    "byteSize": 1489
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-AYNVEX5D.mjs",
+    "type": ".mjs",
+    "charSize": 344,
+    "byteSize": 344
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-AYYBTPZU.mjs",
+    "type": ".mjs",
+    "charSize": 173,
+    "byteSize": 173
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-AZCCYLSA.mjs",
+    "type": ".mjs",
+    "charSize": 11909,
+    "byteSize": 11909
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-AZXT5MI7.mjs",
+    "type": ".mjs",
+    "charSize": 513,
+    "byteSize": 513
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-B2EH73GW.mjs",
+    "type": ".mjs",
+    "charSize": 496,
+    "byteSize": 496
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-B5RAPL46.mjs",
+    "type": ".mjs",
+    "charSize": 3731,
+    "byteSize": 3731
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-B7BQE4AL.mjs",
+    "type": ".mjs",
+    "charSize": 456,
+    "byteSize": 456
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-BCPS7S34.mjs",
+    "type": ".mjs",
+    "charSize": 24853,
+    "byteSize": 24853
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-BLSKQ6TG.mjs",
+    "type": ".mjs",
+    "charSize": 515,
+    "byteSize": 515
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-BOLWAZIJ.mjs",
+    "type": ".mjs",
+    "charSize": 571885,
+    "byteSize": 571885
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-BVAR37OC.mjs",
+    "type": ".mjs",
+    "charSize": 1002,
+    "byteSize": 1002
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-BWOBSYK2.mjs",
+    "type": ".mjs",
+    "charSize": 258,
+    "byteSize": 258
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-C2K5WN7U.mjs",
+    "type": ".mjs",
+    "charSize": 45766,
+    "byteSize": 45766
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-C2OZNJJN.mjs",
+    "type": ".mjs",
+    "charSize": 1201,
+    "byteSize": 1201
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-C66LYCLJ.mjs",
+    "type": ".mjs",
+    "charSize": 2145,
+    "byteSize": 2145
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-CAERTWB7.mjs",
+    "type": ".mjs",
+    "charSize": 302,
+    "byteSize": 302
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-CDPPSWHD.mjs",
+    "type": ".mjs",
+    "charSize": 549,
+    "byteSize": 549
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-CJWIKYZ7.mjs",
+    "type": ".mjs",
+    "charSize": 749,
+    "byteSize": 749
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-CMWKQFSN.mjs",
+    "type": ".mjs",
+    "charSize": 254800,
+    "byteSize": 254800
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-D3BIVQHH.mjs",
+    "type": ".mjs",
+    "charSize": 417,
+    "byteSize": 417
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-D3SZBJZX.mjs",
+    "type": ".mjs",
+    "charSize": 196,
+    "byteSize": 196
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-D4LI4F72.mjs",
+    "type": ".mjs",
+    "charSize": 1107,
+    "byteSize": 1107
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-DDQ2IDFF.mjs",
+    "type": ".mjs",
+    "charSize": 11707,
+    "byteSize": 11707
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-DHZWEIEI.mjs",
+    "type": ".mjs",
+    "charSize": 875,
+    "byteSize": 875
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-DKJC4UXA.mjs",
+    "type": ".mjs",
+    "charSize": 49909,
+    "byteSize": 49909
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-DPHJW6UJ.mjs",
+    "type": ".mjs",
+    "charSize": 192663,
+    "byteSize": 192663
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-DVLP366F.mjs",
+    "type": ".mjs",
+    "charSize": 1379,
+    "byteSize": 1379
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-DWEQS5LX.mjs",
+    "type": ".mjs",
+    "charSize": 192,
+    "byteSize": 192
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-E2B4PANW.mjs",
+    "type": ".mjs",
+    "charSize": 237,
+    "byteSize": 237
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-E5B536XW.mjs",
+    "type": ".mjs",
+    "charSize": 5942,
+    "byteSize": 5942
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-E6Z62TTN.mjs",
+    "type": ".mjs",
+    "charSize": 342,
+    "byteSize": 342
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-E72JYPC5.mjs",
+    "type": ".mjs",
+    "charSize": 35077,
+    "byteSize": 35077
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-EAUMDN6M.mjs",
+    "type": ".mjs",
+    "charSize": 8802,
+    "byteSize": 8802
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-EHVYGNVJ.mjs",
+    "type": ".mjs",
+    "charSize": 805,
+    "byteSize": 805
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-EHWAAKT7.mjs",
+    "type": ".mjs",
+    "charSize": 4774,
+    "byteSize": 4774
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-EIH2JWGG.mjs",
+    "type": ".mjs",
+    "charSize": 1271,
+    "byteSize": 1271
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-EJODT6IP.mjs",
+    "type": ".mjs",
+    "charSize": 3601,
+    "byteSize": 3601
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-EKYJNLIX.mjs",
+    "type": ".mjs",
+    "charSize": 31839,
+    "byteSize": 31839
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-EQBCTBZ3.mjs",
+    "type": ".mjs",
+    "charSize": 425,
+    "byteSize": 425
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-ETLWQA6D.mjs",
+    "type": ".mjs",
+    "charSize": 981,
+    "byteSize": 981
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-EYMNQYLM.mjs",
+    "type": ".mjs",
+    "charSize": 3665,
+    "byteSize": 3665
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-EZMDKA7N.mjs",
+    "type": ".mjs",
+    "charSize": 707,
+    "byteSize": 707
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-EZMKBVIS.mjs",
+    "type": ".mjs",
+    "charSize": 3572,
+    "byteSize": 3572
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-F6QL2AIZ.mjs",
+    "type": ".mjs",
+    "charSize": 7874,
+    "byteSize": 7874
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-FBYS4Y3C.mjs",
+    "type": ".mjs",
+    "charSize": 13501,
+    "byteSize": 13501
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-FCDW3NMC.mjs",
+    "type": ".mjs",
+    "charSize": 53649,
+    "byteSize": 53649
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-FIJLBKPU.mjs",
+    "type": ".mjs",
+    "charSize": 462,
+    "byteSize": 462
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-FN3PMT3K.mjs",
+    "type": ".mjs",
+    "charSize": 98305,
+    "byteSize": 98305
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-FNXVRUN6.mjs",
+    "type": ".mjs",
+    "charSize": 353,
+    "byteSize": 353
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-FUQZY6JN.mjs",
+    "type": ".mjs",
+    "charSize": 134,
+    "byteSize": 134
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-FWZ2NLE7.mjs",
+    "type": ".mjs",
+    "charSize": 1531,
+    "byteSize": 1531
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-FYI3WVDW.mjs",
+    "type": ".mjs",
+    "charSize": 4961,
+    "byteSize": 4961
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-FZ6XN7HW.mjs",
+    "type": ".mjs",
+    "charSize": 2561,
+    "byteSize": 2561
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-G3KF7MVA.mjs",
+    "type": ".mjs",
+    "charSize": 978,
+    "byteSize": 978
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-GCZBEZS4.mjs",
+    "type": ".mjs",
+    "charSize": 2868,
+    "byteSize": 2868
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-GHARU3XL.mjs",
+    "type": ".mjs",
+    "charSize": 1254,
+    "byteSize": 1254
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-GL2DDCC4.mjs",
+    "type": ".mjs",
+    "charSize": 4539,
+    "byteSize": 4539
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-GNGFTJOE.mjs",
+    "type": ".mjs",
+    "charSize": 823,
+    "byteSize": 823
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-GQBRCDYK.mjs",
+    "type": ".mjs",
+    "charSize": 39161,
+    "byteSize": 39161
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-GV47JEYI.mjs",
+    "type": ".mjs",
+    "charSize": 4879,
+    "byteSize": 4879
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-GZJMD5PQ.mjs",
+    "type": ".mjs",
+    "charSize": 12908,
+    "byteSize": 12908
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-HDAHN67Z.mjs",
+    "type": ".mjs",
+    "charSize": 1122,
+    "byteSize": 1122
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-HDO2UBC4.mjs",
+    "type": ".mjs",
+    "charSize": 14359,
+    "byteSize": 14359
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-HGO5MPGE.mjs",
+    "type": ".mjs",
+    "charSize": 1988,
+    "byteSize": 1988
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-HNLDL4GR.mjs",
+    "type": ".mjs",
+    "charSize": 405790,
+    "byteSize": 405790
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-HQMZV6DP.mjs",
+    "type": ".mjs",
+    "charSize": 106,
+    "byteSize": 106
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-HTBRLWIL.mjs",
+    "type": ".mjs",
+    "charSize": 85627,
+    "byteSize": 85627
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-HXTI6XJ4.mjs",
+    "type": ".mjs",
+    "charSize": 3084,
+    "byteSize": 3084
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-I4WV5YGI.mjs",
+    "type": ".mjs",
+    "charSize": 3820,
+    "byteSize": 3820
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-I5YNBBIS.mjs",
+    "type": ".mjs",
+    "charSize": 765,
+    "byteSize": 765
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-I7MTMVW2.mjs",
+    "type": ".mjs",
+    "charSize": 20423,
+    "byteSize": 20423
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-IAW7TGBB.mjs",
+    "type": ".mjs",
+    "charSize": 691,
+    "byteSize": 691
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-IHWNO6UM.mjs",
+    "type": ".mjs",
+    "charSize": 532,
+    "byteSize": 532
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-IMG6DEFK.mjs",
+    "type": ".mjs",
+    "charSize": 1154,
+    "byteSize": 1154
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-IMRSUNRW.mjs",
+    "type": ".mjs",
+    "charSize": 4932,
+    "byteSize": 4932
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-INAXNNLA.mjs",
+    "type": ".mjs",
+    "charSize": 305645,
+    "byteSize": 305645
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-IPJJDYIR.mjs",
+    "type": ".mjs",
+    "charSize": 8058,
+    "byteSize": 8058
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-ISW56VHA.mjs",
+    "type": ".mjs",
+    "charSize": 456,
+    "byteSize": 456
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-IV6636GP.mjs",
+    "type": ".mjs",
+    "charSize": 15046,
+    "byteSize": 15046
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-J3A5W6BK.mjs",
+    "type": ".mjs",
+    "charSize": 317,
+    "byteSize": 317
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-JC352MJC.mjs",
+    "type": ".mjs",
+    "charSize": 3263,
+    "byteSize": 3263
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-JCKPR6HO.mjs",
+    "type": ".mjs",
+    "charSize": 981025,
+    "byteSize": 981025
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-JCRNZQG6.mjs",
+    "type": ".mjs",
+    "charSize": 31508,
+    "byteSize": 31508
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-JGH4OEAT.mjs",
+    "type": ".mjs",
+    "charSize": 9013,
+    "byteSize": 9013
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-JHU5KKUH.mjs",
+    "type": ".mjs",
+    "charSize": 612,
+    "byteSize": 612
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-JM5XONPQ.mjs",
+    "type": ".mjs",
+    "charSize": 1049,
+    "byteSize": 1049
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-JSNYRYM6.mjs",
+    "type": ".mjs",
+    "charSize": 1806,
+    "byteSize": 1806
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-JT3NKTG7.mjs",
+    "type": ".mjs",
+    "charSize": 415781,
+    "byteSize": 415781
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-JWGMWLDG.mjs",
+    "type": ".mjs",
+    "charSize": 1612,
+    "byteSize": 1612
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-JX62DR2S.mjs",
+    "type": ".mjs",
+    "charSize": 1848,
+    "byteSize": 1848
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-K4MAAOA5.mjs",
+    "type": ".mjs",
+    "charSize": 34766,
+    "byteSize": 34766
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-K6L5GVTR.mjs",
+    "type": ".mjs",
+    "charSize": 269,
+    "byteSize": 269
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-KQFSP5HO.mjs",
+    "type": ".mjs",
+    "charSize": 306,
+    "byteSize": 306
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-KTKATVTP.mjs",
+    "type": ".mjs",
+    "charSize": 694,
+    "byteSize": 694
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-KXSQRZ7J.mjs",
+    "type": ".mjs",
+    "charSize": 3218,
+    "byteSize": 3218
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-KZUB7NUV.mjs",
+    "type": ".mjs",
+    "charSize": 443929,
+    "byteSize": 443929
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-L2QYKMOJ.mjs",
+    "type": ".mjs",
+    "charSize": 3144,
+    "byteSize": 3144
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-L3YVT7EC.mjs",
+    "type": ".mjs",
+    "charSize": 852,
+    "byteSize": 852
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-L5AQ4LH7.mjs",
+    "type": ".mjs",
+    "charSize": 2944,
+    "byteSize": 2944
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-LB6X3CLW.mjs",
+    "type": ".mjs",
+    "charSize": 993,
+    "byteSize": 993
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-LDHZF6XE.mjs",
+    "type": ".mjs",
+    "charSize": 2336,
+    "byteSize": 2336
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-LJSYJA5R.mjs",
+    "type": ".mjs",
+    "charSize": 785,
+    "byteSize": 785
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-LM5CTTO2.mjs",
+    "type": ".mjs",
+    "charSize": 596,
+    "byteSize": 596
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-LUZ6ND5K.mjs",
+    "type": ".mjs",
+    "charSize": 256,
+    "byteSize": 256
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-LVTM6NBN.mjs",
+    "type": ".mjs",
+    "charSize": 330,
+    "byteSize": 330
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-LXU2WA5P.mjs",
+    "type": ".mjs",
+    "charSize": 73,
+    "byteSize": 73
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-LYHCYR5Y.mjs",
+    "type": ".mjs",
+    "charSize": 1592,
+    "byteSize": 1592
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-MJKUC5N4.mjs",
+    "type": ".mjs",
+    "charSize": 73,
+    "byteSize": 73
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-MO356LEC.mjs",
+    "type": ".mjs",
+    "charSize": 7317,
+    "byteSize": 7317
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-MPTFWPOB.mjs",
+    "type": ".mjs",
+    "charSize": 1374,
+    "byteSize": 1374
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-MSHSIAEI.mjs",
+    "type": ".mjs",
+    "charSize": 135,
+    "byteSize": 135
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-MXNP2GM4.mjs",
+    "type": ".mjs",
+    "charSize": 209,
+    "byteSize": 209
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-MYL546Y2.mjs",
+    "type": ".mjs",
+    "charSize": 213,
+    "byteSize": 213
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-MYSAMYRY.mjs",
+    "type": ".mjs",
+    "charSize": 276,
+    "byteSize": 276
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-N27G2WQY.mjs",
+    "type": ".mjs",
+    "charSize": 2781,
+    "byteSize": 2781
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-N4BXE2AG.mjs",
+    "type": ".mjs",
+    "charSize": 4621,
+    "byteSize": 4621
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-N7B4X7FB.mjs",
+    "type": ".mjs",
+    "charSize": 2404,
+    "byteSize": 2404
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-NIQQNLPF.mjs",
+    "type": ".mjs",
+    "charSize": 225911,
+    "byteSize": 225911
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-NJXSBLUG.mjs",
+    "type": ".mjs",
+    "charSize": 1334,
+    "byteSize": 1334
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-NU7BJZ44.mjs",
+    "type": ".mjs",
+    "charSize": 1575,
+    "byteSize": 1575
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-NZYBUZMG.mjs",
+    "type": ".mjs",
+    "charSize": 3259,
+    "byteSize": 3259
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-O5WG5ZBQ.mjs",
+    "type": ".mjs",
+    "charSize": 1095,
+    "byteSize": 1095
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-OGQCKB6U.mjs",
+    "type": ".mjs",
+    "charSize": 225,
+    "byteSize": 225
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-OQKRZLQK.mjs",
+    "type": ".mjs",
+    "charSize": 6037,
+    "byteSize": 6037
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-OUQ7QHER.mjs",
+    "type": ".mjs",
+    "charSize": 2499,
+    "byteSize": 2499
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-P4GS252O.mjs",
+    "type": ".mjs",
+    "charSize": 3707,
+    "byteSize": 3707
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-P5P54LX6.mjs",
+    "type": ".mjs",
+    "charSize": 140,
+    "byteSize": 140
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-P6Q3LWLD.mjs",
+    "type": ".mjs",
+    "charSize": 347,
+    "byteSize": 347
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-P7RVVTNH.mjs",
+    "type": ".mjs",
+    "charSize": 198,
+    "byteSize": 198
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-PCSDLOUK.mjs",
+    "type": ".mjs",
+    "charSize": 16022,
+    "byteSize": 16022
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-PDKBVTLH.mjs",
+    "type": ".mjs",
+    "charSize": 792,
+    "byteSize": 792
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-PKNDGHWV.mjs",
+    "type": ".mjs",
+    "charSize": 313,
+    "byteSize": 313
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-PMKXZ4WJ.mjs",
+    "type": ".mjs",
+    "charSize": 3309,
+    "byteSize": 3309
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-PP2DUQOO.mjs",
+    "type": ".mjs",
+    "charSize": 27424,
+    "byteSize": 27424
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-PPVLWIXN.mjs",
+    "type": ".mjs",
+    "charSize": 3972,
+    "byteSize": 3972
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-PWPT6KBA.mjs",
+    "type": ".mjs",
+    "charSize": 5887,
+    "byteSize": 5887
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-Q652OIYH.mjs",
+    "type": ".mjs",
+    "charSize": 380,
+    "byteSize": 380
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-Q6UY42VS.mjs",
+    "type": ".mjs",
+    "charSize": 445,
+    "byteSize": 445
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-QDCZOT6I.mjs",
+    "type": ".mjs",
+    "charSize": 648,
+    "byteSize": 648
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-QFU6OGL3.mjs",
+    "type": ".mjs",
+    "charSize": 411,
+    "byteSize": 411
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-QMCKFPIA.mjs",
+    "type": ".mjs",
+    "charSize": 33307,
+    "byteSize": 33307
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-QNOOB75K.mjs",
+    "type": ".mjs",
+    "charSize": 9730,
+    "byteSize": 9730
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-QSHYOBNF.mjs",
+    "type": ".mjs",
+    "charSize": 1530,
+    "byteSize": 1530
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-QTR6HXNT.mjs",
+    "type": ".mjs",
+    "charSize": 21270,
+    "byteSize": 21270
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-R23XQVNE.mjs",
+    "type": ".mjs",
+    "charSize": 6127,
+    "byteSize": 6127
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-R2S4D7RI.mjs",
+    "type": ".mjs",
+    "charSize": 398,
+    "byteSize": 398
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-R3EYWWKL.mjs",
+    "type": ".mjs",
+    "charSize": 115098,
+    "byteSize": 115098
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-R3RMO3B5.mjs",
+    "type": ".mjs",
+    "charSize": 313,
+    "byteSize": 313
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-R42XQ7VY.mjs",
+    "type": ".mjs",
+    "charSize": 3536,
+    "byteSize": 3536
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-R4EK2ZR6.mjs",
+    "type": ".mjs",
+    "charSize": 880,
+    "byteSize": 880
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-R5KKA5LS.mjs",
+    "type": ".mjs",
+    "charSize": 43124,
+    "byteSize": 43124
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-R7Z3KLXQ.mjs",
+    "type": ".mjs",
+    "charSize": 18918,
+    "byteSize": 18918
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-REJ2XCEK.mjs",
+    "type": ".mjs",
+    "charSize": 150,
+    "byteSize": 150
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-RJVD5SHM.mjs",
+    "type": ".mjs",
+    "charSize": 88639,
+    "byteSize": 88639
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-RM2JK3Y4.mjs",
+    "type": ".mjs",
+    "charSize": 1183,
+    "byteSize": 1183
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-RMEGI76Q.mjs",
+    "type": ".mjs",
+    "charSize": 1779,
+    "byteSize": 1779
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-RNHTTH2C.mjs",
+    "type": ".mjs",
+    "charSize": 130,
+    "byteSize": 130
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-RQAF2T3L.mjs",
+    "type": ".mjs",
+    "charSize": 179584,
+    "byteSize": 179584
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-RXWDLVFT.mjs",
+    "type": ".mjs",
+    "charSize": 14137,
+    "byteSize": 14137
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-RYFGM7EN.mjs",
+    "type": ".mjs",
+    "charSize": 719,
+    "byteSize": 719
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-RYY4FSEL.mjs",
+    "type": ".mjs",
+    "charSize": 4022,
+    "byteSize": 4022
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-S26LN3IY.mjs",
+    "type": ".mjs",
+    "charSize": 4307,
+    "byteSize": 4307
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-S2C65JSS.mjs",
+    "type": ".mjs",
+    "charSize": 2562,
+    "byteSize": 2562
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-S2FHOYIY.mjs",
+    "type": ".mjs",
+    "charSize": 5396,
+    "byteSize": 5396
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-SAZULEG5.mjs",
+    "type": ".mjs",
+    "charSize": 211,
+    "byteSize": 211
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-SCCCCPCG.mjs",
+    "type": ".mjs",
+    "charSize": 125,
+    "byteSize": 125
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-SJ5ZASSS.mjs",
+    "type": ".mjs",
+    "charSize": 1399,
+    "byteSize": 1399
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-SJ7DPF6D.mjs",
+    "type": ".mjs",
+    "charSize": 622,
+    "byteSize": 622
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-SPWEZONX.mjs",
+    "type": ".mjs",
+    "charSize": 8000,
+    "byteSize": 8000
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-SQ6A2IIP.mjs",
+    "type": ".mjs",
+    "charSize": 990,
+    "byteSize": 990
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-STDMHL4N.mjs",
+    "type": ".mjs",
+    "charSize": 513,
+    "byteSize": 513
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-SUBNU7AC.mjs",
+    "type": ".mjs",
+    "charSize": 875,
+    "byteSize": 875
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-SWYZG2NI.mjs",
+    "type": ".mjs",
+    "charSize": 250,
+    "byteSize": 250
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-T3EFZ3JU.mjs",
+    "type": ".mjs",
+    "charSize": 242,
+    "byteSize": 242
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-TNIU34OT.mjs",
+    "type": ".mjs",
+    "charSize": 6591,
+    "byteSize": 6591
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-TRVJY6EG.mjs",
+    "type": ".mjs",
+    "charSize": 290,
+    "byteSize": 290
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-TS24LVSZ.mjs",
+    "type": ".mjs",
+    "charSize": 439,
+    "byteSize": 439
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-TU5EZ6HY.mjs",
+    "type": ".mjs",
+    "charSize": 2189,
+    "byteSize": 2189
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-UAFAQVPO.mjs",
+    "type": ".mjs",
+    "charSize": 653,
+    "byteSize": 653
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-UCJJ5JNT.mjs",
+    "type": ".mjs",
+    "charSize": 2820,
+    "byteSize": 2820
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-UQU52PVD.mjs",
+    "type": ".mjs",
+    "charSize": 63792,
+    "byteSize": 63792
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-URU7V73L.mjs",
+    "type": ".mjs",
+    "charSize": 29289,
+    "byteSize": 29289
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-UUJZFRP4.mjs",
+    "type": ".mjs",
+    "charSize": 147344,
+    "byteSize": 147344
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-UZNETSBG.mjs",
+    "type": ".mjs",
+    "charSize": 107,
+    "byteSize": 107
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-V3C5CSFI.mjs",
+    "type": ".mjs",
+    "charSize": 361,
+    "byteSize": 361
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-V3XWMOW5.mjs",
+    "type": ".mjs",
+    "charSize": 12365,
+    "byteSize": 12365
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-V5N5MYOO.mjs",
+    "type": ".mjs",
+    "charSize": 3238,
+    "byteSize": 3238
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-V5O7RBXB.mjs",
+    "type": ".mjs",
+    "charSize": 182985,
+    "byteSize": 182985
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-V6H3EL63.mjs",
+    "type": ".mjs",
+    "charSize": 38545,
+    "byteSize": 38545
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-V7FUNARM.mjs",
+    "type": ".mjs",
+    "charSize": 144,
+    "byteSize": 144
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-VBCXFFMV.mjs",
+    "type": ".mjs",
+    "charSize": 128,
+    "byteSize": 128
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-VD6KMVU6.mjs",
+    "type": ".mjs",
+    "charSize": 478,
+    "byteSize": 478
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-VPDJYJ6F.mjs",
+    "type": ".mjs",
+    "charSize": 38158,
+    "byteSize": 38158
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-W4K45MJ6.mjs",
+    "type": ".mjs",
+    "charSize": 1496,
+    "byteSize": 1496
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-W6JMGLYX.mjs",
+    "type": ".mjs",
+    "charSize": 18435,
+    "byteSize": 18435
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-WBRHMFUJ.mjs",
+    "type": ".mjs",
+    "charSize": 2094,
+    "byteSize": 2094
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-WBTAMOXF.mjs",
+    "type": ".mjs",
+    "charSize": 411,
+    "byteSize": 411
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-WLHSDIGQ.mjs",
+    "type": ".mjs",
+    "charSize": 3858,
+    "byteSize": 3858
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-WPWSHZF5.mjs",
+    "type": ".mjs",
+    "charSize": 556,
+    "byteSize": 556
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-WRBBN7SY.mjs",
+    "type": ".mjs",
+    "charSize": 145,
+    "byteSize": 145
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-WV5PYERC.mjs",
+    "type": ".mjs",
+    "charSize": 12224,
+    "byteSize": 12224
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-X27LL6OM.mjs",
+    "type": ".mjs",
+    "charSize": 341,
+    "byteSize": 341
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-X2LIJUAW.mjs",
+    "type": ".mjs",
+    "charSize": 1297,
+    "byteSize": 1297
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-XDEZW4UP.mjs",
+    "type": ".mjs",
+    "charSize": 1312309,
+    "byteSize": 1312309
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-XFC6OVIX.mjs",
+    "type": ".mjs",
+    "charSize": 73,
+    "byteSize": 73
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-XFJO2D5H.mjs",
+    "type": ".mjs",
+    "charSize": 1440,
+    "byteSize": 1440
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-XNIFBQQE.mjs",
+    "type": ".mjs",
+    "charSize": 103,
+    "byteSize": 103
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-XOZ2QQ2O.mjs",
+    "type": ".mjs",
+    "charSize": 29258,
+    "byteSize": 29258
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-XVUSVSNR.mjs",
+    "type": ".mjs",
+    "charSize": 5753,
+    "byteSize": 5753
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-Y55C467E.mjs",
+    "type": ".mjs",
+    "charSize": 1311,
+    "byteSize": 1311
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-YS3B4HMG.mjs",
+    "type": ".mjs",
+    "charSize": 1021,
+    "byteSize": 1021
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-YSP5ZHDJ.mjs",
+    "type": ".mjs",
+    "charSize": 1444,
+    "byteSize": 1444
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-YT5HHZEW.mjs",
+    "type": ".mjs",
+    "charSize": 742,
+    "byteSize": 742
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-YV5BFUPQ.mjs",
+    "type": ".mjs",
+    "charSize": 828,
+    "byteSize": 828
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-YY75G3LC.mjs",
+    "type": ".mjs",
+    "charSize": 706,
+    "byteSize": 706
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-Z5HMR6I5.mjs",
+    "type": ".mjs",
+    "charSize": 25948,
+    "byteSize": 25948
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-ZFHRVFFY.mjs",
+    "type": ".mjs",
+    "charSize": 427558,
+    "byteSize": 427558
+  },
+  {
+    "path": "assets/app.framerstatic.com/chunk-ZN6XA7TQ.mjs",
+    "type": ".mjs",
+    "charSize": 620,
+    "byteSize": 620
+  },
+  {
+    "path": "assets/app.framerstatic.com/cursor-insert-KYQDIEGK.png",
+    "type": ".png",
+    "charSize": 634,
+    "byteSize": 634
+  },
+  {
+    "path": "assets/app.framerstatic.com/cursor-insert@2x-PM53FSGF.png",
+    "type": ".png",
+    "charSize": 1603,
+    "byteSize": 1603
+  },
+  {
+    "path": "assets/app.framerstatic.com/cursor-multiplayer-D5CXU4PV.svg",
+    "type": ".svg",
+    "charSize": 278,
+    "byteSize": 278
+  },
+  {
+    "path": "assets/app.framerstatic.com/dist-57FPVK77.mjs",
+    "type": ".mjs",
+    "charSize": 860,
+    "byteSize": 860
+  },
+  {
+    "path": "assets/app.framerstatic.com/dist-5ZVOSTYK.mjs",
+    "type": ".mjs",
+    "charSize": 459,
+    "byteSize": 459
+  },
+  {
+    "path": "assets/app.framerstatic.com/dist-7E33OISL.mjs",
+    "type": ".mjs",
+    "charSize": 3263,
+    "byteSize": 3263
+  },
+  {
+    "path": "assets/app.framerstatic.com/dist-D6AE74Y2.mjs",
+    "type": ".mjs",
+    "charSize": 363,
+    "byteSize": 363
+  },
+  {
+    "path": "assets/app.framerstatic.com/dist-EZBJJDRO.mjs",
+    "type": ".mjs",
+    "charSize": 508,
+    "byteSize": 508
+  },
+  {
+    "path": "assets/app.framerstatic.com/dist-JCWXD2W4.mjs",
+    "type": ".mjs",
+    "charSize": 387,
+    "byteSize": 387
+  },
+  {
+    "path": "assets/app.framerstatic.com/dist-MKBIL3YM.mjs",
+    "type": ".mjs",
+    "charSize": 456,
+    "byteSize": 456
+  },
+  {
+    "path": "assets/app.framerstatic.com/dist-O54ZISA5.mjs",
+    "type": ".mjs",
+    "charSize": 346,
+    "byteSize": 346
+  },
+  {
+    "path": "assets/app.framerstatic.com/EditButton-OB4AEFGD.mjs",
+    "type": ".mjs",
+    "charSize": 4791,
+    "byteSize": 4791
+  },
+  {
+    "path": "assets/app.framerstatic.com/editorbar.IBUAXZGG.css",
+    "type": ".css",
+    "charSize": 460227,
+    "byteSize": 460227
+  },
+  {
+    "path": "assets/app.framerstatic.com/editorbar.YBGK7A4L.mjs",
+    "type": ".mjs",
+    "charSize": 2300,
+    "byteSize": 2300
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Black.cyrillic-A4V6NEDA.woff2",
+    "type": ".woff2",
+    "charSize": 6984,
+    "byteSize": 6984
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Black.cyrillic-ext-ZAHAZNAZ.woff2",
+    "type": ".woff2",
+    "charSize": 8716,
+    "byteSize": 8716
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Black.greek-ext-EEHBAM32.woff2",
+    "type": ".woff2",
+    "charSize": 4528,
+    "byteSize": 4528
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Black.greek-SA7WMRAV.woff2",
+    "type": ".woff2",
+    "charSize": 6572,
+    "byteSize": 6572
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Black.latin-ext-DPZFZSTH.woff2",
+    "type": ".woff2",
+    "charSize": 25276,
+    "byteSize": 25276
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Black.latin-HCCUOXN6.woff2",
+    "type": ".woff2",
+    "charSize": 27436,
+    "byteSize": 27436
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Black.vietnamese-RSSMX6WE.woff2",
+    "type": ".woff2",
+    "charSize": 4168,
+    "byteSize": 4168
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BlackItalic.cyrillic-AMP3O5LL.woff2",
+    "type": ".woff2",
+    "charSize": 7376,
+    "byteSize": 7376
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BlackItalic.cyrillic-ext-YYBXP7VQ.woff2",
+    "type": ".woff2",
+    "charSize": 9444,
+    "byteSize": 9444
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BlackItalic.greek-ext-RKUQ75PF.woff2",
+    "type": ".woff2",
+    "charSize": 4828,
+    "byteSize": 4828
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BlackItalic.greek-WGQHW37E.woff2",
+    "type": ".woff2",
+    "charSize": 7208,
+    "byteSize": 7208
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BlackItalic.latin-A26EMYAT.woff2",
+    "type": ".woff2",
+    "charSize": 29692,
+    "byteSize": 29692
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BlackItalic.latin-ext-7A54EANL.woff2",
+    "type": ".woff2",
+    "charSize": 27036,
+    "byteSize": 27036
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BlackItalic.vietnamese-BW3NEKKF.woff2",
+    "type": ".woff2",
+    "charSize": 4172,
+    "byteSize": 4172
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Bold.cyrillic-ext-AIAGOT2U.woff2",
+    "type": ".woff2",
+    "charSize": 8892,
+    "byteSize": 8892
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Bold.cyrillic-SJ3DCUFV.woff2",
+    "type": ".woff2",
+    "charSize": 7080,
+    "byteSize": 7080
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Bold.greek-6AEKSPWM.woff2",
+    "type": ".woff2",
+    "charSize": 6672,
+    "byteSize": 6672
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Bold.greek-ext-PY5WF7PC.woff2",
+    "type": ".woff2",
+    "charSize": 4628,
+    "byteSize": 4628
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Bold.latin-ELRVNKBA.woff2",
+    "type": ".woff2",
+    "charSize": 27900,
+    "byteSize": 27900
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Bold.latin-ext-K252NU6O.woff2",
+    "type": ".woff2",
+    "charSize": 26076,
+    "byteSize": 26076
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Bold.vietnamese-CS2A3MVV.woff2",
+    "type": ".woff2",
+    "charSize": 4268,
+    "byteSize": 4268
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BoldItalic.cyrillic-745XSYT3.woff2",
+    "type": ".woff2",
+    "charSize": 7556,
+    "byteSize": 7556
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BoldItalic.cyrillic-ext-XQURBEOA.woff2",
+    "type": ".woff2",
+    "charSize": 9564,
+    "byteSize": 9564
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BoldItalic.greek-ext-YANOV4VL.woff2",
+    "type": ".woff2",
+    "charSize": 4960,
+    "byteSize": 4960
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BoldItalic.greek-G5AVHLHP.woff2",
+    "type": ".woff2",
+    "charSize": 7360,
+    "byteSize": 7360
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BoldItalic.latin-CRO2DT3O.woff2",
+    "type": ".woff2",
+    "charSize": 30368,
+    "byteSize": 30368
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BoldItalic.latin-ext-RJUYVVHR.woff2",
+    "type": ".woff2",
+    "charSize": 27736,
+    "byteSize": 27736
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-BoldItalic.vietnamese-SFN5L22X.woff2",
+    "type": ".woff2",
+    "charSize": 4236,
+    "byteSize": 4236
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBold.cyrillic-CIEXDHQS.woff2",
+    "type": ".woff2",
+    "charSize": 7084,
+    "byteSize": 7084
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBold.cyrillic-ext-WOF4T3VR.woff2",
+    "type": ".woff2",
+    "charSize": 8888,
+    "byteSize": 8888
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBold.greek-ext-ZP4MBORN.woff2",
+    "type": ".woff2",
+    "charSize": 4640,
+    "byteSize": 4640
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBold.greek-NYQZDFHT.woff2",
+    "type": ".woff2",
+    "charSize": 6640,
+    "byteSize": 6640
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBold.latin-ELKLW57A.woff2",
+    "type": ".woff2",
+    "charSize": 28084,
+    "byteSize": 28084
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBold.latin-ext-EZPFHF4D.woff2",
+    "type": ".woff2",
+    "charSize": 25892,
+    "byteSize": 25892
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBold.vietnamese-LBESCFIB.woff2",
+    "type": ".woff2",
+    "charSize": 4256,
+    "byteSize": 4256
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBoldItalic.cyrillic-ext-CO4QJAMS.woff2",
+    "type": ".woff2",
+    "charSize": 9624,
+    "byteSize": 9624
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBoldItalic.cyrillic-GU7UYV7S.woff2",
+    "type": ".woff2",
+    "charSize": 7512,
+    "byteSize": 7512
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBoldItalic.greek-6FZTA53K.woff2",
+    "type": ".woff2",
+    "charSize": 7340,
+    "byteSize": 7340
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBoldItalic.greek-ext-PO7KFNPT.woff2",
+    "type": ".woff2",
+    "charSize": 5000,
+    "byteSize": 5000
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBoldItalic.latin-BHEU3S5W.woff2",
+    "type": ".woff2",
+    "charSize": 30452,
+    "byteSize": 30452
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBoldItalic.latin-ext-NVWQICWP.woff2",
+    "type": ".woff2",
+    "charSize": 27748,
+    "byteSize": 27748
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraBoldItalic.vietnamese-XIWL5KUT.woff2",
+    "type": ".woff2",
+    "charSize": 4256,
+    "byteSize": 4256
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLight.cyrillic-ext-HDQPQEGZ.woff2",
+    "type": ".woff2",
+    "charSize": 8980,
+    "byteSize": 8980
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLight.cyrillic-HQQAKSKG.woff2",
+    "type": ".woff2",
+    "charSize": 7236,
+    "byteSize": 7236
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLight.greek-ext-EGLHH5TO.woff2",
+    "type": ".woff2",
+    "charSize": 4600,
+    "byteSize": 4600
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLight.greek-T6UOYY4Y.woff2",
+    "type": ".woff2",
+    "charSize": 6660,
+    "byteSize": 6660
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLight.latin-ext-V5Z3H2DM.woff2",
+    "type": ".woff2",
+    "charSize": 25556,
+    "byteSize": 25556
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLight.latin-I73MJZPM.woff2",
+    "type": ".woff2",
+    "charSize": 27544,
+    "byteSize": 27544
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLight.vietnamese-ZVJTMYPG.woff2",
+    "type": ".woff2",
+    "charSize": 4176,
+    "byteSize": 4176
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLightItalic.cyrillic-ext-RTJXLMXR.woff2",
+    "type": ".woff2",
+    "charSize": 9588,
+    "byteSize": 9588
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLightItalic.cyrillic-JZCJRAT2.woff2",
+    "type": ".woff2",
+    "charSize": 7596,
+    "byteSize": 7596
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLightItalic.greek-ext-ST5K7HRA.woff2",
+    "type": ".woff2",
+    "charSize": 4868,
+    "byteSize": 4868
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLightItalic.greek-O6PAUXY7.woff2",
+    "type": ".woff2",
+    "charSize": 7356,
+    "byteSize": 7356
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLightItalic.latin-BT2IJL5V.woff2",
+    "type": ".woff2",
+    "charSize": 29728,
+    "byteSize": 29728
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLightItalic.latin-ext-MNGTQPNN.woff2",
+    "type": ".woff2",
+    "charSize": 27040,
+    "byteSize": 27040
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ExtraLightItalic.vietnamese-YZV4WXXG.woff2",
+    "type": ".woff2",
+    "charSize": 4152,
+    "byteSize": 4152
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Italic.cyrillic-ext-Q3YZTEVB.woff2",
+    "type": ".woff2",
+    "charSize": 9500,
+    "byteSize": 9500
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Italic.cyrillic-H4EUGU4K.woff2",
+    "type": ".woff2",
+    "charSize": 7408,
+    "byteSize": 7408
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Italic.greek-ext-2CVCIE5O.woff2",
+    "type": ".woff2",
+    "charSize": 4756,
+    "byteSize": 4756
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Italic.greek-OA3E7ESQ.woff2",
+    "type": ".woff2",
+    "charSize": 7228,
+    "byteSize": 7228
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Italic.latin-2CLGKHF5.woff2",
+    "type": ".woff2",
+    "charSize": 29380,
+    "byteSize": 29380
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Italic.latin-ext-MTDWWI4R.woff2",
+    "type": ".woff2",
+    "charSize": 26696,
+    "byteSize": 26696
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Italic.vietnamese-VYO6NGGI.woff2",
+    "type": ".woff2",
+    "charSize": 4052,
+    "byteSize": 4052
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Light.cyrillic-ext-F3NYOJYK.woff2",
+    "type": ".woff2",
+    "charSize": 8984,
+    "byteSize": 8984
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Light.cyrillic-OPL2V4ZN.woff2",
+    "type": ".woff2",
+    "charSize": 7148,
+    "byteSize": 7148
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Light.greek-43BVUQQC.woff2",
+    "type": ".woff2",
+    "charSize": 6712,
+    "byteSize": 6712
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Light.greek-ext-RT22AI5T.woff2",
+    "type": ".woff2",
+    "charSize": 4624,
+    "byteSize": 4624
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Light.latin-ext-CSAOYJDP.woff2",
+    "type": ".woff2",
+    "charSize": 25672,
+    "byteSize": 25672
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Light.latin-ZQPM22KC.woff2",
+    "type": ".woff2",
+    "charSize": 27676,
+    "byteSize": 27676
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Light.vietnamese-7HBB4EHX.woff2",
+    "type": ".woff2",
+    "charSize": 4188,
+    "byteSize": 4188
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-LightItalic.cyrillic-EQYX646Y.woff2",
+    "type": ".woff2",
+    "charSize": 7552,
+    "byteSize": 7552
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-LightItalic.cyrillic-ext-2WJKSFSG.woff2",
+    "type": ".woff2",
+    "charSize": 9560,
+    "byteSize": 9560
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-LightItalic.greek-7I7IBSRM.woff2",
+    "type": ".woff2",
+    "charSize": 7364,
+    "byteSize": 7364
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-LightItalic.greek-ext-ZO6PJEOM.woff2",
+    "type": ".woff2",
+    "charSize": 4880,
+    "byteSize": 4880
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-LightItalic.latin-ext-N4K3U3HC.woff2",
+    "type": ".woff2",
+    "charSize": 27184,
+    "byteSize": 27184
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-LightItalic.latin-L663ST2C.woff2",
+    "type": ".woff2",
+    "charSize": 29764,
+    "byteSize": 29764
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-LightItalic.vietnamese-ADHBIB3M.woff2",
+    "type": ".woff2",
+    "charSize": 4108,
+    "byteSize": 4108
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Medium.cyrillic-66YXPJES.woff2",
+    "type": ".woff2",
+    "charSize": 7176,
+    "byteSize": 7176
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Medium.cyrillic-ext-23JZLKSR.woff2",
+    "type": ".woff2",
+    "charSize": 8956,
+    "byteSize": 8956
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Medium.greek-ext-XZB5PYWI.woff2",
+    "type": ".woff2",
+    "charSize": 4644,
+    "byteSize": 4644
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Medium.greek-O4PDCMRD.woff2",
+    "type": ".woff2",
+    "charSize": 6676,
+    "byteSize": 6676
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Medium.latin-7CGYVY2A.woff2",
+    "type": ".woff2",
+    "charSize": 27996,
+    "byteSize": 27996
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Medium.latin-ext-K4SADJW5.woff2",
+    "type": ".woff2",
+    "charSize": 26264,
+    "byteSize": 26264
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Medium.vietnamese-B3KSWIQ4.woff2",
+    "type": ".woff2",
+    "charSize": 4288,
+    "byteSize": 4288
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-MediumItalic.cyrillic-ext-YKBTYW7H.woff2",
+    "type": ".woff2",
+    "charSize": 9600,
+    "byteSize": 9600
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-MediumItalic.cyrillic-YZI6HBYL.woff2",
+    "type": ".woff2",
+    "charSize": 7540,
+    "byteSize": 7540
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-MediumItalic.greek-ext-7M2LNQFR.woff2",
+    "type": ".woff2",
+    "charSize": 4932,
+    "byteSize": 4932
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-MediumItalic.greek-ULRWUYSO.woff2",
+    "type": ".woff2",
+    "charSize": 7332,
+    "byteSize": 7332
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-MediumItalic.latin-ext-YXHLWQ4E.woff2",
+    "type": ".woff2",
+    "charSize": 27812,
+    "byteSize": 27812
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-MediumItalic.latin-KRMJH4Q6.woff2",
+    "type": ".woff2",
+    "charSize": 30244,
+    "byteSize": 30244
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-MediumItalic.vietnamese-QWQL4S2K.woff2",
+    "type": ".woff2",
+    "charSize": 4220,
+    "byteSize": 4220
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Regular.cyrillic-BWCXQTKJ.woff2",
+    "type": ".woff2",
+    "charSize": 7116,
+    "byteSize": 7116
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Regular.cyrillic-ext-FNFMLGIB.woff2",
+    "type": ".woff2",
+    "charSize": 8896,
+    "byteSize": 8896
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Regular.greek-DFFLIQKX.woff2",
+    "type": ".woff2",
+    "charSize": 6652,
+    "byteSize": 6652
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Regular.greek-ext-KPM5NWV4.woff2",
+    "type": ".woff2",
+    "charSize": 4504,
+    "byteSize": 4504
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Regular.latin-EHCEA6SA.woff2",
+    "type": ".woff2",
+    "charSize": 27380,
+    "byteSize": 27380
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Regular.latin-ext-5XCZF2V2.woff2",
+    "type": ".woff2",
+    "charSize": 25348,
+    "byteSize": 25348
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Regular.vietnamese-YUUZEVET.woff2",
+    "type": ".woff2",
+    "charSize": 4168,
+    "byteSize": 4168
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBold.cyrillic-5CPGSPZX.woff2",
+    "type": ".woff2",
+    "charSize": 7152,
+    "byteSize": 7152
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBold.cyrillic-ext-YZKBBQA5.woff2",
+    "type": ".woff2",
+    "charSize": 8908,
+    "byteSize": 8908
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBold.greek-ext-SKQFZUG7.woff2",
+    "type": ".woff2",
+    "charSize": 4660,
+    "byteSize": 4660
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBold.greek-KQMXNSSM.woff2",
+    "type": ".woff2",
+    "charSize": 6668,
+    "byteSize": 6668
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBold.latin-ext-JHEUTA4R.woff2",
+    "type": ".woff2",
+    "charSize": 26280,
+    "byteSize": 26280
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBold.latin-LDEJ65ZA.woff2",
+    "type": ".woff2",
+    "charSize": 28088,
+    "byteSize": 28088
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBold.vietnamese-DHNXGWRU.woff2",
+    "type": ".woff2",
+    "charSize": 4316,
+    "byteSize": 4316
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBoldItalic.cyrillic-ext-IIUCONA3.woff2",
+    "type": ".woff2",
+    "charSize": 9524,
+    "byteSize": 9524
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBoldItalic.cyrillic-FSTBPJEU.woff2",
+    "type": ".woff2",
+    "charSize": 7540,
+    "byteSize": 7540
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBoldItalic.greek-AGGJ436J.woff2",
+    "type": ".woff2",
+    "charSize": 7332,
+    "byteSize": 7332
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBoldItalic.greek-ext-Q2ALRQJP.woff2",
+    "type": ".woff2",
+    "charSize": 4948,
+    "byteSize": 4948
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBoldItalic.latin-2C4IG7KV.woff2",
+    "type": ".woff2",
+    "charSize": 30176,
+    "byteSize": 30176
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBoldItalic.latin-ext-U6ZICJYD.woff2",
+    "type": ".woff2",
+    "charSize": 27624,
+    "byteSize": 27624
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-SemiBoldItalic.vietnamese-RREJWDYI.woff2",
+    "type": ".woff2",
+    "charSize": 4276,
+    "byteSize": 4276
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Thin.cyrillic-ext-5SDVJQ46.woff2",
+    "type": ".woff2",
+    "charSize": 8720,
+    "byteSize": 8720
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Thin.cyrillic-FOBARWIX.woff2",
+    "type": ".woff2",
+    "charSize": 7104,
+    "byteSize": 7104
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Thin.greek-ext-DZ2SEEID.woff2",
+    "type": ".woff2",
+    "charSize": 4496,
+    "byteSize": 4496
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Thin.greek-ZPYPCJBX.woff2",
+    "type": ".woff2",
+    "charSize": 6544,
+    "byteSize": 6544
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Thin.latin-ext-T27MSVTU.woff2",
+    "type": ".woff2",
+    "charSize": 24648,
+    "byteSize": 24648
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Thin.latin-QWPOY4HE.woff2",
+    "type": ".woff2",
+    "charSize": 26944,
+    "byteSize": 26944
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-Thin.vietnamese-AM6PQ672.woff2",
+    "type": ".woff2",
+    "charSize": 4068,
+    "byteSize": 4068
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ThinItalic.cyrillic-ext-6QUVGXI6.woff2",
+    "type": ".woff2",
+    "charSize": 9348,
+    "byteSize": 9348
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ThinItalic.cyrillic-M63N44SE.woff2",
+    "type": ".woff2",
+    "charSize": 7384,
+    "byteSize": 7384
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ThinItalic.greek-ext-T76Q462A.woff2",
+    "type": ".woff2",
+    "charSize": 4808,
+    "byteSize": 4808
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ThinItalic.greek-M4CK7ABM.woff2",
+    "type": ".woff2",
+    "charSize": 7176,
+    "byteSize": 7176
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ThinItalic.latin-ext-JKE6IDR6.woff2",
+    "type": ".woff2",
+    "charSize": 26400,
+    "byteSize": 26400
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ThinItalic.latin-Z434MCRC.woff2",
+    "type": ".woff2",
+    "charSize": 29076,
+    "byteSize": 29076
+  },
+  {
+    "path": "assets/app.framerstatic.com/Inter-ThinItalic.vietnamese-L75UTPS3.woff2",
+    "type": ".woff2",
+    "charSize": 4008,
+    "byteSize": 4008
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Black.cyrillic-ext-PT6B5S22.woff2",
+    "type": ".woff2",
+    "charSize": 8620,
+    "byteSize": 8620
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Black.cyrillic-NFPCCL3A.woff2",
+    "type": ".woff2",
+    "charSize": 6840,
+    "byteSize": 6840
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Black.greek-EGAYLRBA.woff2",
+    "type": ".woff2",
+    "charSize": 6360,
+    "byteSize": 6360
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Black.greek-ext-GAGNO7T2.woff2",
+    "type": ".woff2",
+    "charSize": 4540,
+    "byteSize": 4540
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Black.latin-ext-3IWGFJQE.woff2",
+    "type": ".woff2",
+    "charSize": 25044,
+    "byteSize": 25044
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Black.latin-OCZNY6YP.woff2",
+    "type": ".woff2",
+    "charSize": 26912,
+    "byteSize": 26912
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Black.vietnamese-V25DPCQC.woff2",
+    "type": ".woff2",
+    "charSize": 4072,
+    "byteSize": 4072
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BlackItalic.cyrillic-ext-ZCNI5PCJ.woff2",
+    "type": ".woff2",
+    "charSize": 9376,
+    "byteSize": 9376
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BlackItalic.cyrillic-ZJM3D6ND.woff2",
+    "type": ".woff2",
+    "charSize": 7340,
+    "byteSize": 7340
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BlackItalic.greek-AC3O4BIK.woff2",
+    "type": ".woff2",
+    "charSize": 7144,
+    "byteSize": 7144
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BlackItalic.greek-ext-3HH26JLS.woff2",
+    "type": ".woff2",
+    "charSize": 4820,
+    "byteSize": 4820
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BlackItalic.latin-ext-OSF4CAR6.woff2",
+    "type": ".woff2",
+    "charSize": 26732,
+    "byteSize": 26732
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BlackItalic.latin-FESNKIHD.woff2",
+    "type": ".woff2",
+    "charSize": 29060,
+    "byteSize": 29060
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BlackItalic.vietnamese-BTMTHZVR.woff2",
+    "type": ".woff2",
+    "charSize": 4100,
+    "byteSize": 4100
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Bold.cyrillic-ext-S24PGYZF.woff2",
+    "type": ".woff2",
+    "charSize": 8780,
+    "byteSize": 8780
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Bold.cyrillic-HUE7KLOR.woff2",
+    "type": ".woff2",
+    "charSize": 6988,
+    "byteSize": 6988
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Bold.greek-ext-FJ55PJ3X.woff2",
+    "type": ".woff2",
+    "charSize": 4584,
+    "byteSize": 4584
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Bold.greek-ZVTBJEUG.woff2",
+    "type": ".woff2",
+    "charSize": 6460,
+    "byteSize": 6460
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Bold.latin-ext-AEW7YEQS.woff2",
+    "type": ".woff2",
+    "charSize": 25772,
+    "byteSize": 25772
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Bold.latin-L5CPPL76.woff2",
+    "type": ".woff2",
+    "charSize": 27412,
+    "byteSize": 27412
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Bold.vietnamese-XEPIJRNL.woff2",
+    "type": ".woff2",
+    "charSize": 4124,
+    "byteSize": 4124
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BoldItalic.cyrillic-73BL4V63.woff2",
+    "type": ".woff2",
+    "charSize": 7436,
+    "byteSize": 7436
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BoldItalic.cyrillic-ext-M6R6LQV7.woff2",
+    "type": ".woff2",
+    "charSize": 9560,
+    "byteSize": 9560
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BoldItalic.greek-ext-DEMBRETO.woff2",
+    "type": ".woff2",
+    "charSize": 4968,
+    "byteSize": 4968
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BoldItalic.greek-NXVSBOCF.woff2",
+    "type": ".woff2",
+    "charSize": 7204,
+    "byteSize": 7204
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BoldItalic.latin-ext-XPR44KOE.woff2",
+    "type": ".woff2",
+    "charSize": 27628,
+    "byteSize": 27628
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BoldItalic.latin-RJ3GG4BN.woff2",
+    "type": ".woff2",
+    "charSize": 29760,
+    "byteSize": 29760
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-BoldItalic.vietnamese-AIADJG3E.woff2",
+    "type": ".woff2",
+    "charSize": 4232,
+    "byteSize": 4232
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBold.cyrillic-DS36LLAM.woff2",
+    "type": ".woff2",
+    "charSize": 7028,
+    "byteSize": 7028
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBold.cyrillic-ext-TKHQKK5I.woff2",
+    "type": ".woff2",
+    "charSize": 8700,
+    "byteSize": 8700
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBold.greek-ext-6VBNH6GB.woff2",
+    "type": ".woff2",
+    "charSize": 4608,
+    "byteSize": 4608
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBold.greek-FAB7CGKV.woff2",
+    "type": ".woff2",
+    "charSize": 6496,
+    "byteSize": 6496
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBold.latin-ext-C476QX6J.woff2",
+    "type": ".woff2",
+    "charSize": 25856,
+    "byteSize": 25856
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBold.latin-PZVPCXER.woff2",
+    "type": ".woff2",
+    "charSize": 27496,
+    "byteSize": 27496
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBold.vietnamese-HLDMHQ7V.woff2",
+    "type": ".woff2",
+    "charSize": 4132,
+    "byteSize": 4132
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBoldItalic.cyrillic-ext-DSA4MBAL.woff2",
+    "type": ".woff2",
+    "charSize": 9516,
+    "byteSize": 9516
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBoldItalic.cyrillic-TTPBMXY5.woff2",
+    "type": ".woff2",
+    "charSize": 7492,
+    "byteSize": 7492
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBoldItalic.greek-ext-EKTNSLSF.woff2",
+    "type": ".woff2",
+    "charSize": 4976,
+    "byteSize": 4976
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBoldItalic.greek-M47ZGCSC.woff2",
+    "type": ".woff2",
+    "charSize": 7172,
+    "byteSize": 7172
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBoldItalic.latin-77BMV7FA.woff2",
+    "type": ".woff2",
+    "charSize": 29848,
+    "byteSize": 29848
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBoldItalic.latin-ext-H7S2BQVQ.woff2",
+    "type": ".woff2",
+    "charSize": 27756,
+    "byteSize": 27756
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraBoldItalic.vietnamese-UFWKQMFZ.woff2",
+    "type": ".woff2",
+    "charSize": 4240,
+    "byteSize": 4240
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLight.cyrillic-ext-UANTGJDW.woff2",
+    "type": ".woff2",
+    "charSize": 8844,
+    "byteSize": 8844
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLight.cyrillic-QPQBOCJQ.woff2",
+    "type": ".woff2",
+    "charSize": 7152,
+    "byteSize": 7152
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLight.greek-ext-UDZ52NVJ.woff2",
+    "type": ".woff2",
+    "charSize": 4448,
+    "byteSize": 4448
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLight.greek-T5HBD4ND.woff2",
+    "type": ".woff2",
+    "charSize": 6572,
+    "byteSize": 6572
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLight.latin-2JFXS4FI.woff2",
+    "type": ".woff2",
+    "charSize": 27236,
+    "byteSize": 27236
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLight.latin-ext-IR4AE3FN.woff2",
+    "type": ".woff2",
+    "charSize": 25536,
+    "byteSize": 25536
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLight.vietnamese-AGW35RIN.woff2",
+    "type": ".woff2",
+    "charSize": 4148,
+    "byteSize": 4148
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLightItalic.cyrillic-4FC2JKI5.woff2",
+    "type": ".woff2",
+    "charSize": 7652,
+    "byteSize": 7652
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLightItalic.cyrillic-ext-3HNMIBGO.woff2",
+    "type": ".woff2",
+    "charSize": 9744,
+    "byteSize": 9744
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLightItalic.greek-ext-BCQGMF7K.woff2",
+    "type": ".woff2",
+    "charSize": 4840,
+    "byteSize": 4840
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLightItalic.greek-F6G2PVTA.woff2",
+    "type": ".woff2",
+    "charSize": 7184,
+    "byteSize": 7184
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLightItalic.latin-5D2OZKVV.woff2",
+    "type": ".woff2",
+    "charSize": 29484,
+    "byteSize": 29484
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLightItalic.latin-ext-HCAD2APS.woff2",
+    "type": ".woff2",
+    "charSize": 27300,
+    "byteSize": 27300
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ExtraLightItalic.vietnamese-GBTSUX6K.woff2",
+    "type": ".woff2",
+    "charSize": 4128,
+    "byteSize": 4128
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Italic.cyrillic-6Y3CXPPB.woff2",
+    "type": ".woff2",
+    "charSize": 7348,
+    "byteSize": 7348
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Italic.cyrillic-ext-4QKAF3SU.woff2",
+    "type": ".woff2",
+    "charSize": 9384,
+    "byteSize": 9384
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Italic.greek-ext-BX3WIRZH.woff2",
+    "type": ".woff2",
+    "charSize": 4764,
+    "byteSize": 4764
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Italic.greek-KCFY66ID.woff2",
+    "type": ".woff2",
+    "charSize": 7044,
+    "byteSize": 7044
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Italic.latin-ext-MBLFAIJY.woff2",
+    "type": ".woff2",
+    "charSize": 26448,
+    "byteSize": 26448
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Italic.latin-FKV7LM5O.woff2",
+    "type": ".woff2",
+    "charSize": 28780,
+    "byteSize": 28780
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Italic.vietnamese-RTSTBDKP.woff2",
+    "type": ".woff2",
+    "charSize": 4080,
+    "byteSize": 4080
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Light.cyrillic-CZFZFAWJ.woff2",
+    "type": ".woff2",
+    "charSize": 7076,
+    "byteSize": 7076
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Light.cyrillic-ext-B27VZTJD.woff2",
+    "type": ".woff2",
+    "charSize": 8816,
+    "byteSize": 8816
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Light.greek-ext-MWQTSG66.woff2",
+    "type": ".woff2",
+    "charSize": 4460,
+    "byteSize": 4460
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Light.greek-JE4MBGAS.woff2",
+    "type": ".woff2",
+    "charSize": 6420,
+    "byteSize": 6420
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Light.latin-37KZIGKZ.woff2",
+    "type": ".woff2",
+    "charSize": 27112,
+    "byteSize": 27112
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Light.latin-ext-ZC4FR7J7.woff2",
+    "type": ".woff2",
+    "charSize": 25504,
+    "byteSize": 25504
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Light.vietnamese-UIND3DWL.woff2",
+    "type": ".woff2",
+    "charSize": 4092,
+    "byteSize": 4092
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-LightItalic.cyrillic-ext-6VLCKRDA.woff2",
+    "type": ".woff2",
+    "charSize": 9632,
+    "byteSize": 9632
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-LightItalic.cyrillic-SKB3BZFS.woff2",
+    "type": ".woff2",
+    "charSize": 7532,
+    "byteSize": 7532
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-LightItalic.greek-ext-MC3T6575.woff2",
+    "type": ".woff2",
+    "charSize": 4832,
+    "byteSize": 4832
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-LightItalic.greek-PHO4LE3V.woff2",
+    "type": ".woff2",
+    "charSize": 7168,
+    "byteSize": 7168
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-LightItalic.latin-BEBV4DKC.woff2",
+    "type": ".woff2",
+    "charSize": 29588,
+    "byteSize": 29588
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-LightItalic.latin-ext-XRVRJJW6.woff2",
+    "type": ".woff2",
+    "charSize": 27384,
+    "byteSize": 27384
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-LightItalic.vietnamese-KOJYZSWE.woff2",
+    "type": ".woff2",
+    "charSize": 4200,
+    "byteSize": 4200
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Medium.cyrillic-23DQJ2WJ.woff2",
+    "type": ".woff2",
+    "charSize": 7052,
+    "byteSize": 7052
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Medium.cyrillic-ext-676BD35I.woff2",
+    "type": ".woff2",
+    "charSize": 8820,
+    "byteSize": 8820
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Medium.greek-ext-63YDHO6F.woff2",
+    "type": ".woff2",
+    "charSize": 4608,
+    "byteSize": 4608
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Medium.greek-Z5PCMRH4.woff2",
+    "type": ".woff2",
+    "charSize": 6448,
+    "byteSize": 6448
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Medium.latin-E5Q3YWTO.woff2",
+    "type": ".woff2",
+    "charSize": 27404,
+    "byteSize": 27404
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Medium.latin-ext-PJC6EXBQ.woff2",
+    "type": ".woff2",
+    "charSize": 25972,
+    "byteSize": 25972
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Medium.vietnamese-QIOWN555.woff2",
+    "type": ".woff2",
+    "charSize": 4124,
+    "byteSize": 4124
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-MediumItalic.cyrillic-ext-H6VJRN77.woff2",
+    "type": ".woff2",
+    "charSize": 9544,
+    "byteSize": 9544
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-MediumItalic.cyrillic-HZG57KGD.woff2",
+    "type": ".woff2",
+    "charSize": 7476,
+    "byteSize": 7476
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-MediumItalic.greek-ext-F6XXV4QN.woff2",
+    "type": ".woff2",
+    "charSize": 4896,
+    "byteSize": 4896
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-MediumItalic.greek-ICR7Q2B6.woff2",
+    "type": ".woff2",
+    "charSize": 7220,
+    "byteSize": 7220
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-MediumItalic.latin-5B4VGJLN.woff2",
+    "type": ".woff2",
+    "charSize": 29768,
+    "byteSize": 29768
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-MediumItalic.latin-ext-4ZEBBJM5.woff2",
+    "type": ".woff2",
+    "charSize": 27784,
+    "byteSize": 27784
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-MediumItalic.vietnamese-4WST35IR.woff2",
+    "type": ".woff2",
+    "charSize": 4156,
+    "byteSize": 4156
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Regular.cyrillic-3G2E7TST.woff2",
+    "type": ".woff2",
+    "charSize": 6948,
+    "byteSize": 6948
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Regular.cyrillic-ext-G5SA7JIS.woff2",
+    "type": ".woff2",
+    "charSize": 8632,
+    "byteSize": 8632
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Regular.greek-ext-6OUJESG7.woff2",
+    "type": ".woff2",
+    "charSize": 4424,
+    "byteSize": 4424
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Regular.greek-F62TMOTC.woff2",
+    "type": ".woff2",
+    "charSize": 6324,
+    "byteSize": 6324
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Regular.latin-ext-SSDTILNE.woff2",
+    "type": ".woff2",
+    "charSize": 24696,
+    "byteSize": 24696
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Regular.latin-QWLQ6RMI.woff2",
+    "type": ".woff2",
+    "charSize": 26588,
+    "byteSize": 26588
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Regular.vietnamese-HJ5JZSZM.woff2",
+    "type": ".woff2",
+    "charSize": 4016,
+    "byteSize": 4016
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBold.cyrillic-ext-VPZHJCRV.woff2",
+    "type": ".woff2",
+    "charSize": 8812,
+    "byteSize": 8812
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBold.cyrillic-MVMWNCBK.woff2",
+    "type": ".woff2",
+    "charSize": 7040,
+    "byteSize": 7040
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBold.greek-4UHPR3BX.woff2",
+    "type": ".woff2",
+    "charSize": 6528,
+    "byteSize": 6528
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBold.greek-ext-OAJMWL3G.woff2",
+    "type": ".woff2",
+    "charSize": 4624,
+    "byteSize": 4624
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBold.latin-7FZFZMCX.woff2",
+    "type": ".woff2",
+    "charSize": 27612,
+    "byteSize": 27612
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBold.latin-ext-R4HEXCVY.woff2",
+    "type": ".woff2",
+    "charSize": 26132,
+    "byteSize": 26132
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBold.vietnamese-2RV2WAGY.woff2",
+    "type": ".woff2",
+    "charSize": 4100,
+    "byteSize": 4100
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBoldItalic.cyrillic-4PMYWFJY.woff2",
+    "type": ".woff2",
+    "charSize": 7480,
+    "byteSize": 7480
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBoldItalic.cyrillic-ext-BGGBTNIX.woff2",
+    "type": ".woff2",
+    "charSize": 9576,
+    "byteSize": 9576
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBoldItalic.greek-ext-KVBHUVLM.woff2",
+    "type": ".woff2",
+    "charSize": 4924,
+    "byteSize": 4924
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBoldItalic.greek-PDFFTON4.woff2",
+    "type": ".woff2",
+    "charSize": 7160,
+    "byteSize": 7160
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBoldItalic.latin-ext-3IRDH5RF.woff2",
+    "type": ".woff2",
+    "charSize": 27872,
+    "byteSize": 27872
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBoldItalic.latin-KN7HK7TM.woff2",
+    "type": ".woff2",
+    "charSize": 29920,
+    "byteSize": 29920
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-SemiBoldItalic.vietnamese-JHYHZGSM.woff2",
+    "type": ".woff2",
+    "charSize": 4200,
+    "byteSize": 4200
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Thin.cyrillic-ext-KUU7XS4E.woff2",
+    "type": ".woff2",
+    "charSize": 8596,
+    "byteSize": 8596
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Thin.cyrillic-NSXNEGOH.woff2",
+    "type": ".woff2",
+    "charSize": 7008,
+    "byteSize": 7008
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Thin.greek-ext-J525CH7L.woff2",
+    "type": ".woff2",
+    "charSize": 4340,
+    "byteSize": 4340
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Thin.greek-F36ZWOVV.woff2",
+    "type": ".woff2",
+    "charSize": 6376,
+    "byteSize": 6376
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Thin.latin-ext-5ZCT7GA3.woff2",
+    "type": ".woff2",
+    "charSize": 24396,
+    "byteSize": 24396
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Thin.latin-NBKLBD6G.woff2",
+    "type": ".woff2",
+    "charSize": 26548,
+    "byteSize": 26548
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-Thin.vietnamese-YMD7S64I.woff2",
+    "type": ".woff2",
+    "charSize": 4052,
+    "byteSize": 4052
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ThinItalic.cyrillic-ext-XOI72AVS.woff2",
+    "type": ".woff2",
+    "charSize": 9324,
+    "byteSize": 9324
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ThinItalic.cyrillic-K3RUNO7X.woff2",
+    "type": ".woff2",
+    "charSize": 7396,
+    "byteSize": 7396
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ThinItalic.greek-D35F6EYY.woff2",
+    "type": ".woff2",
+    "charSize": 7100,
+    "byteSize": 7100
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ThinItalic.greek-ext-TTX5LV7N.woff2",
+    "type": ".woff2",
+    "charSize": 4704,
+    "byteSize": 4704
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ThinItalic.latin-5U7XQMA2.woff2",
+    "type": ".woff2",
+    "charSize": 28816,
+    "byteSize": 28816
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ThinItalic.latin-ext-NZUVBXRN.woff2",
+    "type": ".woff2",
+    "charSize": 26300,
+    "byteSize": 26300
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterDisplay-ThinItalic.vietnamese-VGNRYJRI.woff2",
+    "type": ".woff2",
+    "charSize": 4016,
+    "byteSize": 4016
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable-Italic.cyrillic-ext-ZUEUJGCH.woff2",
+    "type": ".woff2",
+    "charSize": 43956,
+    "byteSize": 43956
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable-Italic.cyrillic-SEM4QWMZ.woff2",
+    "type": ".woff2",
+    "charSize": 31924,
+    "byteSize": 31924
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable-Italic.greek-DZYJFNAO.woff2",
+    "type": ".woff2",
+    "charSize": 32748,
+    "byteSize": 32748
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable-Italic.greek-ext-MSWDH6M3.woff2",
+    "type": ".woff2",
+    "charSize": 18900,
+    "byteSize": 18900
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable-Italic.latin-ext-AYHEQYG6.woff2",
+    "type": ".woff2",
+    "charSize": 105188,
+    "byteSize": 105188
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable-Italic.latin-WWX2NOYT.woff2",
+    "type": ".woff2",
+    "charSize": 109784,
+    "byteSize": 109784
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable-Italic.vietnamese-7EOBG3FM.woff2",
+    "type": ".woff2",
+    "charSize": 15152,
+    "byteSize": 15152
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable.cyrillic-BJMSXQS6.woff2",
+    "type": ".woff2",
+    "charSize": 29864,
+    "byteSize": 29864
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable.cyrillic-ext-WL4GF4BB.woff2",
+    "type": ".woff2",
+    "charSize": 41232,
+    "byteSize": 41232
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable.greek-BYUWOS4B.woff2",
+    "type": ".woff2",
+    "charSize": 29868,
+    "byteSize": 29868
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable.greek-ext-IRA3U66Y.woff2",
+    "type": ".woff2",
+    "charSize": 17432,
+    "byteSize": 17432
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable.latin-5EYCRJRY.woff2",
+    "type": ".woff2",
+    "charSize": 99796,
+    "byteSize": 99796
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable.latin-ext-Z2WFU6AS.woff2",
+    "type": ".woff2",
+    "charSize": 97460,
+    "byteSize": 97460
+  },
+  {
+    "path": "assets/app.framerstatic.com/InterVariable.vietnamese-WIO7Y2XJ.woff2",
+    "type": ".woff2",
+    "charSize": 14992,
+    "byteSize": 14992
+  },
+  {
+    "path": "assets/app.framerstatic.com/prosemirror-suggest-DFAYM7QE.mjs",
+    "type": ".mjs",
+    "charSize": 995,
+    "byteSize": 995
+  },
+  {
+    "path": "assets/app.framerstatic.com/render-65KYGUKY.mjs",
+    "type": ".mjs",
+    "charSize": 149672,
+    "byteSize": 149672
+  },
+  {
+    "path": "assets/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hiA.woff2",
+    "type": ".woff2",
+    "charSize": 24272,
+    "byteSize": 24272
+  },
+  {
+    "path": "assets/framer.com/bootstrap.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433.js",
+    "type": ".js",
+    "charSize": 1343,
+    "byteSize": 1343
+  },
+  {
+    "path": "assets/framer.com/edit/init.mjs",
+    "type": ".mjs",
+    "charSize": 8456,
+    "byteSize": 8456
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/CaretDown.js@0.0.53",
+    "type": ".53",
+    "charSize": 335,
+    "byteSize": 335
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/CaretRight.js@0.0.57",
+    "type": ".57",
+    "charSize": 339,
+    "byteSize": 339
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/ChartBar.js@0.0.57",
+    "type": ".57",
+    "charSize": 331,
+    "byteSize": 331
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/ChatTeardropText.js@0.0.57",
+    "type": ".57",
+    "charSize": 363,
+    "byteSize": 363
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/CodesandboxLogo.js@0.0.53",
+    "type": ".53",
+    "charSize": 359,
+    "byteSize": 359
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/Crown.js@0.0.57",
+    "type": ".57",
+    "charSize": 319,
+    "byteSize": 319
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/FacebookLogo.js@0.0.53",
+    "type": ".53",
+    "charSize": 347,
+    "byteSize": 347
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/Handshake.js@0.0.57",
+    "type": ".57",
+    "charSize": 335,
+    "byteSize": 335
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/Heart.js@0.0.57",
+    "type": ".57",
+    "charSize": 319,
+    "byteSize": 319
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/Lightning.js@0.0.57",
+    "type": ".57",
+    "charSize": 335,
+    "byteSize": 335
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/LinkedinLogo.js@0.0.53",
+    "type": ".53",
+    "charSize": 347,
+    "byteSize": 347
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/Plus.js@0.0.57",
+    "type": ".57",
+    "charSize": 315,
+    "byteSize": 315
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/PuzzlePiece.js@0.0.57",
+    "type": ".57",
+    "charSize": 343,
+    "byteSize": 343
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/Rocket.js@0.0.57",
+    "type": ".57",
+    "charSize": 323,
+    "byteSize": 323
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/SmileySad.js@0.0.57",
+    "type": ".57",
+    "charSize": 335,
+    "byteSize": 335
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/Tag.js@0.0.57",
+    "type": ".57",
+    "charSize": 311,
+    "byteSize": 311
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/Toolbox.js@0.0.57",
+    "type": ".57",
+    "charSize": 327,
+    "byteSize": 327
+  },
+  {
+    "path": "assets/framer.com/m/phosphor-icons/TwitterLogo.js@0.0.53",
+    "type": ".53",
+    "charSize": 343,
+    "byteSize": 343
+  },
+  {
+    "path": "assets/framer.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react/react.production.min.js",
+    "type": ".js",
+    "charSize": 10751,
+    "byteSize": 10751
+  },
+  {
+    "path": "assets/framer.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom-server-legacy.browser.production.min.js",
+    "type": ".js",
+    "charSize": 35128,
+    "byteSize": 35128
+  },
+  {
+    "path": "assets/framer.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+    "type": ".js",
+    "charSize": 131835,
+    "byteSize": 131835
+  },
+  {
+    "path": "assets/framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2",
+    "type": ".woff2",
+    "charSize": 28004,
+    "byteSize": 28004
+  },
+  {
+    "path": "assets/framerusercontent.com/assets/dHHUz45rhM2KCQpj9zttNVlibk.woff2",
+    "type": ".woff2",
+    "charSize": 27648,
+    "byteSize": 27648
+  },
+  {
+    "path": "assets/framerusercontent.com/assets/XpT6u4sbWgieJRq3TU5MDo8EZI4.mp4",
+    "type": ".mp4",
+    "charSize": 3810062,
+    "byteSize": 3810062
+  },
+  {
+    "path": "assets/framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+    "type": ".svg",
+    "charSize": 215,
+    "byteSize": 215
+  },
+  {
+    "path": "assets/framerusercontent.com/images/1yTqWT9s2Gwa1tx9b9ngqhTTSJo.svg",
+    "type": ".svg",
+    "charSize": 547,
+    "byteSize": 547
+  },
+  {
+    "path": "assets/framerusercontent.com/images/2cHJ20WYKW7vPzurrfuEBbg.png",
+    "type": ".png",
+    "charSize": 176435,
+    "byteSize": 176435
+  },
+  {
+    "path": "assets/framerusercontent.com/images/3Y1x3Iz9CnzoCeLjfRflZMOiF0.svg",
+    "type": ".svg",
+    "charSize": 2926,
+    "byteSize": 2926
+  },
+  {
+    "path": "assets/framerusercontent.com/images/3YuYaBzIMHLaGLwS3ln3HFXNJT8.png",
+    "type": ".png",
+    "charSize": 51358,
+    "byteSize": 51358
+  },
+  {
+    "path": "assets/framerusercontent.com/images/4Fn4Ht0EOo5e7zPsJlAzWDFSsbs.png",
+    "type": ".png",
+    "charSize": 41164,
+    "byteSize": 41164
+  },
+  {
+    "path": "assets/framerusercontent.com/images/5nl7sazg0CzelFS34Rri4RYsog.png",
+    "type": ".png",
+    "charSize": 71699,
+    "byteSize": 71699
+  },
+  {
+    "path": "assets/framerusercontent.com/images/64P0Wrr2B1vab7EGrCnGYH7HxA.jpg",
+    "type": ".jpg",
+    "charSize": 85501,
+    "byteSize": 85501
+  },
+  {
+    "path": "assets/framerusercontent.com/images/6eZVqyYqcOCfFZlPmDGLaecTpk.jpg",
+    "type": ".jpg",
+    "charSize": 105362,
+    "byteSize": 105362
+  },
+  {
+    "path": "assets/framerusercontent.com/images/6QEz8kJbwqWFzbNDcgcMwaBk7Jk.svg",
+    "type": ".svg",
+    "charSize": 729,
+    "byteSize": 729
+  },
+  {
+    "path": "assets/framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+    "type": ".svg",
+    "charSize": 214,
+    "byteSize": 214
+  },
+  {
+    "path": "assets/framerusercontent.com/images/71HUXtlPpznGjux39GFgaYmyDY.png",
+    "type": ".png",
+    "charSize": 70199,
+    "byteSize": 70199
+  },
+  {
+    "path": "assets/framerusercontent.com/images/9YXhFjAV8CsnxIj9lpMNut2s.png",
+    "type": ".png",
+    "charSize": 142538,
+    "byteSize": 142538
+  },
+  {
+    "path": "assets/framerusercontent.com/images/An0p2q5OhmRu94a32IEHBy3mLU4.png",
+    "type": ".png",
+    "charSize": 33107,
+    "byteSize": 33107
+  },
+  {
+    "path": "assets/framerusercontent.com/images/Bf3S7lrMf4RLc0FEbNVgXCJTvI.svg",
+    "type": ".svg",
+    "charSize": 1975,
+    "byteSize": 1975
+  },
+  {
+    "path": "assets/framerusercontent.com/images/cCZW9ZqEgHvjhATHwoRs2FVGEE.jpg",
+    "type": ".jpg",
+    "charSize": 28762,
+    "byteSize": 28762
+  },
+  {
+    "path": "assets/framerusercontent.com/images/chvWbQPAfXTanooWyhT8zamduq0.jpg",
+    "type": ".jpg",
+    "charSize": 72956,
+    "byteSize": 72956
+  },
+  {
+    "path": "assets/framerusercontent.com/images/ciqeScb6bZagxmIXqN70lJt6x10.jpg",
+    "type": ".jpg",
+    "charSize": 19517,
+    "byteSize": 19517
+  },
+  {
+    "path": "assets/framerusercontent.com/images/CwAU7R3lb5jRX49sGhUzhPo0MlY.png",
+    "type": ".png",
+    "charSize": 25149,
+    "byteSize": 25149
+  },
+  {
+    "path": "assets/framerusercontent.com/images/DjiCc2eOXk5aIpbH0dR0SopaoBQ.png",
+    "type": ".png",
+    "charSize": 4862,
+    "byteSize": 4862
+  },
+  {
+    "path": "assets/framerusercontent.com/images/dt3zwC71ClAiJCIcRuR7KfdyRU.jpg",
+    "type": ".jpg",
+    "charSize": 22994,
+    "byteSize": 22994
+  },
+  {
+    "path": "assets/framerusercontent.com/images/duZwjP73YzY6931zuqasWWfWDZY.svg",
+    "type": ".svg",
+    "charSize": 2449,
+    "byteSize": 2449
+  },
+  {
+    "path": "assets/framerusercontent.com/images/EOHuSX9HuRPvow2SuSCs8eT4g.jpg",
+    "type": ".jpg",
+    "charSize": 8921,
+    "byteSize": 8921
+  },
+  {
+    "path": "assets/framerusercontent.com/images/fGST3oGgoFmVzIWIZIwQFZx65Bs.png",
+    "type": ".png",
+    "charSize": 24730,
+    "byteSize": 24730
+  },
+  {
+    "path": "assets/framerusercontent.com/images/FKs5bc7E0PuLbolQsZsjxr2TLU0.png",
+    "type": ".png",
+    "charSize": 69167,
+    "byteSize": 69167
+  },
+  {
+    "path": "assets/framerusercontent.com/images/fYq5HxjOhykzQY1jCEaZB1j9g.png",
+    "type": ".png",
+    "charSize": 21322,
+    "byteSize": 21322
+  },
+  {
+    "path": "assets/framerusercontent.com/images/G7YIRtUwKvUbDLlESrrHTs8PH4.png",
+    "type": ".png",
+    "charSize": 215998,
+    "byteSize": 215998
+  },
+  {
+    "path": "assets/framerusercontent.com/images/gIWEWeiIshiXYk50SGZgiO8BuZQ.png",
+    "type": ".png",
+    "charSize": 269910,
+    "byteSize": 269910
+  },
+  {
+    "path": "assets/framerusercontent.com/images/Ia3ikiLVEBJUr08Ep5M8UXgfaA.svg",
+    "type": ".svg",
+    "charSize": 2854,
+    "byteSize": 2854
+  },
+  {
+    "path": "assets/framerusercontent.com/images/ILWmxYp9ZPgSfrZrsJkMC6oTsE.jpg",
+    "type": ".jpg",
+    "charSize": 85416,
+    "byteSize": 85416
+  },
+  {
+    "path": "assets/framerusercontent.com/images/IsOkoMga9kkFvfKkx4EdTQWs.png",
+    "type": ".png",
+    "charSize": 84701,
+    "byteSize": 84701
+  },
+  {
+    "path": "assets/framerusercontent.com/images/ItbAaHsEW3CUnztIn91H9TiuKHc.jpg",
+    "type": ".jpg",
+    "charSize": 21808,
+    "byteSize": 21808
+  },
+  {
+    "path": "assets/framerusercontent.com/images/jegT6HCbl1FaE0PyMBA7awMdCa8.svg",
+    "type": ".svg",
+    "charSize": 557,
+    "byteSize": 557
+  },
+  {
+    "path": "assets/framerusercontent.com/images/KI7aSRP3L2vttQ79sArwUunvcBk.png",
+    "type": ".png",
+    "charSize": 18771,
+    "byteSize": 18771
+  },
+  {
+    "path": "assets/framerusercontent.com/images/Kjci2ZiHnCXWVjKZxU9rwu3GSfI.svg",
+    "type": ".svg",
+    "charSize": 582,
+    "byteSize": 582
+  },
+  {
+    "path": "assets/framerusercontent.com/images/ksoahdCs5wmZvCWkSavafYdY.png",
+    "type": ".png",
+    "charSize": 148315,
+    "byteSize": 148315
+  },
+  {
+    "path": "assets/framerusercontent.com/images/LLuYxCsy3pbJXfNxEzJjpEg5yEc.png",
+    "type": ".png",
+    "charSize": 58071,
+    "byteSize": 58071
+  },
+  {
+    "path": "assets/framerusercontent.com/images/m2CWaLkPhATbOFwA87T2GQcq8.png",
+    "type": ".png",
+    "charSize": 43028,
+    "byteSize": 43028
+  },
+  {
+    "path": "assets/framerusercontent.com/images/mGAxAGDBjt0JHg8MI0F9P9FkW0g.svg",
+    "type": ".svg",
+    "charSize": 983,
+    "byteSize": 983
+  },
+  {
+    "path": "assets/framerusercontent.com/images/NE0HbZCpk08RqUBmljkId4i3oEw.jpg",
+    "type": ".jpg",
+    "charSize": 53432,
+    "byteSize": 53432
+  },
+  {
+    "path": "assets/framerusercontent.com/images/niNvwVyhPxwPwCPAoezHB0Taxh0.jpg",
+    "type": ".jpg",
+    "charSize": 25784,
+    "byteSize": 25784
+  },
+  {
+    "path": "assets/framerusercontent.com/images/NNPCXTEy29Dqfd5bq3k503a9U.png",
+    "type": ".png",
+    "charSize": 45819,
+    "byteSize": 45819
+  },
+  {
+    "path": "assets/framerusercontent.com/images/Np88aMWSZ0HJOfwWNUIfncpERQ.jpg",
+    "type": ".jpg",
+    "charSize": 27507,
+    "byteSize": 27507
+  },
+  {
+    "path": "assets/framerusercontent.com/images/NXvTIsvEzRCNFp5eX6y78A2DOs.png",
+    "type": ".png",
+    "charSize": 58013,
+    "byteSize": 58013
+  },
+  {
+    "path": "assets/framerusercontent.com/images/ODiwxn6ULNw3K5b6t4uahxjLkPQ.png",
+    "type": ".png",
+    "charSize": 104382,
+    "byteSize": 104382
+  },
+  {
+    "path": "assets/framerusercontent.com/images/pN5vs4sqgTJlyDGIWZZHHOuRU.png",
+    "type": ".png",
+    "charSize": 60765,
+    "byteSize": 60765
+  },
+  {
+    "path": "assets/framerusercontent.com/images/qc6WiaOLMJCgLjRA2nE1Poq3zLk.svg",
+    "type": ".svg",
+    "charSize": 523,
+    "byteSize": 523
+  },
+  {
+    "path": "assets/framerusercontent.com/images/qONRBbHfysnmWnOq6Vnl2OUAl3E.svg",
+    "type": ".svg",
+    "charSize": 844,
+    "byteSize": 844
+  },
+  {
+    "path": "assets/framerusercontent.com/images/RjQdEs6HYUk3H73pX0FTlrFzp4.png",
+    "type": ".png",
+    "charSize": 204319,
+    "byteSize": 204319
+  },
+  {
+    "path": "assets/framerusercontent.com/images/RsaJCL4Sj4fVM9spQ7bKyrgyngo.svg",
+    "type": ".svg",
+    "charSize": 1100,
+    "byteSize": 1100
+  },
+  {
+    "path": "assets/framerusercontent.com/images/s40F2z4Ij7mUammZE0ZZIRSSVqU.png",
+    "type": ".png",
+    "charSize": 37221,
+    "byteSize": 37221
+  },
+  {
+    "path": "assets/framerusercontent.com/images/shKLfAE125fiYxDN5N6oADsZf7s.png",
+    "type": ".png",
+    "charSize": 101128,
+    "byteSize": 101128
+  },
+  {
+    "path": "assets/framerusercontent.com/images/uTkuLOi3ZjuJHBQNS9i0C4T7A.svg",
+    "type": ".svg",
+    "charSize": 935,
+    "byteSize": 935
+  },
+  {
+    "path": "assets/framerusercontent.com/images/yBsl7wO7dvRGKnkzXsedaMgqUk.png",
+    "type": ".png",
+    "charSize": 78086,
+    "byteSize": 78086
+  },
+  {
+    "path": "assets/framerusercontent.com/images/YcyG9QsC7RV1Onc50wyEXquv1k.svg",
+    "type": ".svg",
+    "charSize": 1020,
+    "byteSize": 1020
+  },
+  {
+    "path": "assets/framerusercontent.com/images/yquj0OAqxnnqWfUpCEXOVx6Wo.png",
+    "type": ".png",
+    "charSize": 57893,
+    "byteSize": 57893
+  },
+  {
+    "path": "assets/framerusercontent.com/images/YvLoEdY6oYJv1tB16aWO0PWgOA.png",
+    "type": ".png",
+    "charSize": 71911,
+    "byteSize": 71911
+  },
+  {
+    "path": "assets/framerusercontent.com/images/Zdck8IBa7OGbIDAZ0HXimRKVK0.png",
+    "type": ".png",
+    "charSize": 46919,
+    "byteSize": 46919
+  },
+  {
+    "path": "assets/framerusercontent.com/images/ZkX4C69JxyAyD4KNk3iQC08pCE.png",
+    "type": ".png",
+    "charSize": 43704,
+    "byteSize": 43704
+  },
+  {
+    "path": "assets/framerusercontent.com/images/Zm4yodZZxdIXJhenN7bdKUq5KM.jpg",
+    "type": ".jpg",
+    "charSize": 5137,
+    "byteSize": 5137
+  },
+  {
+    "path": "assets/framerusercontent.com/images/ZOdTAJ3OTp3mi5sjMNBoCzLlIo.png",
+    "type": ".png",
+    "charSize": 5396,
+    "byteSize": 5396
+  },
+  {
+    "path": "assets/framerusercontent.com/images/ZokCuPJkR8AKgTToaXlDYY95I.svg",
+    "type": ".svg",
+    "charSize": 607,
+    "byteSize": 607
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/2J76pymEci37RJeTKbRe/oOM2l3KYAwWTdFDM1vCg/FacebookLogo.js",
+    "type": ".js",
+    "charSize": 3093,
+    "byteSize": 3093
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/30iqpzDdESaYeasHxcHu/KnkUZrB0VaalAkt8ntFI/Tag.js",
+    "type": ".js",
+    "charSize": 3450,
+    "byteSize": 3450
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/4DdaUvaccgEgxMd5tHRL/hWGATDnHlzpAXNQv6svp/CaretRight.js",
+    "type": ".js",
+    "charSize": 2302,
+    "byteSize": 2302
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/AZde9EKhHYqNbfSI9q7K/uCa6Grcnl7veTgu5M02V/Lightning.js",
+    "type": ".js",
+    "charSize": 3296,
+    "byteSize": 3296
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/BIwihdUoeA68PyIKqRfS/utnlX1CVtR3vX6RKNsW9/CodesandboxLogo.js",
+    "type": ".js",
+    "charSize": 5220,
+    "byteSize": 5220
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/BXDuCh41jbF0mmOO5dWf/Csd2iH9VLoGK5B5W0kUG/SmileySad.js",
+    "type": ".js",
+    "charSize": 3702,
+    "byteSize": 3702
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/clLKnRXhK5AgxebOZsce/tR1xqRjdmEGVBNGtDJ3b/Rocket.js",
+    "type": ".js",
+    "charSize": 6444,
+    "byteSize": 6444
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/eKe8eUinUxgx4ANiuZFY/OJE1fI7mUQmZrxmADHEE/CaretDown.js",
+    "type": ".js",
+    "charSize": 2330,
+    "byteSize": 2330
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/I5ZD8lyQEdkIrZfBjCs7/uGPf9qKdqC5bYXhwsvdm/Heart.js",
+    "type": ".js",
+    "charSize": 4120,
+    "byteSize": 4120
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/PdqR42nl7NekquxyuGpl/jkTzvmEVbBybQbdriGl2/Crown.js",
+    "type": ".js",
+    "charSize": 5123,
+    "byteSize": 5123
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/qE7oSV0Bo6BQqhHJT5SS/9BJcZ0VqpDy3aiAGSTrK/ChatTeardropText.js",
+    "type": ".js",
+    "charSize": 3171,
+    "byteSize": 3171
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/R0xZqjEacpgUgXUjQtJC/TpORySfo3l8kKGdW9kir/PuzzlePiece.js",
+    "type": ".js",
+    "charSize": 5782,
+    "byteSize": 5782
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/sNtJnKPoNzXmO5lIOLAj/QU2zZQz1giSGo5RTSpWg/ChartBar.js",
+    "type": ".js",
+    "charSize": 2736,
+    "byteSize": 2736
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/SpkqIutIV0OaB2cWd9Ow/P1HgeoDevH24jmRDO7Lo/Toolbox.js",
+    "type": ".js",
+    "charSize": 3893,
+    "byteSize": 3893
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/tee6kHv8jFWGQMdGb2Xd/j52QWDHrUZLSBy1kNNde/LinkedinLogo.js",
+    "type": ".js",
+    "charSize": 3769,
+    "byteSize": 3769
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/UNPG3iwXt5YFeGPtdi5q/lKaDyVE0x2GxE7FzUOn3/Plus.js",
+    "type": ".js",
+    "charSize": 2515,
+    "byteSize": 2515
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/wh9oIWSA5qVyaj1bWpws/7YdRoCrW9DrFACFi7ekv/Handshake.js",
+    "type": ".js",
+    "charSize": 6952,
+    "byteSize": 6952
+  },
+  {
+    "path": "assets/framerusercontent.com/modules/X42V9GVEpmRhy4fRDUzc/fJIb8KuF8vDKARxFIOXA/TwitterLogo.js",
+    "type": ".js",
+    "charSize": 6142,
+    "byteSize": 6142
+  },
+  {
+    "path": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/8onvB8a4KGpSo1s6Ii-_8UZ53FgoCuPbmyIKo4chYJI.DwAJbxOI.mjs",
+    "type": ".mjs",
+    "charSize": 12212,
+    "byteSize": 12212
+  },
+  {
+    "path": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/framer.CxPJkRhH.mjs",
+    "type": ".mjs",
+    "charSize": 420970,
+    "byteSize": 420970
+  },
+  {
+    "path": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/motion.Bcij9dPp.mjs",
+    "type": ".mjs",
+    "charSize": 155253,
+    "byteSize": 155253
+  },
+  {
+    "path": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/nW5P-P_C7GK5Uww_Ep31oFI_QAk6z6FA1g8RTui2P8s.CzliKwwb.mjs",
+    "type": ".mjs",
+    "charSize": 752675,
+    "byteSize": 752675
+  },
+  {
+    "path": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/PX9hIOIVM.CiZ1RTTL.mjs",
+    "type": ".mjs",
+    "charSize": 20194,
+    "byteSize": 20194
+  },
+  {
+    "path": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/react.BLT3Z9Sx.mjs",
+    "type": ".mjs",
+    "charSize": 145089,
+    "byteSize": 145089
+  },
+  {
+    "path": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/rolldown-runtime.Bi-D_2cA.mjs",
+    "type": ".mjs",
+    "charSize": 244,
+    "byteSize": 244
+  },
+  {
+    "path": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/script_main.Cn_PMwWs.mjs",
+    "type": ".mjs",
+    "charSize": 7057,
+    "byteSize": 7057
+  },
+  {
+    "path": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/shared-lib.DTBeAW0z.mjs",
+    "type": ".mjs",
+    "charSize": 20799,
+    "byteSize": 20799
+  },
+  {
+    "path": "assets/framerusercontent.com/sites/2ahsPHtXbFg9KR4CjZFu7u/toplevel-deps.zCh3sjsA.mjs",
+    "type": ".mjs",
+    "charSize": 162864,
+    "byteSize": 162864
+  },
+  {
+    "path": "assets/framerusercontent.com/third-party-assets/fontshare/wf/2GQIT54GKQY3JRFTSHS4ARTRNRQISSAA/3CIP5EBHRRHE5FVQU3VFROPUERNDSTDF/JTSL5QESUXATU47LCPUNHZQBDDIWDOSW.woff2",
+    "type": ".woff2",
+    "charSize": 15272,
+    "byteSize": 15272
+  },
+  {
+    "path": "assets/framerusercontent.com/third-party-assets/fontshare/wf/4BEU2H62BE4J563L6WLMVQKHOL2QMEWK/KH4J4NPLOSGQTTA3TD7LQA62CQTZ5NMO/J6GZW3TVVNILH7PYSPMC3JPNPGFXNPSF.woff2",
+    "type": ".woff2",
+    "charSize": 37932,
+    "byteSize": 37932
+  },
+  {
+    "path": "assets/framerusercontent.com/third-party-assets/fontshare/wf/PYCLPQS6HZBLJGMCPKBPEXQKWPKQ7OHE/TPDXSFLT6F2DLRHVAQNPEX367ZCFB6CP/OF7M536OVLRNXVSLVYIW3HQVUIUZ56CU.woff2",
+    "type": ".woff2",
+    "charSize": 36740,
+    "byteSize": 36740
+  },
+  {
+    "path": "assets/framerusercontent.com/third-party-assets/fontshare/wf/UYVP6QOYOTHZUSD2QESI7SGUJJDFR5CG/7MQKA3KJYIKEEWMGAVUTITXKM7LENDLO/ZMUCZ2PRQ3LQ3YQOHTCZ7VJCQHAOURPY.woff2",
+    "type": ".woff2",
+    "charSize": 38404,
+    "byteSize": 38404
+  },
+  {
+    "path": "assets/framerusercontent.com/third-party-assets/fontshare/wf/XUKZCD4YXMROH2RFN7AVQI3ZBPZDZBBJ/TICF42Y6EVCHCW6VT7HP2KTG7LYEAL6Y/QJ44H4IY5JEWLICE2IBFYKPCK7EJANPW.woff2",
+    "type": ".woff2",
+    "charSize": 38764,
+    "byteSize": 38764
+  },
+  {
+    "path": "assets/i.ytimg.com/vi_webp/ay2e0VXtmfI/maxresdefault.webp",
+    "type": ".webp",
+    "charSize": 31200,
+    "byteSize": 31200
+  },
+  {
+    "path": "assets/i.ytimg.com/vi_webp/Ly1auHs_ofo/maxresdefault.webp",
+    "type": ".webp",
+    "charSize": 21006,
+    "byteSize": 21006
+  },
+  {
+    "path": "assets/site-2193bfbcbc10ab6e0657a41643faba9cbae079e2e574aadc93f94f62d1.framercanvas.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react/react-jsx-runtime.production.min.js",
+    "type": ".js",
+    "charSize": 859,
+    "byteSize": 859
+  },
+  {
+    "path": "assets/site-2193bfbcbc10ab6e0657a41643faba9cbae079e2e574aadc93f94f62d1.framercanvas.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react/react.production.min.js",
+    "type": ".js",
+    "charSize": 10751,
+    "byteSize": 10751
+  },
+  {
+    "path": "assets/site-2193bfbcbc10ab6e0657a41643faba9cbae079e2e574aadc93f94f62d1.framercanvas.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom-server-legacy.browser.production.min.js",
+    "type": ".js",
+    "charSize": 35128,
+    "byteSize": 35128
+  },
+  {
+    "path": "assets/site-2193bfbcbc10ab6e0657a41643faba9cbae079e2e574aadc93f94f62d1.framercanvas.com/s/app.0d9ff52aacfb7b20c8f88f2b5de5bb21be3eb433/scripts/react-dom/react-dom.production.min.js",
+    "type": ".js",
+    "charSize": 131835,
+    "byteSize": 131835
+  },
+  {
+    "path": "index.html",
+    "type": ".html",
+    "charSize": 1031478,
+    "byteSize": 1031581
+  },
+  {
+    "path": "scout-reports/stackProfile.json",
+    "type": ".json",
+    "charSize": 930,
+    "byteSize": 930
+  },
+  {
+    "path": "screenshot.png",
+    "type": ".png",
+    "charSize": 5949706,
+    "byteSize": 5949706
+  }
+]

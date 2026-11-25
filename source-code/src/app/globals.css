@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+/* ===== Global Styles ===== */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Completely remove Get Template button and links */
+.framer-1skk0bb-container,
+[data-framer-name="Get Template"],
+a[href*="framer.link/ZMdR1Xm"],
+div[data-framer-name="lMEsWBuQa"],
+.framer-t38qD:has(a[href*="framer.link"]) {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  height: 0 !important;
+  width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Clean service cards focus and outlines */
+.framer-gf6izd,
+.framer-gf6izd:focus,
+.framer-gf6izd:focus-visible,
+[data-framer-name="Top"]:focus,
+[data-framer-name="Top"]:focus-visible,
+[data-highlight="true"]:focus,
+[data-highlight="true"]:focus-visible,
+.framer-2jSEI:focus,
+.framer-2jSEI:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+[data-framer-name="Top"] {
+  outline: none !important;
+}
+
+/* Hide Testimonial section and menu link while keeping code intact */
+#reviews,
+section[data-framer-name="Section - Testimonial"],
+.framer-o3ceih,
+.framer-66wddz-container,
+a[href*="#reviews"] {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  overflow: hidden !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Center giant AEV STUDIOS brand text in footer */
+.framer-1nf2p8p {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.framer-3h15i9 {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+}
+
+.framer-3h15i9 p {
+  text-align: center !important;
+  --framer-text-alignment: center !important;
+}
+
+/* Show only the Founder card (Chandan Soni) in About section and center it */
+[data-framer-name="Team Members"] > *:has(.framer-3flzw6-container),
+[data-framer-name="Team Members"] > *:has(.framer-zf5j0c-container),
+[data-framer-name="Team Members"] > *:has(.framer-jajp6b-container),
+.framer-3flzw6-container,
+.framer-zf5j0c-container,
+.framer-jajp6b-container {
+  display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
+
+[data-framer-name="Team Members"] {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+}
+
+[data-framer-name="Team Members"] > *:has(.framer-nnksyu-container),
+.framer-nnksyu-container {
+  max-width: 360px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  flex: 0 0 auto !important;
+}
+
+/* Prevent awkward mid-word wrapping in About Us story */
+.framer-1n4840m p {
+  word-break: normal !important;
+  overflow-wrap: normal !important;
+  hyphens: none !important;
+}
+
+/* Remove Play Showreel custom cursor overlay on hero video */
+.framer-1sn7ldb,
+[data-framer-cursor="13ahmlq"] ~ div:has(.framer-1sn7ldb) {
+  display: none !important;
+}
