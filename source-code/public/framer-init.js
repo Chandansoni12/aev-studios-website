@@ -91,11 +91,12 @@
       e.stopPropagation();
 
       var submitBtn = form.querySelector('button[type="submit"], input[type="submit"]');
-      var origText = submitBtn ? (submitBtn.textContent || submitBtn.value) : '';
-      if (submitBtn) {
+      var labelEl = submitBtn ? (submitBtn.querySelector('p') || submitBtn) : null;
+      var origText = labelEl ? (labelEl.tagName === 'INPUT' ? labelEl.value : labelEl.textContent) : '';
+      if (submitBtn && labelEl) {
         submitBtn.disabled = true;
-        if (submitBtn.tagName === 'INPUT') submitBtn.value = 'Sending...';
-        else submitBtn.textContent = 'Sending...';
+        if (labelEl.tagName === 'INPUT') labelEl.value = 'Sending...';
+        else labelEl.textContent = 'Sending...';
       }
 
       var formData = new FormData(form);
@@ -103,33 +104,46 @@
       formData.append('_captcha', 'false');
       formData.append('_template', 'table');
 
+      var controller = typeof AbortController !== 'undefined' ? new AbortController() : null;
+      var timer = controller ? setTimeout(function() { controller.abort(); }, 6000) : null;
+
       fetch('https://formsubmit.co/ajax/aevstudio.mail9@gmail.com', {
         method: 'POST',
         headers: { 'Accept': 'application/json' },
-        body: formData
+        body: formData,
+        signal: controller ? controller.signal : undefined
       })
-      .then(function(res) { return res.json(); })
+      .then(function(res) {
+        if (timer) clearTimeout(timer);
+        if (!res.ok) throw new Error('Network response was not ok');
+        return res.json();
+      })
       .then(function() {
         form.reset();
-        if (submitBtn) {
+        if (submitBtn && labelEl) {
           submitBtn.disabled = false;
-          if (submitBtn.tagName === 'INPUT') submitBtn.value = 'Message Sent ✓';
-          else submitBtn.textContent = 'Message Sent ✓';
+          if (labelEl.tagName === 'INPUT') labelEl.value = 'Message Sent ✓';
+          else labelEl.textContent = 'Message Sent ✓';
           setTimeout(function() {
-            if (submitBtn.tagName === 'INPUT') submitBtn.value = origText;
-            else submitBtn.textContent = origText;
+            if (labelEl.tagName === 'INPUT') labelEl.value = origText;
+            else labelEl.textContent = origText;
           }, 4000);
         }
       })
       .catch(function() {
-        if (submitBtn) {
+        if (timer) clearTimeout(timer);
+        if (submitBtn && labelEl) {
           submitBtn.disabled = false;
-          if (submitBtn.tagName === 'INPUT') submitBtn.value = origText;
-          else submitBtn.textContent = origText;
+          if (labelEl.tagName === 'INPUT') labelEl.value = origText;
+          else labelEl.textContent = origText;
         }
-        // Fallback to native form submission to FormSubmit
-        form.action = 'https://formsubmit.co/aevstudio.mail9@gmail.com';
-        form.submit();
+        // Fallback to mailto so the enquiry always reaches aevstudio.mail9@gmail.com
+        var name = formData.get('Name') || formData.get('name') || '';
+        var email = formData.get('Email') || formData.get('email') || '';
+        var phone = formData.get('Phone') || formData.get('phone') || '';
+        var msg = formData.get('Message') || formData.get('message') || '';
+        var body = encodeURIComponent('Name: ' + name + '\nEmail: ' + email + '\nPhone: ' + phone + '\n\n' + msg);
+        window.location.href = 'mailto:aevstudio.mail9@gmail.com?subject=' + encodeURIComponent('New AEV Studios Project Enquiry') + '&body=' + body;
       });
     }, true);
   } catch(e) {
