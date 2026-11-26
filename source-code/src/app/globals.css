@@ -3,12 +3,35 @@
 /* ===== Global Styles ===== */
 html {
   scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
   margin: 0;
   padding: 0;
   min-height: 100vh;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Remove extra Framer badge and focus bezels */
+#__framer-badge-container,
+.__framer-badge,
+[data-framer-portal-id="__framer-badge-container"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+button:focus,
+button:focus-visible,
+a:focus,
+a:focus-visible,
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none !important;
 }
 
 img, video {
@@ -206,6 +229,13 @@ html, body {
   }
 
   #hero .framer-8ck2yw > .ssr-variant.hidden-zgsw7e {
+    display: none !important;
+  }
+
+  /* Hide overlapping sticker badges on mobile so AEV STUDIOS stays clean */
+  [data-framer-appear-id="drn9mx"],
+  [data-framer-appear-id="tqofvi"],
+  [data-framer-appear-id="1h224it"] {
     display: none !important;
   }
 
