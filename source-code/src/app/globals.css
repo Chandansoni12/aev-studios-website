@@ -185,7 +185,7 @@ section[data-framer-name="Section - Brands and Statistics"],
     display: none !important;
   }
 
-  #hero svg.framer-d1vi1q {
+  #main #hero svg.framer-d1vi1q {
     width: 100% !important;
     max-width: 100% !important;
     height: auto !important;
@@ -194,9 +194,9 @@ section[data-framer-name="Section - Brands and Statistics"],
     margin: 0 auto !important;
   }
 
-  #hero svg.framer-d1vi1q h1 {
-    font-size: 104px !important;
-    --framer-font-size: 104px !important;
+  #main #hero svg.framer-d1vi1q h1 {
+    font-size: 92px !important;
+    --framer-font-size: 92px !important;
     letter-spacing: -0.04em !important;
     --framer-letter-spacing: -0.04em !important;
     line-height: 0.95 !important;
@@ -204,24 +204,26 @@ section[data-framer-name="Section - Brands and Statistics"],
     --framer-text-alignment: center !important;
   }
 
-  /* Hero Video: perfectly centered circle inside the concentric rings */
-  #hero-media {
+  /* Hero Video: reset 100px side padding on .framer-i5xq41 and center circle inside rings */
+  #main .framer-4NkYy #hero-media,
+  #main .framer-4NkYy .framer-i5xq41 {
     width: 100% !important;
     max-width: 100% !important;
+    padding: 28px 0 !important;
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
     position: relative !important;
-    margin: 20px auto 0 auto !important;
+    margin: 12px auto 0 auto !important;
   }
 
-  .framer-1m9pwpb {
+  #main .framer-4NkYy .framer-1m9pwpb {
     position: relative !important;
     left: auto !important;
     top: auto !important;
     transform: none !important;
-    width: 264px !important;
-    height: 264px !important;
+    width: 276px !important;
+    height: 276px !important;
     max-width: 78vw !important;
     max-height: 78vw !important;
     aspect-ratio: 1 / 1 !important;
@@ -231,8 +233,9 @@ section[data-framer-name="Section - Brands and Statistics"],
     z-index: 2 !important;
   }
 
-  .framer-1nlaqts {
-    position: relative !important;
+  #main .framer-4NkYy .framer-1nlaqts,
+  #main .framer-4NkYy .framer-1owrvj1-container {
+    position: absolute !important;
     inset: 0 !important;
     left: 0 !important;
     top: 0 !important;
@@ -243,16 +246,15 @@ section[data-framer-name="Section - Brands and Statistics"],
     overflow: hidden !important;
   }
 
-  .framer-1nlaqts .framer-1owrvj1-container,
-  .framer-1nlaqts video,
-  #hero-media video {
+  #main .framer-4NkYy .framer-1nlaqts video,
+  #main #hero-media video {
     width: 100% !important;
     height: 100% !important;
     border-radius: 50% !important;
     object-fit: cover !important;
   }
 
-  .framer-1d0taq8-container {
+  #main .framer-4NkYy .framer-1d0taq8-container {
     left: 50% !important;
     top: 50% !important;
     transform: translate(-50%, -50%) !important;
