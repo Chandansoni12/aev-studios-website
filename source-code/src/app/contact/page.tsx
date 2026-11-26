@@ -4,6 +4,7 @@ import { useState } from 'react';
 import SiteNav from '@/components/shared/SiteNav';
 import SiteFooter from '@/components/shared/SiteFooter';
 import { AEV_CONTENT } from '@/lib/content/aev-content';
+import { ContactService } from '@/lib/services/ContactService';
 
 export default function ContactPage() {
   const { contact } = AEV_CONTENT;
@@ -15,35 +16,25 @@ export default function ContactPage() {
     e.preventDefault();
     setSending(true);
     setErrorMsg('');
+
     const form = e.currentTarget;
     const formData = new FormData(form);
-    formData.append('_subject', 'New AEV Studios Project Enquiry');
-    formData.append('_captcha', 'false');
-    formData.append('_template', 'table');
+    const result = await ContactService.getInstance().submitEnquiry(formData, {
+      name: String(formData.get('name') || ''),
+      email: String(formData.get('email') || ''),
+      company: String(formData.get('company') || ''),
+      service: String(formData.get('service') || ''),
+      budget: String(formData.get('budget') || ''),
+      message: String(formData.get('message') || ''),
+    });
 
-    try {
-      const res = await fetch('https://formsubmit.co/ajax/aevstudio.mail9@gmail.com', {
-        method: 'POST',
-        headers: { Accept: 'application/json' },
-        body: formData,
-      });
-      if (!res.ok) throw new Error('Submission failed');
+    setSending(false);
+    if (result.ok) {
       setSubmitted(true);
       form.reset();
-    } catch {
+    } else if (result.fallbackUrl) {
       setErrorMsg('Could not send automatically. Opening your email client as backup...');
-      const name = String(formData.get('name') || '');
-      const email = String(formData.get('email') || '');
-      const company = String(formData.get('company') || '');
-      const service = String(formData.get('service') || '');
-      const budget = String(formData.get('budget') || '');
-      const message = String(formData.get('message') || '');
-      const body = encodeURIComponent(
-        `Name: ${name}\nEmail: ${email}\nCompany: ${company}\nService: ${service}\nBudget: ${budget}\n\n${message}`
-      );
-      window.location.href = `mailto:aevstudio.mail9@gmail.com?subject=${encodeURIComponent('New AEV Studios Project Enquiry')}&body=${body}`;
-    } finally {
-      setSending(false);
+      window.location.href = result.fallbackUrl;
     }
   };
 
