@@ -11,6 +11,9 @@ export const metadata: Metadata = {
 export default function HomePage() {
   return (
     <>
+      <Script id="scroll-reset" strategy="beforeInteractive">
+        {`if('scrollRestoration' in history){history.scrollRestoration='manual';}if(!location.hash){window.scrollTo(0,0);}`}
+      </Script>
       <Section0 />
       <Script id="framer-init" src="/framer-init.js" strategy="afterInteractive" />
       <Script
