@@ -122,10 +122,14 @@ a[href*="#reviews"] {
   hyphens: none !important;
 }
 
-/* Remove Play Showreel custom cursor overlay on hero video */
+/* Remove Play Showreel custom cursor overlay & mobile Play button on hero video */
 .framer-1sn7ldb,
-[data-framer-cursor="13ahmlq"] ~ div:has(.framer-1sn7ldb) {
+[data-framer-cursor="13ahmlq"] ~ div:has(.framer-1sn7ldb),
+.framer-lo16mx-container {
   display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
 }
 
 /* Hide Numbers / Statistics section and close vertical gap */
@@ -160,11 +164,29 @@ html, body {
     overflow-x: clip !important;
   }
 
-  /* Navbar mobile alignment */
+  /* Navbar mobile alignment & visible logo */
+  .framer-14gcjol,
+  .framer-11uolsd.framer-14gcjol,
   header .framer-14gcjol,
   nav .framer-14gcjol {
-    max-width: 110px !important;
-    height: auto !important;
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    width: 96px !important;
+    height: 40px !important;
+    min-width: 96px !important;
+    min-height: 40px !important;
+    position: relative !important;
+    flex-shrink: 0 !important;
+  }
+
+  .framer-14gcjol img {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
   }
 
   /* Hero section mobile spacing, big AEV STUDIOS title & media */
@@ -204,10 +226,25 @@ html, body {
   }
 
   #hero-media,
+  .framer-1m9pwpb,
   .framer-1nlaqts {
+    width: 290px !important;
+    height: 290px !important;
+    max-width: 82vw !important;
+    max-height: 82vw !important;
+    aspect-ratio: 1 / 1 !important;
+    border-radius: 50% !important;
+    overflow: hidden !important;
+    margin: 0 auto !important;
+  }
+
+  .framer-1nlaqts .framer-1owrvj1-container,
+  .framer-1nlaqts video,
+  #hero-media video {
     width: 100% !important;
-    max-width: 100% !important;
-    border-radius: 20px !important;
+    height: 100% !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
   }
 
   /* Service cards mobile polish */
