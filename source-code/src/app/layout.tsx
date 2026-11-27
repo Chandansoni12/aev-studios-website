@@ -1,28 +1,70 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
+import { SeoSchemaBuilder } from '@/lib/seo/SeoSchemaBuilder';
+
+const seoGraph = new SeoSchemaBuilder().buildGraph();
 
 export const metadata: Metadata = {
-  title: 'AEV Studios — AI Automation & Growth Systems',
+  title: {
+    default: 'AEV Studios — Website & AI Automation Agency in Jagdalpur, India',
+    template: '%s | AEV Studios',
+  },
   description:
-    'AEV Studios designs and builds intelligent growth systems, AI workflows, and digital infrastructure that move businesses forward.',
+    'AEV Studios is a leading website agency and AI automation studio in Jagdalpur, Chhattisgarh, founded by Chandan Soni. We build custom websites, AI workflows, Growth OS, and CRM systems.',
+  keywords: [
+    'AEV Studios',
+    'AEV Studio',
+    'About AEV Studios',
+    'agency in Jagdalpur',
+    'website agency in Jagdalpur',
+    'web design agency Jagdalpur',
+    'digital agency Jagdalpur',
+    'AI automation agency Jagdalpur',
+    'website developer in Jagdalpur',
+    'Chhattisgarh web agency',
+    'Chandan Soni AEV Studios',
+    'AI Growth Systems',
+    'Custom Web Experiences',
+    'CRM & Lead Infrastructure',
+  ],
+  authors: [{ name: 'Chandan Soni', url: 'https://www.linkedin.com/in/chandan-soni-4917012b6/' }],
+  creator: 'AEV Studios',
+  publisher: 'AEV Studios',
   metadataBase: new URL('https://aevstudios.com'),
+  alternates: {
+    canonical: 'https://aevstudios.com',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-snippet': -1,
+      'max-image-preview': 'large',
+      'max-video-preview': -1,
+    },
+  },
   icons: {
     icon: '/favicon.png',
     shortcut: '/favicon.png',
     apple: '/favicon.png',
   },
   openGraph: {
-    title: 'AEV Studios — AI Automation & Growth Systems',
+    title: 'AEV Studios — Website & AI Automation Agency in Jagdalpur',
     description:
-      'We don’t just build digital solutions. We engineer the systems that move businesses forward.',
+      'We don’t just build digital solutions. We engineer custom websites, AI workflows, and growth systems that move businesses forward.',
     type: 'website',
+    locale: 'en_IN',
+    siteName: 'AEV Studios',
     url: 'https://aevstudios.com',
+    images: [{ url: '/images/aev-logo-dark.png', alt: 'AEV Studios Logo' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'AEV Studios — AI Automation & Growth Systems',
+    title: 'AEV Studios — Website & AI Automation Agency in Jagdalpur',
     description:
-      'We don’t just build digital solutions. We engineer the systems that move businesses forward.',
+      'Custom websites, AI workflows, and CRM infrastructure by Chandan Soni — Jagdalpur, Chhattisgarh.',
   },
 };
 
@@ -49,6 +91,10 @@ export default function RootLayout({
         />
         <link rel="stylesheet" href="/framer-fonts.css" />
         <link rel="stylesheet" href="/framer.css" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(seoGraph) }}
+        />
       </head>
       <body>{children}</body>
     </html>
