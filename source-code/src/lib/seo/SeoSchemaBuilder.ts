@@ -51,7 +51,6 @@ export class SeoSchemaBuilder {
       },
       sameAs: [
         'https://www.linkedin.com/in/chandan-soni-4917012b6/',
-        'https://www.instagram.com/aevstudios',
       ],
       hasOfferCatalog: {
         '@type': 'OfferCatalog',
