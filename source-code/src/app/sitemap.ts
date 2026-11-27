@@ -1,15 +1,28 @@
 import type { MetadataRoute } from 'next';
 
+const BASE_URL = 'https://www.aevstudios.in';
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://aevstudios.com';
   const lastModified = new Date();
 
-  const routes = ['', '/about', '/services', '/solutions', '/work', '/process', '/contact'];
+  const routes: Array<{
+    path: string;
+    priority: number;
+    changeFrequency: 'weekly' | 'monthly';
+  }> = [
+    { path: '',           priority: 1.0, changeFrequency: 'weekly'  },
+    { path: '/services',  priority: 0.9, changeFrequency: 'monthly' },
+    { path: '/solutions', priority: 0.9, changeFrequency: 'monthly' },
+    { path: '/contact',   priority: 0.9, changeFrequency: 'monthly' },
+    { path: '/work',      priority: 0.8, changeFrequency: 'monthly' },
+    { path: '/about',     priority: 0.7, changeFrequency: 'monthly' },
+    { path: '/process',   priority: 0.6, changeFrequency: 'monthly' },
+  ];
 
   return routes.map((route) => ({
-    url: `${baseUrl}${route}`,
+    url: `${BASE_URL}${route.path}`,
     lastModified,
-    changeFrequency: route === '' ? 'weekly' : 'monthly',
-    priority: route === '' ? 1.0 : 0.8,
+    changeFrequency: route.changeFrequency,
+    priority: route.priority,
   }));
 }
