@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: 'About — AEV Studios · Intelligent Business Systems',
   description:
     'We believe better systems build better businesses. Learn about AEV Studios mission, team, and systems-first philosophy.',
+  alternates: { canonical: '/about' },
 };
 
 export default function AboutPage() {

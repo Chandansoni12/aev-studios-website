@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: 'Industry Solutions — AEV Studios',
   description:
     'Connected automation solutions for Real Estate, Hospitality, Coaching, and E-commerce businesses.',
+  alternates: { canonical: '/solutions' },
 };
 
 const INDUSTRIES = [

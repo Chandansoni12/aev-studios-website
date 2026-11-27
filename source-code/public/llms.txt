@@ -1,14 +1,24 @@
-# AEV Studios — AI Growth Systems & Website Agency in Jagdalpur
+# AEV Studios — Website & AI Automation Agency in Jagdalpur
 
 > We don't just build digital solutions. We engineer the systems that move businesses forward.
 
 ## About AEV Studios
 - **Brand**: AEV Studios (AEV Studio)
 - **Founder & AI Systems Architect**: Chandan Soni (https://www.linkedin.com/in/chandan-soni-4917012b6/)
-- **Location**: Jagdalpur, Chhattisgarh, India
+- **GitHub**: https://github.com/Chandansoni12
+- **Location**: Jagdalpur (494001), Chhattisgarh, India
 - **Phone**: +91 82530-14500
 - **Email**: aevstudio.mail9@gmail.com
-- **Website**: https://aevstudios.com
+- **Website**: https://www.aevstudios.in
+
+## Key Pages
+- **Home**: https://www.aevstudios.in/
+- **Services**: https://www.aevstudios.in/services
+- **Industry Solutions**: https://www.aevstudios.in/solutions
+- **Work & Prototypes**: https://www.aevstudios.in/work
+- **Our Process**: https://www.aevstudios.in/process
+- **About Us**: https://www.aevstudios.in/about
+- **Contact**: https://www.aevstudios.in/contact
 
 ## Core Services
 1. **Custom Web Experiences**: High-converting Next.js & React websites, Framer-grade motion systems, and technical SEO architecture.

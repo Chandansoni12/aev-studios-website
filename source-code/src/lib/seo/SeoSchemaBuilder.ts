@@ -1,5 +1,33 @@
+export interface FaqItem {
+  readonly question: string;
+  readonly answer: string;
+}
+
+export const HOMEPAGE_FAQS: readonly FaqItem[] = [
+  {
+    question: 'What is AEV Studios?',
+    answer:
+      'AEV Studios is an AI growth systems and website agency based in Jagdalpur, Chhattisgarh, India, founded by Chandan Soni. It specializes in custom Next.js and React websites, AI workflows, Growth Operating Systems, and CRM automation.',
+  },
+  {
+    question: 'Where is AEV Studios located?',
+    answer:
+      'AEV Studios is located in Jagdalpur (494001), Chhattisgarh, India, serving businesses in Jagdalpur, across Chhattisgarh and India, as well as global clients.',
+  },
+  {
+    question: 'What services does AEV Studios offer as a website and automation agency in Jagdalpur?',
+    answer:
+      'AEV Studios offers Custom Web Experiences (Next.js, React, technical SEO), AI Workflows & Automation (n8n, Make, API integrations), Growth Operating Systems, and CRM & Lead Infrastructure starting at ₹24,999.',
+  },
+  {
+    question: 'How can I contact AEV Studios?',
+    answer:
+      'You can contact AEV Studios by phone at +91 82530-14500, by email at aevstudio.mail9@gmail.com, or via the project enquiry form at https://www.aevstudios.in/contact.',
+  },
+] as const;
+
 export class SeoSchemaBuilder {
-  private readonly baseUrl = 'https://aevstudios.com';
+  private readonly baseUrl = 'https://www.aevstudios.in';
   private readonly brandName = 'AEV Studios';
 
   public buildGraph(): Record<string, unknown> {
@@ -7,9 +35,25 @@ export class SeoSchemaBuilder {
       '@context': 'https://schema.org',
       '@graph': [
         this.buildLocalBusinessSchema(),
+        this.buildPersonSchema(),
         this.buildWebsiteSchema(),
-        this.buildFaqSchema(),
       ],
+    };
+  }
+
+  public buildFaqSchema(): Record<string, unknown> {
+    return {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      '@id': `${this.baseUrl}/#faq`,
+      mainEntity: HOMEPAGE_FAQS.map((item) => ({
+        '@type': 'Question',
+        name: item.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: item.answer,
+        },
+      })),
     };
   }
 
@@ -31,6 +75,7 @@ export class SeoSchemaBuilder {
         '@type': 'PostalAddress',
         addressLocality: 'Jagdalpur',
         addressRegion: 'Chhattisgarh',
+        postalCode: '494001',
         addressCountry: 'IN',
       },
       geo: {
@@ -44,13 +89,11 @@ export class SeoSchemaBuilder {
         { '@type': 'Country', name: 'India' },
       ],
       founder: {
-        '@type': 'Person',
-        name: 'Chandan Soni',
-        jobTitle: 'Founder & AI Systems Architect',
-        sameAs: 'https://www.linkedin.com/in/chandan-soni-4917012b6/',
+        '@id': `${this.baseUrl}/#founder`,
       },
       sameAs: [
         'https://www.linkedin.com/in/chandan-soni-4917012b6/',
+        'https://github.com/Chandansoni12',
       ],
       hasOfferCatalog: {
         '@type': 'OfferCatalog',
@@ -91,6 +134,24 @@ export class SeoSchemaBuilder {
     };
   }
 
+  private buildPersonSchema(): Record<string, unknown> {
+    return {
+      '@type': 'Person',
+      '@id': `${this.baseUrl}/#founder`,
+      name: 'Chandan Soni',
+      jobTitle: 'Founder & AI Systems Architect',
+      worksFor: {
+        '@id': `${this.baseUrl}/#organization`,
+      },
+      url: `${this.baseUrl}/about`,
+      image: `${this.baseUrl}/images/chandan-founder.jpg`,
+      sameAs: [
+        'https://www.linkedin.com/in/chandan-soni-4917012b6/',
+        'https://github.com/Chandansoni12',
+      ],
+    };
+  }
+
   private buildWebsiteSchema(): Record<string, unknown> {
     return {
       '@type': 'WebSite',
@@ -99,47 +160,6 @@ export class SeoSchemaBuilder {
       name: `${this.brandName} — Website & AI Automation Agency in Jagdalpur`,
       publisher: { '@id': `${this.baseUrl}/#organization` },
       inLanguage: 'en-IN',
-    };
-  }
-
-  private buildFaqSchema(): Record<string, unknown> {
-    return {
-      '@type': 'FAQPage',
-      '@id': `${this.baseUrl}/#faq`,
-      mainEntity: [
-        {
-          '@type': 'Question',
-          name: 'What is AEV Studios?',
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: 'AEV Studios is an AI growth systems and website agency based in Jagdalpur, Chhattisgarh, India, founded by Chandan Soni. It specializes in custom websites, AI workflows, Growth Operating Systems, and CRM automation.',
-          },
-        },
-        {
-          '@type': 'Question',
-          name: 'Where is AEV Studios located?',
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: 'AEV Studios is located in Jagdalpur, Chhattisgarh, India, serving businesses in Jagdalpur, across India, and globally.',
-          },
-        },
-        {
-          '@type': 'Question',
-          name: 'What services does AEV Studios offer as a website and automation agency in Jagdalpur?',
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: 'AEV Studios offers Custom Web Experiences (Next.js, React, SEO), AI Workflows & Automation, Growth Operating Systems, and CRM & Lead Infrastructure starting at ₹24,999.',
-          },
-        },
-        {
-          '@type': 'Question',
-          name: 'How can I contact AEV Studios?',
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: 'You can contact AEV Studios by phone at +91 82530-14500, by email at aevstudio.mail9@gmail.com, or via the project enquiry form at aevstudios.com/contact.',
-          },
-        },
-      ],
     };
   }
 }

@@ -194,8 +194,10 @@ a[href*="x.com"] {
 
   /* Hero: fit AEV STUDIOS cleanly without right-edge clipping */
   #hero {
+    padding-top: 84px !important;
     padding-left: 16px !important;
     padding-right: 16px !important;
+    gap: 12px !important;
   }
 
   #hero .framer-8ck2yw {
@@ -225,8 +227,10 @@ a[href*="x.com"] {
   }
 
   #main #hero svg.framer-d1vi1q h1 {
-    font-size: 92px !important;
-    --framer-font-size: 92px !important;
+    font-size: 132px !important;
+    --framer-font-size: 132px !important;
+    font-weight: 700 !important;
+    --framer-font-weight: 700 !important;
     letter-spacing: -0.04em !important;
     --framer-letter-spacing: -0.04em !important;
     line-height: 0.95 !important;
@@ -239,12 +243,12 @@ a[href*="x.com"] {
   #main .framer-4NkYy .framer-i5xq41 {
     width: 100% !important;
     max-width: 100% !important;
-    padding: 28px 0 !important;
+    padding: 20px 0 !important;
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
     position: relative !important;
-    margin: 12px auto 0 auto !important;
+    margin: 4px auto 0 auto !important;
   }
 
   #main .framer-4NkYy .framer-1m9pwpb {

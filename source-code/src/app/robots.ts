@@ -8,10 +8,22 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
       {
-        userAgent: ['Googlebot', 'GPTBot', 'OAI-SearchBot', 'PerplexityBot', 'ClaudeBot'],
+        userAgent: [
+          'Googlebot',
+          'Google-Extended',
+          'GPTBot',
+          'OAI-SearchBot',
+          'ChatGPT-User',
+          'PerplexityBot',
+          'ClaudeBot',
+          'Claude-Web',
+          'Applebot-Extended',
+          'Bingbot',
+        ],
         allow: '/',
       },
     ],
-    sitemap: 'https://aevstudios.com/sitemap.xml',
+    sitemap: 'https://www.aevstudios.in/sitemap.xml',
+    host: 'https://www.aevstudios.in',
   };
 }

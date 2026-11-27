@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: 'Our Process — AEV Studios · Delivery Framework',
   description:
     'From business challenges to intelligent solutions. Explore AEV Studios six-stage engineering delivery process.',
+  alternates: { canonical: '/process' },
 };
 
 const STAGES = [

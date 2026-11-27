@@ -4,6 +4,7 @@ import Section0 from '@/components/404-section-0';
 
 export const metadata: Metadata = {
   title: '404',
+  robots: { index: false, follow: true },
 };
 
 export default function NotFoundPage() {
