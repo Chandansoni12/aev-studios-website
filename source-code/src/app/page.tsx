@@ -3,7 +3,8 @@ import Script from 'next/script';
 import Section0 from '@/components/home-section-0';
 
 export const metadata: Metadata = {
-  title: 'AEV Studios — AI Automation & Growth Systems',
+  title: 'AEV Studios — Website & AI Automation Agency in Jagdalpur',
+  alternates: { canonical: '/' },
   description:
     'AEV Studios designs, builds and integrates intelligent business systems that help companies automate operations and scale.',
 };
