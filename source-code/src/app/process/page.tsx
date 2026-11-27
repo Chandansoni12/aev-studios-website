@@ -4,6 +4,7 @@ import SiteNav from '@/components/shared/SiteNav';
 import SiteFooter from '@/components/shared/SiteFooter';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/process' },
   title: 'Our Process — AEV Studios · Delivery Framework',
   description:
     'From business challenges to intelligent solutions. Explore AEV Studios six-stage engineering delivery process.',

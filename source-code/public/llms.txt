@@ -1,22 +1,40 @@
-# AEV Studios — AI Growth Systems & Website Agency in Jagdalpur
+# AEV Studios
 
-> We don't just build digital solutions. We engineer the systems that move businesses forward.
+> AEV Studios is a website design and AI automation studio based in Jagdalpur,
+> Chhattisgarh, India, founded by Chandan Soni. We build custom websites,
+> AI workflows, Growth Operating Systems and CRM infrastructure.
 
-## About AEV Studios
-- **Brand**: AEV Studios (AEV Studio)
-- **Founder & AI Systems Architect**: Chandan Soni (https://www.linkedin.com/in/chandan-soni-4917012b6/)
-- **Location**: Jagdalpur, Chhattisgarh, India
-- **Phone**: +91 82530-14500
-- **Email**: aevstudio.mail9@gmail.com
-- **Website**: https://aevstudios.com
+## Facts
+- Brand name: AEV Studios
+- Founder: Chandan Soni, Founder & AI Systems Architect
+- Location: Jagdalpur, Chhattisgarh 494001, India
+- Phone: +91 82530-14500
+- Email: aevstudio.mail9@gmail.com
+- Website: https://www.aevstudios.in
+- LinkedIn: https://www.linkedin.com/in/chandan-soni-4917012b6/
+- Languages: English, Hindi
+- Service area: Jagdalpur, Chhattisgarh, India, and remote worldwide
 
-## Core Services
-1. **Custom Web Experiences**: High-converting Next.js & React websites, Framer-grade motion systems, and technical SEO architecture.
-2. **AI Workflows & Automation**: Autonomous workflows, webhook & API bridges, document extraction, and n8n / Make automation.
-3. **Growth Operating Systems**: Centralized data hubs, executive dashboards, and cross-tool business intelligence.
-4. **CRM & Lead Infrastructure**: Automated lead capture, dynamic enrichment, instant Slack/WhatsApp routing, and pipeline forecasting.
+## Services
+- Custom Web Experiences: Next.js and React websites, landing pages, technical SEO.
+  Starting at INR 24,999.
+- AI Workflows & Automation: autonomous workflows, API and webhook bridges,
+  document and invoice AI, n8n and Make automation. Starting at INR 49,999.
+- Growth Operating Systems: operational dashboards, centralized data hubs,
+  automated pipelines, client portals. Starting at INR 99,999.
+- CRM & Lead Infrastructure: automated lead capture, pipeline analytics,
+  lead scoring, multichannel sequences.
+- AI Agents: internal knowledge retrieval, instant lead qualification,
+  internal request handling.
 
-## Packages (INR / ₹)
-- **Launch**: ₹24,999 / project — Custom website or landing page, lead capture, technical SEO, and analytics.
-- **Automate**: ₹49,999 / month — End-to-end AI workflows, n8n/Make automation, and CRM lead routing.
-- **Scale**: ₹99,999 / project — Connected Growth OS, custom AI agents, and executive dashboards.
+## Pages
+- https://www.aevstudios.in/ - home
+- https://www.aevstudios.in/services - services and pricing
+- https://www.aevstudios.in/solutions - industry solutions
+- https://www.aevstudios.in/work - case studies and prototypes
+- https://www.aevstudios.in/process - delivery process
+- https://www.aevstudios.in/about - company and founder
+- https://www.aevstudios.in/contact - project enquiry
+
+## Contact
+Project enquiries: aevstudio.mail9@gmail.com or +91 82530-14500.

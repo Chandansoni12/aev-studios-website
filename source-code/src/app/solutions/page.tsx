@@ -4,6 +4,7 @@ import SiteNav from '@/components/shared/SiteNav';
 import SiteFooter from '@/components/shared/SiteFooter';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/solutions' },
   title: 'Industry Solutions — AEV Studios',
   description:
     'Connected automation solutions for Real Estate, Hospitality, Coaching, and E-commerce businesses.',

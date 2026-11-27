@@ -1,5 +1,5 @@
 export class SeoSchemaBuilder {
-  private readonly baseUrl = 'https://aevstudios.com';
+  private readonly baseUrl = 'https://www.aevstudios.in';
   private readonly brandName = 'AEV Studios';
 
   public buildGraph(): Record<string, unknown> {
@@ -136,7 +136,7 @@ export class SeoSchemaBuilder {
           name: 'How can I contact AEV Studios?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'You can contact AEV Studios by phone at +91 82530-14500, by email at aevstudio.mail9@gmail.com, or via the project enquiry form at aevstudios.com/contact.',
+            text: 'You can contact AEV Studios by phone at +91 82530-14500, by email at aevstudio.mail9@gmail.com, or via the project enquiry form at aevstudios.in/contact.',
           },
         },
       ],

@@ -5,6 +5,7 @@ import SiteFooter from '@/components/shared/SiteFooter';
 import { AEV_CONTENT } from '@/lib/content/aev-content';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/about' },
   title: 'About — AEV Studios · Intelligent Business Systems',
   description:
     'We believe better systems build better businesses. Learn about AEV Studios mission, team, and systems-first philosophy.',

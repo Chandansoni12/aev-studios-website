@@ -30,10 +30,7 @@ export const metadata: Metadata = {
   authors: [{ name: 'Chandan Soni', url: 'https://www.linkedin.com/in/chandan-soni-4917012b6/' }],
   creator: 'AEV Studios',
   publisher: 'AEV Studios',
-  metadataBase: new URL('https://aevstudios.com'),
-  alternates: {
-    canonical: 'https://aevstudios.com',
-  },
+  metadataBase: new URL('https://www.aevstudios.in'),
   robots: {
     index: true,
     follow: true,
@@ -57,7 +54,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_IN',
     siteName: 'AEV Studios',
-    url: 'https://aevstudios.com',
+    url: 'https://www.aevstudios.in',
     images: [{ url: '/images/aev-logo-dark.png', alt: 'AEV Studios Logo' }],
   },
   twitter: {
@@ -79,7 +76,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en-US" className="lenis">
+    <html lang="en-IN" className="lenis">
       <head>
         <link rel="icon" href="/favicon.png" type="image/png" />
         <link rel="preload" as="video" href="/videos/AEV_Studios_final.mp4" type="video/mp4" />

@@ -5,6 +5,7 @@ import SiteFooter from '@/components/shared/SiteFooter';
 import { AEV_CONTENT } from '@/lib/content/aev-content';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/work' },
   title: 'Work & Prototypes — AEV Studios',
   description:
     'Explore AEV Studios showcased prototypes and digital growth systems: Intelligent Lead Engine, Web Experiences, Growth OS, and AI Operations Assistant.',
