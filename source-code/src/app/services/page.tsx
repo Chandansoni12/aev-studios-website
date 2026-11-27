@@ -8,7 +8,6 @@ export const metadata: Metadata = {
   title: 'Services — AEV Studios · AI Automation & Growth Systems',
   description:
     'Explore our five core capabilities: AI Workflows, Growth OS, Web Experiences, CRM Infrastructure, and AI Agents.',
-  alternates: { canonical: '/services' },
 };
 
 export default function ServicesPage() {

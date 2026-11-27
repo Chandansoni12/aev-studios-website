@@ -8,7 +8,6 @@ export const metadata: Metadata = {
   title: 'Work & Prototypes — AEV Studios',
   description:
     'Explore AEV Studios showcased prototypes and digital growth systems: Intelligent Lead Engine, Web Experiences, Growth OS, and AI Operations Assistant.',
-  alternates: { canonical: '/work' },
 };
 
 export default function WorkPage() {
