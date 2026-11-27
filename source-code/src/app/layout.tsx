@@ -40,6 +40,7 @@ export default function RootLayout({
     <html lang="en-US" className="lenis">
       <head>
         <link rel="icon" href="/favicon.png" type="image/png" />
+        <link rel="preload" as="video" href="/videos/AEV_Studios_final.mp4" type="video/mp4" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link

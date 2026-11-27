@@ -71,7 +71,11 @@ section[data-framer-name="Section - Brands and Statistics"],
 [data-framer-name="Team Members"] > *:has(.framer-jajp6b-container),
 .framer-3flzw6-container,
 .framer-zf5j0c-container,
-.framer-jajp6b-container {
+.framer-jajp6b-container,
+.framer-mgetgi-container,
+.framer-4b3siv-container,
+.ssr-variant:has(.framer-mgetgi-container),
+.ssr-variant:has(.framer-4b3siv-container) {
   display: none !important;
   visibility: hidden !important;
   opacity: 0 !important;
@@ -126,6 +130,17 @@ section[data-framer-name="Section - Brands and Statistics"],
   word-break: normal !important;
   overflow-wrap: normal !important;
   hyphens: none !important;
+}
+
+/* Founder photo fit inside scalloped mask + disable cursor pointer on hero video */
+.framer-nnksyu-container .framer-cyojnf img {
+  object-fit: cover !important;
+  object-position: center 20% !important;
+  transform: scale(1.18) !important;
+}
+
+.framer-1m9pwpb {
+  cursor: default !important;
 }
 
 /* ===== Mobile Responsive Layout (<= 809.98px) ===== */
