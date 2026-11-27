@@ -5,6 +5,7 @@ import SiteFooter from '@/components/shared/SiteFooter';
 import { AEV_CONTENT } from '@/lib/content/aev-content';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/services' },
   title: 'Services — AEV Studios · AI Automation & Growth Systems',
   description:
     'Explore our five core capabilities: AI Workflows, Growth OS, Web Experiences, CRM Infrastructure, and AI Agents.',
